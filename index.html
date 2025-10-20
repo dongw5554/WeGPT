@@ -1,24 +1,34 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <title>WeGPT资讯每日推送</title>
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WeGPT每日资讯</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="header">
-    <h1>🗞️ WeGPT资讯</h1>
-    <div class="weather" id="weather"></div>
-  </div>
 
-  <div id="news-container"></div>
+<div class="header">
+    <h1>🗞️ WeGPT 每日资讯</h1>
+    <div class="weather" id="weather">深圳：天气数据暂缺</div>
+</div>
 
-  <div class="section stats" id="stats"></div>
+<div class="section" id="news-summary">
+    <!-- 📰 资讯摘要 -->
+</div>
 
-  <footer>
-    <p>Powered by WeGPT AI</p>
-  </footer>
+<div class="section" id="news-details">
+    <!-- 🤖 AI资讯详细部分 -->
+</div>
 
-  <script src="script.js"></script>
+<div class="stats" id="stats">
+    <!-- 📊 数据统计 -->
+</div>
+
+<footer>
+    *Powered by WeGPT AI*
+</footer>
+
+<script src="script.js"></script>
 </body>
 </html>
