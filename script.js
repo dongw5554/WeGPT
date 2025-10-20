@@ -4,7 +4,7 @@ const newsSummaryDiv = document.getElementById('news-summary');
 const newsDetailsDiv = document.getElementById('news-details');
 const statsDiv = document.getElementById('stats');
 
-fetch('data/news-latest.json')
+fetch('./data/news-latest.json')
 .then(response => response.json())
 .then(data => {
     // 天气
