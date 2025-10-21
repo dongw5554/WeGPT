@@ -4,7 +4,25 @@ const newsSummaryDiv = document.getElementById('news-summary');
 const newsDetailsDiv = document.getElementById('news-details');
 const statsDiv = document.getElementById('stats');
 
-fetch('data/news-latest.json')
+
+// 获取当前时间（UTC）
+const now = new Date();
+
+// 北京时间 = UTC + 8
+const beijingOffset = 8 * 60; // 分钟
+const utcOffset = now.getTimezoneOffset(); // 分钟
+const beijingTime = new Date(now.getTime() + (beijingOffset + utcOffset) * 60 * 1000);
+
+// 格式化日期 YYYY-MM-DD
+const yyyy = beijingTime.getFullYear();
+const mm = String(beijingTime.getMonth() + 1).padStart(2, '0');
+const dd = String(beijingTime.getDate()).padStart(2, '0');
+
+// 拼接文件名
+const fileName = `news-${yyyy}-${mm}-${dd}.json`;
+
+// fetch 当天文件
+fetch(`data/${fileName}`)
 .then(response => response.json())
 .then(data => {
     // 初始化
