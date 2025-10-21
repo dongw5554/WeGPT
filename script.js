@@ -22,10 +22,11 @@ const fileName = `news-${yyyy}-${mm}-${dd}.json`;
 
 // Base64 -> JSON 安全解码（支持中文）
 function base64ToJson(base64Str) {
-    // 去掉空格和换行
-    base64Str = base64Str.replace(/\s+/g, '');
-    // atob -> 二进制字符串
+    // 去掉换行和空格
+    base64Str = base64Str.replace(/[\r\n\s]+/g, '');
+    // Base64 decode to binary string
     const binaryStr = atob(base64Str);
+    // 转成 Uint8Array
     const len = binaryStr.length;
     const bytes = new Uint8Array(len);
     for (let i = 0; i < len; i++) {
@@ -33,6 +34,7 @@ function base64ToJson(base64Str) {
     }
     // UTF-8 解码
     const decodedStr = new TextDecoder('utf-8').decode(bytes);
+    // JSON parse
     return JSON.parse(decodedStr);
 }
 
