@@ -1,0 +1,38 @@
+{
+  "fileName": "news-2025-10-21.json",
+  "content": [
+    {
+      "weatherStr": "深圳：阴，气温27~28℃"
+    },
+    {
+      "output": {
+        "id": "id_2116046588",
+        "title": "S&amp;P 500 Extends Rally as Apple Touches a Record, Earnings Beat",
+        "title_zh": "标普500指数延续涨势，苹果股价触及纪录高位，业绩超预期",
+        "pubdate": "2025-10-20T14:31:32.000Z",
+        "creator": "Felice Maranz",
+        "source": "Bloomberg Technology",
+        "content": "",
+        "ai_summary": "标普500指数连续第二天上涨，主要受中美贸易紧张局势可能缓解的迹象推动。优于预期的企业盈利趋势和苹果公司股价上涨——该公司今年首次创下纪录高位，分析师强调iPhone需求趋势改善——也提振了市场情绪。",
+        "attentionscore": "91.50",
+        "wegpt_comment": "这是一篇具有重要市场意义的正面财经报道。来源彭博社具有高度权威性，作者署名明确，内容聚焦于美股市场的重要动态。文章情感积极，反映了市场对贸易局势缓解、企业盈利改善和科技股表现的乐观情绪。苹果股价创今年新高和iPhone需求改善是重要看点。内容质量较高，但篇幅较短，缺乏更多细节分析。综合评分91.5分，属于高质量财经新闻，对投资者具有重要参考价值。"
+      }
+    },
+    {
+      "output": {
+        "id": "id_468857030",
+        "title": "Vietnam’s Masan in Talks With Costco to Sell Its Noodles in US",
+        "title_zh": "越南Masan集团与Costco洽谈在美国销售其面条产品",
+        "pubdate": "2025-10-20T03:31:57.000Z",
+        "creator": "Nguyen Dieu Tu Uyen",
+        "source": "Bloomberg Technology",
+        "content": "",
+        "ai_summary": "越南Masan集团正与美国零售巨头Costco洽谈，计划在Costco美国门店销售其品牌面条、鱼露和咖啡产品，这标志着该越南企业集团正在加速其全球扩张战略。",
+        "attentionscore": "90.25",
+        "wegpt_comment": "这是一篇具有积极商业意义的正面新闻报道。来源Bloomberg Technology具有高度权威性，作者署名明确。新闻内容聚焦于越南Masan集团与国际零售巨头Costco的合作谈判，体现了越南企业国际化扩张的重要进展。合作涉及面条、鱼露和咖啡等越南特色食品，具有重要的商业价值。内容质量良好，但篇幅较短，缺乏更多合作细节和战略背景。情感积极，反映了亚洲企业全球化的趋势。综合评分90.25分，属于高质量的国际贸易新闻。"
+      }
+    }
+  ],
+  "news_count": 2,
+  "status": "success"
+}
