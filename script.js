@@ -20,7 +20,7 @@ const dd = String(beijingTime.getDate()).padStart(2, '0');
 // 拼接文件名
 const fileName = `news-${yyyy}-${mm}-${dd}.json`;
 
-// ✅ fetch 明文 JSON 文件（无 Base64）
+// fetch 明文 JSON 文件（无 Base64）
 fetch(`data/${fileName}`)
     .then(response => {
         if (!response.ok) throw new Error(`HTTP 错误: ${response.status}`);
