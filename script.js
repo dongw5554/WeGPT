@@ -37,9 +37,8 @@ fetch(`data/${fileName}`)
 .then(response => response.text())  // ✅ 先读取原始文本（Base64）
 .then(base64Data => {
     // 解码 Base64
-    const jsonStr = atob(base64Data); // 浏览器中使用 atob
-    const data = JSON.parse(jsonStr); // 得到 JSON 对象
-
+    const data = base64ToJson(base64Data);
+    
     // 初始化
     let weatherText = "天气数据暂缺";
     let news = [];
