@@ -21,6 +21,17 @@ const dd = String(beijingTime.getDate()).padStart(2, '0');
 // 拼接文件名
 const fileName = `news-${yyyy}-${mm}-${dd}.json`;
 
+function base64ToJson(base64Str) {
+    const binaryStr = atob(base64Str);
+    const len = binaryStr.length;
+    const bytes = new Uint8Array(len);
+    for (let i = 0; i < len; i++) {
+        bytes[i] = binaryStr.charCodeAt(i);
+    }
+    const decodedStr = new TextDecoder('utf-8').decode(bytes);
+    return JSON.parse(decodedStr);
+}
+
 // fetch 当天文件
 fetch(`data/${fileName}`)
 .then(response => response.text())  // ✅ 先读取原始文本（Base64）
