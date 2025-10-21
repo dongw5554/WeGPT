@@ -22,28 +22,29 @@ const fileName = `news-${yyyy}-${mm}-${dd}.json`;
 
 // Base64 -> JSON 安全解码（支持中文）
 function base64ToJson(base64Str) {
-    // 去掉换行和空格
-    base64Str = base64Str.replace(/[\r\n\s]+/g, '');
-    // Base64 decode to binary string
-    const binaryStr = atob(base64Str);
-    // 转成 Uint8Array
-    const len = binaryStr.length;
-    const bytes = new Uint8Array(len);
-    for (let i = 0; i < len; i++) {
-        bytes[i] = binaryStr.charCodeAt(i);
-    }
-    // UTF-8 解码
-    const decodedStr = new TextDecoder('utf-8').decode(bytes);
-    // JSON parse
-    return JSON.parse(decodedStr);
-}
+    // 去掉换行、空格
+    base64Str = base64Str.replace(/\s/g, '');
 
+    // UTF-8安全解码
+    try {
+        const decoded = decodeURIComponent(
+            Array.prototype.map.call(atob(base64Str), c => {
+                return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+            }).join('')
+        );
+        return JSON.parse(decoded);
+    } catch (err) {
+        console.error("Base64 解码失败:", err);
+        return null;
+    }
+}
 // fetch 当天文件
 fetch(`data/${fileName}`)
-.then(response => response.text())  // 先读取原始 Base64 文本
+.then(res => res.text())  // 先读文本
 .then(base64Data => {
     // 解码 Base64 -> JSON
     const data = base64ToJson(base64Data);
+    if (!data) throw new Error("JSON 解析失败");
 
     // 初始化
     let weatherText = "天气数据暂缺";
