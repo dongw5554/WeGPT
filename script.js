@@ -23,8 +23,12 @@ const fileName = `news-${yyyy}-${mm}-${dd}.json`;
 
 // fetch 当天文件
 fetch(`data/${fileName}`)
-.then(response => response.json())
-.then(data => {
+.then(response => response.text())  // ✅ 先读取原始文本（Base64）
+.then(base64Data => {
+    // 解码 Base64
+    const jsonStr = atob(base64Data); // 浏览器中使用 atob
+    const data = JSON.parse(jsonStr); // 得到 JSON 对象
+
     // 初始化
     let weatherText = "天气数据暂缺";
     let news = [];
