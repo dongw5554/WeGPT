@@ -1,0 +1,33 @@
+[
+  {
+    "weatherStr": "深圳：阴，气温27~28℃"
+  },
+  {
+    "output": {
+      "id": "id_873886269",
+      "title": "Halliburton Is Branching Into Data-Center Power Supplies as Frack Demand Stagnates",
+      "title_zh": "哈里伯顿因压裂需求停滞而进军数据中心电源业务",
+      "pubdate": "2025-10-21T20:01:32.000Z",
+      "creator": "Emma Sanchez",
+      "source": "Bloomberg Technology",
+      "content": "",
+      "ai_summary": "全球最大油田服务公司哈里伯顿因全球压裂需求放缓，正在向数据中心发电领域进行业务多元化，反映了传统能源企业向新兴技术基础设施的战略转型。",
+      "attentionscore": "91.50",
+      "wegpt_comment": "这是一篇具有重要行业洞察的正面商业报道。来源Bloomberg Technology具有高度权威性，作者Emma Sanchez署名明确。文章揭示了哈里伯顿这一全球油田服务巨头在压裂需求停滞背景下的战略转型，进军数据中心电源业务体现了传统能源企业向数字基础设施领域的多元化发展。内容质量较高，准确捕捉了行业趋势变化，但篇幅较短，缺乏更多转型细节和投资规模信息。综合评分91.5分，属于高质量的行业转型报道。"
+    }
+  },
+  {
+    "output": {
+      "id": "id_47719680",
+      "title": "OpenAI Takes On Google With AI-Powered ChatGPT Web Browser",
+      "title_zh": "OpenAI推出AI驱动的ChatGPT网络浏览器挑战谷歌",
+      "pubdate": "2025-10-21T16:43:43.000Z",
+      "creator": "Rachel Metz",
+      "source": "Bloomberg Technology",
+      "content": "",
+      "ai_summary": "OpenAI发布了首款人工智能驱动的网络浏览器，这使得ChatGPT制造商在搜索领域与谷歌展开直接竞争，标志着AI巨头在浏览器市场的新布局。",
+      "attentionscore": "90.50",
+      "wegpt_comment": "这是一篇具有重要行业意义的正面科技新闻。来源Bloomberg Technology作为权威财经媒体具有高度可靠性，作者Rachel Metz署名明确。内容聚焦于OpenAI挑战谷歌的重大战略举措，情感积极反映了AI行业的激烈竞争和创新活力。新闻内容简洁明了，但篇幅较短，缺乏产品细节和市场竞争分析。综合评分90.5分，属于高质量的科技行业报道，对理解AI巨头竞争格局具有重要价值。"
+    }
+  }
+]
