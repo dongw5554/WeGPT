@@ -4,16 +4,26 @@ const newsSummaryDiv = document.getElementById('news-summary');
 const newsDetailsDiv = document.getElementById('news-details');
 const statsDiv = document.getElementById('stats');
 
-// 获取美国东部时间
+// 获取美国东部时间 - 修复版本
 const now = new Date();
 const usTimeOptions = { 
     timeZone: "America/New_York", 
     year: 'numeric', 
-    month: '2-digit', 
-    day: '2-digit' 
+    month: '2-digit',  // 确保两位月份
+    day: '2-digit',    // 确保两位日期
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
 };
-const usDateStr = now.toLocaleDateString('zh-CN', usTimeOptions);
-const [yyyy, mm, dd] = usDateStr.split('/');
+
+// 方法1：直接获取格式化部件（推荐）
+const usDate = now.toLocaleDateString('en-US', { 
+    timeZone: "America/New_York",
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+});
+const [mm, dd, yyyy] = usDate.split('/'); // 注意美式日期格式 MM/DD/YYYY
 
 // 设置日期显示
 document.getElementById('date').textContent = `美国东部时间：${yyyy}年${mm}月${dd}日`;
@@ -27,7 +37,11 @@ introDiv.innerHTML = `
 // 初始化新闻数组
 let news = [];
 
-fetch(`data/news-${yyyy}-${mm}-${dd}.json`)
+// 确保文件名格式正确
+const dataFileName = `data/news-${yyyy}-${mm}-${dd}.json`;
+console.log('尝试加载文件:', dataFileName); // 调试用
+
+fetch(dataFileName)
 .then(response => response.json())
 .then(data => {
     // 处理数据
