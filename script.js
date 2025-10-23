@@ -27,7 +27,7 @@ introDiv.innerHTML = `
 // 初始化新闻数组
 let news = [];
 
-fetch('data/news-${yyyy}年${mm}月${dd}日.json')
+fetch('data/news-${yyyy}-${mm}-${dd}.json')
 .then(response => response.json())
 .then(data => {
     // 处理数据
