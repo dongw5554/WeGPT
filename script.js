@@ -1,97 +1,105 @@
 // 获取元素
-const weatherEl = document.getElementById('weather');
+const introDiv = document.getElementById('intro');
 const newsSummaryDiv = document.getElementById('news-summary');
 const newsDetailsDiv = document.getElementById('news-details');
 const statsDiv = document.getElementById('stats');
 
-// 获取当前时间（UTC）
+// 获取美国东部时间
 const now = new Date();
+const usTimeOptions = { 
+    timeZone: "America/New_York", 
+    year: 'numeric', 
+    month: '2-digit', 
+    day: '2-digit' 
+};
+const usDateStr = now.toLocaleDateString('zh-CN', usTimeOptions);
+const [yyyy, mm, dd] = usDateStr.split('/');
 
-// 北京时间 = UTC + 8
-const beijingOffset = 8 * 60; // 分钟
-const utcOffset = now.getTimezoneOffset(); // 分钟
-const beijingTime = new Date(now.getTime() + (beijingOffset + utcOffset) * 60 * 1000);
+// 设置日期显示
+document.getElementById('date').textContent = `美国东部时间：${yyyy}年${mm}月${dd}日`;
 
-// 格式化日期 YYYY-MM-DD
-const yyyy = beijingTime.getFullYear();
-const mm = String(beijingTime.getMonth() + 1).padStart(2, '0');
-const dd = String(beijingTime.getDate()).padStart(2, '0');
+// 关于WeGPT推荐值
+introDiv.innerHTML = `
+    <h2>🧠 关于 WeGPT 推荐值</h2>
+    <p>WeGPT推荐值是由人工智能大模型基于新闻来源权威性、内容完整度、情感倾向与关注热度等维度综合计算的新闻价值参考分。它帮助您快速了解新闻的重要性与可信度。当前为试运行阶段，如有不足，敬请谅解与支持。</p>
+`;
 
-// 拼接文件名
-const fileName = `news-${yyyy}-${mm}-${dd}.json`;
+// 初始化新闻数组
+let news = [];
 
-// fetch 明文 JSON 文件（无 Base64）
-fetch(`data/${fileName}`)
-    .then(response => {
-        if (!response.ok) throw new Error(`HTTP 错误: ${response.status}`);
-        return response.json();
-    })
-    .then(data => {
-        if (!data) throw new Error("JSON 解析失败");
-
-        // 初始化
-        let weatherText = "天气数据暂缺";
-        let news = [];
-
-        // 遍历 JSON
-        data.forEach(item => {
-            if (item.weatherStr) {
-                weatherText = item.weatherStr;
-            } else if (item.output) {
-                news = news.concat(Array.isArray(item.output) ? item.output : [item.output]);
-            } else if (item.id || item.title) {
-                news.push(item);
+fetch('data/news-latest.json')
+.then(response => response.json())
+.then(data => {
+    // 处理数据
+    data.forEach(item => {
+        if(item.output){
+            if(Array.isArray(item.output)){ 
+                news = news.concat(item.output);
+            } else {
+                news.push(item.output);
             }
-        });
-
-        // ☁️ 显示天气
-        weatherEl.textContent = weatherText;
-
-        // 📰 资讯摘要
-        if (news.length === 0) {
-            newsSummaryDiv.innerHTML = "<p>⚠️ 今日暂无新闻，请稍后再试。</p>";
-        } else {
-            let summaryHTML = "<h2>📰 资讯摘要</h2><ol>";
-            news.forEach(n => summaryHTML += `<li>${n.title_zh || n.title}</li>`);
-            summaryHTML += "</ol>";
-            newsSummaryDiv.innerHTML = summaryHTML;
+        } else if(item.id || item.title){
+            news.push(item);
         }
+    });
 
-        // 🤖 AI资讯详细
-        if (news.length > 0) {
-            let detailsHTML = "<h2>🤖 AI资讯</h2>";
-            news.forEach((n, i) => {
-                const score = parseFloat(n.attentionscore || 0);
-                const scoreClass = score >= 80 ? "score-high" : (score >= 50 ? "score-medium" : "score-low");
-                detailsHTML += `
-                <div class="news-item">
-                    <h3>${i + 1}. ${n.title_zh || n.title}</h3>
-                    <p><strong>发布时间：</strong>${n.pubdate ? new Date(n.pubdate).toLocaleString("zh-CN") : "未知"}</p>
-                    <p><strong>作者/来源：</strong>${n.creator || "未知作者"} | ${n.source || "未知来源"}</p>
-                    <p><strong>核心要点：</strong>${n.ai_summary || "暂无摘要"}</p>
-                    <p><strong>原文链接：</strong><a href="${n.link || '#'}" target="_blank">阅读原文</a></p>
-                    <p><strong>WeGPT得分：</strong><span class="score ${scoreClass}">${score}</span></p>
-                    <p><strong>WeGPT分析：</strong>${n.wegpt_comment || "暂无分析"}</p>
-                </div>`;
-            });
-            newsDetailsDiv.innerHTML = detailsHTML;
-        }
+    // 📰 资讯摘要
+    if(news.length === 0){
+        newsSummaryDiv.innerHTML = "<p>⚠️ 今日暂无新闻，请稍后再试。</p>";
+    } else {
+        let summaryHTML = "<h2>📰 资讯摘要</h2><ol>";
+        news.forEach(n => summaryHTML += `<li>${n.title_zh || n.title}</li>`);
+        summaryHTML += "</ol>";
+        newsSummaryDiv.innerHTML = summaryHTML;
+    }
 
-        // 📊 数据统计
-        const total = news.length;
-        const avgScore = total ? (news.reduce((sum, n) => sum + parseFloat(n.attentionscore || 0), 0) / total).toFixed(2) : 0;
-
-        statsDiv.innerHTML = `
-            <h2>📊 数据统计</h2>
-            <div class="stats-box">
-                <div class="stats-line">
-                    <strong>总新闻数</strong>：${total} <span class="divider">|</span>
-                    <strong>平均得分</strong>：${avgScore} <span class="divider">|</span>
-                    <strong>生成时间</strong>：${new Date().toLocaleString("zh-CN")}
+    // 🤖 AI资讯详细
+    if(news.length > 0){
+        let detailsHTML = "<h2>🤖 AI资讯</h2>";
+        news.forEach((n, i) => {
+            const score = parseFloat(n.attentionscore || 0);
+            const scoreClass = score >= 80 ? "score-high" : (score >= 60 ? "score-medium" : "score-low");
+            
+            detailsHTML += `
+            <div class="news-card">
+                <h3 class="news-title">${i+1}. ${n.title_zh || n.title}</h3>
+                <p class="news-summary"><strong>核心要点：</strong>${n.ai_summary || "暂无摘要"}</p>
+                <div class="news-meta">
+                    <span>
+                        <strong>WeGPT推荐值：</strong>
+                        <span class="score ${scoreClass}">${score.toFixed(2)}</span>
+                    </span>
+                    <a href="${n.link || '#'}" target="_blank" class="news-link">🔗 阅读原文</a>
                 </div>
             </div>`;
-    })
-    .catch(err => {
-        console.error("加载数据出错：", err);
-        newsSummaryDiv.innerHTML = "<p>❌ 无法加载数据，请稍后重试。</p>";
+        });
+        newsDetailsDiv.innerHTML = detailsHTML;
+    }
+
+    // 📊 数据统计
+    const total = news.length;
+    const avgScore = total ? (news.reduce((sum, n) => sum + parseFloat(n.attentionscore || 0), 0) / total).toFixed(2) : 0;
+    const genTime = new Date().toLocaleString('zh-CN', { 
+        timeZone: 'America/New_York',
+        hour12: false,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit'
     });
+
+    statsDiv.innerHTML = `
+        <h2>📈 数据统计</h2>
+        <div class="stats-box">
+            <div class="stats-line">
+                <span><strong>总新闻数：</strong>${total} 条</span>
+                <span><strong>平均推荐值：</strong>${avgScore}</span>
+                <span><strong>生成时间：</strong>${genTime}</span>
+            </div>
+        </div>`;
+})
+.catch(err => {
+    console.error("加载数据出错：", err);
+    newsSummaryDiv.innerHTML = "<p>❌ 无法加载数据，请稍后重试。</p>";
+});
