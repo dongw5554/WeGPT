@@ -1,0 +1,44 @@
+[
+  {
+    "output": {
+      "id": "id_1937006289",
+      "title": "China Probes Food-Delivery Firms' Quality Control, Report Says",
+      "title_zh": "中国调查外卖公司质量控制，报告称",
+      "pubdate": "2025-10-24T04:33:24.000Z",
+      "creator": "Luz Ding, Vlad Savov",
+      "source": "Bloomberg Technology",
+      "ai_summary": "中国市场监管总局对主要外卖平台进行质量管控调查，反映了监管部门对食品安全的重视。",
+      "attentionscore": "",
+      "wegpt_comment": "这是一篇关于中国市场监管的重要报道。来源Bloomberg Technology具有高度权威性，作者署名明确。内容聚焦监管机构对外卖平台的质量控制调查，反映了中国对食品安全监管的加强。新闻情感偏负面，但具有重要的政策意义。报道内容简洁但完整，综合评分69.75分，属于中等偏上的监管类新闻。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-24/beijing-probes-food-delivery-companies-quality-control-report"
+    }
+  },
+  {
+    "output": {
+      "id": "id_743950222",
+      "title": "AI Models Lacking African Dialects Curb Uptake, Mobile Body Says",
+      "title_zh": "移动通信组织称AI模型缺乏非洲方言内容阻碍技术采用",
+      "pubdate": "2025-10-24T04:00:00.000Z",
+      "creator": "Ondiro Oganga, Andre-Pierre Du Plessis",
+      "source": "Bloomberg Technology",
+      "ai_summary": "移动通信行业组织GSMA指出，非洲语言内容的缺乏正在延迟人工智能技术在该大陆的采用，这加剧了技术获取不足的问题。",
+      "attentionscore": "",
+      "wegpt_comment": "这是一篇揭示AI技术发展不平衡问题的负面报道。来源Bloomberg Technology具有高度权威性，两位作者署名明确。文章聚焦于AI模型缺乏非洲方言内容这一重要议题，指出了技术包容性的挑战。内容质量中等，虽然触及了核心问题，但篇幅较短，缺乏对具体方言种类、影响程度和解决方案的深入分析。情感负面反映了当前AI技术发展中的地域不平衡问题。综合评分65.75分，属于中等质量的科技新闻报道，具有重要的社会意义但内容深度有限。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-24/ai-models-lacking-african-dialects-curb-uptake-mobile-body-says"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1496005428",
+      "title": "Ex-UBS Chairman Weber Warns AI Ushering In New Era of Inequality",
+      "title_zh": "前瑞银董事长韦伯警告AI正开启不平等新时代",
+      "pubdate": "2025-10-24T06:29:26.000Z",
+      "creator": "Charlie Zhu, Yujing Liu",
+      "source": "Bloomberg Technology",
+      "ai_summary": "前瑞银集团董事长阿克塞尔·韦伯警告称，人工智能带来的颠覆可能催生新的全球精英阶层，这些精英从尖端技术的采用中获得不成比例的收益，而让其他人处境更糟。",
+      "attentionscore": "",
+      "wegpt_comment": "这是一篇具有重要社会警示意义的负面报道。来源Bloomberg Technology具有高度权威性，两位作者署名明确。内容聚焦AI技术可能加剧社会不平等的重要议题，前瑞银董事长的警告具有行业影响力。文章情感负面，反映了对AI技术社会影响的担忧。内容质量中等，虽然观点鲜明但缺乏具体数据和案例支撑。综合评分65.25分，属于中等偏上的警示性报道，提醒社会关注AI技术可能带来的不平等问题。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-24/ex-bundesbank-chief-weber-warns-on-ai-aristocrats-in-job-shock"
+    }
+  }
+]
