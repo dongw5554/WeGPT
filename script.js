@@ -13,7 +13,7 @@ const dd = String(usNow.getDate()).padStart(2, '0');
 const hh = String(usNow.getHours()).padStart(2, '0');
 const min = String(usNow.getMinutes()).padStart(2, '0');
 // 拼接格式 yyyy-mm-dd-hhmm
-const formattedDate = `${yyyy}-${mm}-${dd}-${hh}${min}`;
+const formattedDate = `${yyyy}-${mm}-${dd}-${hh}：${min}`;
 const fileName = `data/news-${yyyy}-${mm}-${dd}-${hh}.json`;
 // 显示在页面上
 document.getElementById('date').textContent = `America/New_York：${formattedDate}`;
