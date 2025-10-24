@@ -4,29 +4,19 @@ const newsSummaryDiv = document.getElementById('news-summary');
 const newsDetailsDiv = document.getElementById('news-details');
 const statsDiv = document.getElementById('stats');
 
-// 获取美国东部时间 - 修复版本
-const now = new Date();
-const usTimeOptions = { 
-    timeZone: "America/New_York", 
-    year: 'numeric', 
-    month: '2-digit',  // 确保两位月份
-    day: '2-digit',    // 确保两位日期
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false
-};
-
-// 方法1：直接获取格式化部件（推荐）
-const usDate = now.toLocaleDateString('en-US', { 
-    timeZone: "America/New_York",
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit'
-});
-const [mm, dd, yyyy] = usDate.split('/'); // 注意美式日期格式 MM/DD/YYYY
-
-// 设置日期显示
-document.getElementById('date').textContent = `美国东部时间：${yyyy}年${mm}月${dd}日`;
+// 获取当前美国东部时间
+const usNow = new Date(new Date().toLocaleString('en-US', { timeZone: "America/New_York" }));
+// 提取年月日、时分
+const yyyy = usNow.getFullYear();
+const mm = String(usNow.getMonth() + 1).padStart(2, '0');
+const dd = String(usNow.getDate()).padStart(2, '0');
+const hh = String(usNow.getHours()).padStart(2, '0');
+const min = String(usNow.getMinutes()).padStart(2, '0');
+// 拼接格式 yyyy-mm-dd-hhmm
+const formattedDate = `${yyyy}-${mm}-${dd}-${hh}${min}`;
+const fileName = `data/news-${yyyy}-${mm}-${dd}-${hh}.json`;
+// 显示在页面上
+document.getElementById('date').textContent = `America/New_York：${formattedDate}`;
 
 // 关于WeGPT推荐值
 introDiv.innerHTML = `
@@ -37,11 +27,7 @@ introDiv.innerHTML = `
 // 初始化新闻数组
 let news = [];
 
-// 确保文件名格式正确
-const dataFileName = `data/news-${yyyy}-${mm}-${dd}.json`;
-console.log('尝试加载文件:', dataFileName); // 调试用
-
-fetch(dataFileName)
+fetch(fileName)
 .then(response => response.json())
 .then(data => {
     // 处理数据
