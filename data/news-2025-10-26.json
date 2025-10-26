@@ -1,0 +1,44 @@
+[
+  {
+    "output": {
+      "id": "id_629302132",
+      "title": "Australia Unveils Cyber Security Push for Indo-Pacific Region",
+      "title_zh": "澳大利亚公布印太地区网络安全推进计划",
+      "pubdate": "2025-10-26T01:46:03.000Z",
+      "creator": "Richard Henderson",
+      "source": "Bloomberg Technology",
+      "ai_summary": "澳大利亚宣布拨款8350万澳元（约合5440万美元）用于提升印太地区的网络安全能力，强调随着网络犯罪日益复杂和精密，全球合作至关重要。",
+      "attentionscore": "89.25",
+      "wegpt_comment": "这是一篇具有重要战略意义的正面新闻报道。来源Bloomberg Technology具有高度权威性，作者Richard Henderson署名明确。内容聚焦澳大利亚在印太地区的网络安全投资计划，体现了该国在区域安全合作中的领导作用。8350万澳元的投资规模显示了澳大利亚对网络安全问题的重视程度。新闻情感积极，反映了国际合作应对网络威胁的共识。内容质量良好，但篇幅较短，缺乏具体实施细节。综合评分89.25分，属于高质量国际关系与网络安全新闻。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-26/australia-unveils-cyber-security-push-for-indo-pacific-region"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1469644826",
+      "title": "Trump's Attack on Ontario's Reagan Ad Helped Amplify Its Reach",
+      "title_zh": "特朗普对安大略省里根广告的攻击反而扩大了其影响力",
+      "pubdate": "2025-10-25T15:00:11.000Z",
+      "creator": "Danielle Bochove",
+      "source": "Bloomberg Technology",
+      "ai_summary": "这篇报道分析了特朗普对安大略省里根广告的批评反而意外地扩大了该广告的传播范围和影响力，体现了政治言论对媒体传播效果的复杂影响。",
+      "attentionscore": "83.25",
+      "wegpt_comment": "这是一篇具有洞察力的政治传播分析报道。来源Bloomberg Technology具有高度权威性，作者Danielle Bochove署名明确。文章探讨了特朗普批评言论对广告传播的意外积极效果，内容聚焦于媒体影响力分析。新闻情感中性，客观分析了政治言论与传播效果的关系。内容质量较高，但篇幅较短，缺乏更多具体案例和数据支持。综合评分83.25分，属于质量良好的政治传播分析报道。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-25/trump-s-attack-on-ontario-s-reagan-ad-helped-amplify-its-reach"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1744524209",
+      "title": "'This Is Not My First Bubble': Nvidia's Bear Stands His Ground",
+      "title_zh": "Nvidia唯一看空者坚守立场：'这不是我的第一个泡沫'",
+      "pubdate": "2025-10-25T13:00:07.000Z",
+      "creator": "Ryan Vlastelica, Jeran Wittenstein",
+      "source": "Bloomberg Technology",
+      "ai_summary": "华尔街分析师Jay Goldberg作为Nvidia公司唯一的看空者，在Nvidia股价高涨之际坚守其看空立场，声称'这不是我的第一个泡沫'，反映了市场对Nvidia估值泡沫的担忧。",
+      "attentionscore": "68.00",
+      "wegpt_comment": "这是一篇具有争议性的负面投资分析报道。来源Bloomberg Technology权威性高，两位作者署名明确。内容聚焦于Nvidia唯一看空者Jay Goldberg的观点，反映了市场对AI热潮中Nvidia估值泡沫的担忧。文章情感负面，Goldberg的'这不是我的第一个泡沫'言论暗示其认为Nvidia存在泡沫风险。内容质量中等，逻辑清晰但信息量有限，主要呈现单一分析师观点。综合评分68分，属于中等偏下的财经报道，主要价值在于提供市场不同声音的视角。",
+      "link": "https://www.bloomberg.com/news/articles/2025-10-25/-this-is-not-my-first-bubble-nvidia-s-bear-stands-his-ground"
+    }
+  }
+]
