@@ -1,0 +1,158 @@
+[
+  {
+    "output": {
+      "id": "id_751870219",
+      "title": "Adobe Foundry wants to rebuild Firefly for your brand — not just tweak it",
+      "title_zh": "Adobe Foundry欲为品牌重塑Firefly——而非简单调整",
+      "pubdate": "2025-10-20T13:00:00.000Z",
+      "creator": "Unknown",
+      "source": "VentureBeat AI",
+      "ai_summary": "Adobe推出AI Foundry服务，为企业客户提供深度定制的Firefly AI模型。该服务通过'深度调优'技术重新训练基础模型，使其理解企业品牌调性、视觉风格和知识产权，生成符合品牌需求的多模态内容。与仅支持单一概念的定制模型不同，Foundry模型能理解多个概念，并通过API部署。Home Depot和迪士尼成为早期客户，体现了企业对AI定制化解决方案的强烈需求。",
+      "attentionscore": 62.95,
+      "link": "https://venturebeat.com/ai/adobe-foundry-wants-to-rebuild-firefly-for-your-brand-not-just-tweak-it"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1304496597",
+      "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
+      "title_zh": "Ring-1T内部揭秘：蚂蚁工程师在万亿规模上解决强化学习瓶颈",
+      "pubdate": "2025-10-24T04:00:00.000Z",
+      "creator": "Unknown",
+      "source": "VentureBeat AI",
+      "ai_summary": "蚂蚁集团发布万亿参数开源推理模型Ring-1T，在数学、编程和逻辑推理方面表现卓越。该模型采用三项创新技术：IcePop消除梯度噪声稳定训练、C3PO++优化GPU利用率、ASystem实现异步操作。在基准测试中，Ring-1T仅次于GPT-5，在开源模型中表现最佳，体现了中国企业在AI大模型领域的快速进步和中美AI竞争的白热化。",
+      "attentionscore": 62.65,
+      "link": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at"
+    }
+  },
+  {
+    "output": {
+      "id": "id_595472418",
+      "title": "Surging developer productivity with custom GPTs",
+      "title_zh": "定制GPTs推动开发者生产力激增",
+      "pubdate": "2024-06-18T08:45:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "Paf公司全面采用ChatGPT Enterprise，工程师通过定制GPTs加速日常开发任务，并将AI工具整合到grit:lab编程学院，从第一天起就以AI增强的系统架构思维培养新一代软件开发者。数据显示70%的Paf员工积极使用ChatGPT Enterprise，涵盖财务、人力资源、营销和客户支持等业务团队，展现了AI在企业中的广泛应用价值。",
+      "attentionscore": 54.5,
+      "link": "https://openai.com/index/paf"
+    }
+  },
+  {
+    "output": {
+      "id": "id_319046472",
+      "title": "Introducing 4o Image Generation",
+      "title_zh": "推出4o图像生成功能",
+      "pubdate": "2025-03-25T11:05:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI宣布在GPT-4o中集成其最先进的图像生成器，这是该公司长期理念的实践，即将图像生成作为语言模型的核心能力。新功能不仅追求视觉美感，更注重实用性，代表了AI图像生成技术的重要进展，展现了OpenAI在人工智能领域的持续创新和领导地位。",
+      "attentionscore": 54.35,
+      "link": "https://openai.com/index/introducing-4o-image-generation"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1537923900",
+      "title": "Introducing GPT-4.1 in the API",
+      "title_zh": "在API中引入GPT-4.1",
+      "pubdate": "2025-04-14T10:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI在API中正式推出GPT-4.1模型系列，该系列模型在多个方面实现全面提升，特别是在编程能力、指令遵循和长文本理解方面取得重大进展。同时发布了首款nano模型，从即日起面向全球开发者开放使用，标志着人工智能技术发展的新里程碑。",
+      "attentionscore": 53.949999999999996,
+      "link": "https://openai.com/index/gpt-4-1"
+    }
+  },
+  {
+    "output": {
+      "id": "id_980791139",
+      "title": "Stargate advances with 4.5 GW partnership with Oracle",
+      "title_zh": "Stargate与Oracle达成4.5吉瓦合作伙伴关系取得进展",
+      "pubdate": "2025-07-22T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "甲骨文与OpenAI达成协议，将在美国开发4.5吉瓦的Stargate数据中心容量。这项投资将创造新的就业机会，加速美国的再工业化进程，并推动美国在人工智能领域的领导地位。这标志着Stargate作为OpenAI人工智能基础设施平台的重要里程碑，体现了其将人工智能惠及所有人的长期愿景。",
+      "attentionscore": 53.949999999999996,
+      "link": "https://openai.com/index/stargate-advances-with-partnership-with-oracle"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1581475912",
+      "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+      "title_zh": "向全美联邦工作人员提供ChatGPT服务",
+      "pubdate": "2025-08-06T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI与美国总务管理局达成合作，将在未来一年内向整个联邦行政部门工作人员免费提供ChatGPT Enterprise服务。这一创新举措旨在提升政府工作效率，标志着人工智能技术在政府领域的重大应用扩展。该合作体现了公私部门协作推动技术创新的趋势，预计将对联邦政府的工作流程和公共服务产生积极影响。",
+      "attentionscore": 53.949999999999996,
+      "link": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce"
+    }
+  },
+  {
+    "output": {
+      "id": "id_522683099",
+      "title": "A People-First AI Fund: $50M to support nonprofits",
+      "title_zh": "以人为本的AI基金：5000万美元支持非营利组织",
+      "pubdate": "2025-09-08T14:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI推出5000万美元的'以人为本AI基金'，专门支持美国非营利组织在教育、社区创新和经济机会领域的发展。该项目提供无限制资助，帮助社区塑造AI技术为公共利益服务。申请截止日期为2025年10月8日，体现了科技公司对公益事业的社会责任担当。",
+      "attentionscore": 53.949999999999996,
+      "link": "https://openai.com/index/people-first-ai-fund"
+    }
+  },
+  {
+    "output": {
+      "id": "id_268861578",
+      "title": "Here are the shipping and return policies for all the big-name retailers",
+      "title_zh": "各大知名零售商运输和退货政策一览",
+      "pubdate": "2025-10-31T20:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "本文详细汇总了亚马逊、苹果、沃尔玛等15家知名零售商在2025年假期的运输和退货政策。文章提供了各商家的具体运输方式（如同日送达、免费两日送达等）和退货期限（多数商家将退货期限延长至2026年1月），帮助消费者在节日购物季做出更明智的消费决策。内容实用性强，信息全面且时效性高，对节日购物具有重要参考价值。",
+      "attentionscore": 53.71170000000001,
+      "link": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon"
+    }
+  },
+  {
+    "output": {
+      "id": "id_578394884",
+      "title": "AI as the greatest source of empowerment for all",
+      "title_zh": "AI：所有人的最大赋能源泉",
+      "pubdate": "2025-07-21T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "文章表达了作者作为实用主义技术专家对AI技术的积极展望，认为AI将比历史上任何技术为更多人创造更多机会，赋予人们前所未有的力量。作者强调如果正确发展AI技术，它能够成为所有人的最大赋能源泉，体现了对AI潜力的高度乐观态度和前瞻性思考。",
+      "attentionscore": 53.35,
+      "link": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2109668406",
+      "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b",
+      "title_zh": "技术报告：gpt-oss-safeguard-120b和gpt-oss-safeguard-20b的性能与基准评估",
+      "pubdate": "2025-10-29T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "该技术报告介绍了gpt-oss-safeguard-120b和gpt-oss-safeguard-20b两个开源推理模型，它们基于gpt-oss模型进行后训练，能够根据提供的策略进行推理并标注内容。报告详细描述了这些模型的能力，并提供了基于底层gpt-oss模型作为基准的安全评估基线。这些模型专门设计用于内容安全评估，展示了OpenAI在AI安全领域的最新研究成果。",
+      "attentionscore": 43.65,
+      "link": "https://openai.com/index/gpt-oss-safeguard-technical-report"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2091662104",
+      "title": "Import AI 432: AI malware; frankencomputing; and Poolside’s big cluster",
+      "title_zh": "Import AI 432：AI恶意软件；混合计算；以及Poolside的大型集群",
+      "pubdate": "2025-10-20T13:38:50.000Z",
+      "creator": "Jack Clark",
+      "source": "Import AI (Jack Clark)",
+      "ai_summary": "本期Import AI通讯探讨了AI领域的重要发展：安全公司Dreadnode已开发出AI恶意软件原型，预示着能够本地运行的智能代理恶意软件即将出现；同时讨论了混合计算概念以及Poolside公司的大型计算集群建设。这些进展反映了AI技术在安全威胁和基础设施方面的快速发展，对网络安全和AI治理提出了新的挑战。",
+      "attentionscore": 33.31,
+      "link": "https://jack-clark.net/2025/10/20/import-ai-432-ai-malware-frankencomputing-and-poolsides-big-cluster/"
+    }
+  }
+]
