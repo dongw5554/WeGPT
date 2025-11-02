@@ -1,0 +1,100 @@
+[
+  {
+    "output": {
+      "id": "",
+      "title": "Adobe Foundry wants to rebuild Firefly for your brand — not just tweak it",
+      "title_zh": "Adobe Foundry欲为品牌重塑Firefly——而非简单调整",
+      "pubdate": "2025-10-20T13:00:00.000Z",
+      "creator": "Unknown",
+      "source": "VentureBeat AI",
+      "ai_summary": "Adobe推出AI Foundry服务，为企业客户提供深度定制的Firefly AI模型。该服务通过'深度调优'技术重新训练基础模型，使其理解企业品牌调性、视觉风格和知识产权，生成符合品牌需求的多模态内容。与仅支持单一概念的定制模型不同，Foundry模型能理解多个概念，并通过API部署。Home Depot和迪士尼成为早期客户，体现了企业对AI定制化解决方案的强烈需求。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://venturebeat.com/ai/adobe-foundry-wants-to-rebuild-firefly-for-your-brand-not-just-tweak-it"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
+      "title_zh": "Ring-1T内部揭秘：蚂蚁工程师在万亿规模上解决强化学习瓶颈",
+      "pubdate": "2025-10-24T04:00:00.000Z",
+      "creator": "Unknown",
+      "source": "VentureBeat AI",
+      "ai_summary": "蚂蚁集团发布万亿参数开源推理模型Ring-1T，在数学、编程和逻辑推理方面表现卓越。该模型采用三项创新技术：IcePop消除梯度噪声稳定训练、C3PO++优化GPU利用率、ASystem实现异步操作。在基准测试中，Ring-1T仅次于GPT-5，在开源模型中表现最佳，体现了中国企业在AI大模型领域的快速进步和中美AI竞争的白热化。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Surging developer productivity with custom GPTs",
+      "title_zh": "定制GPTs推动开发者生产力激增",
+      "pubdate": "2024-06-18T08:45:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "Paf公司全面采用ChatGPT Enterprise，工程师通过定制GPTs加速日常开发任务，并将AI工具整合到grit:lab编程学院，从第一天起就以AI增强的系统架构思维培养新一代软件开发者。数据显示70%的Paf员工积极使用ChatGPT Enterprise，涵盖财务、人力资源、营销和客户支持等业务团队，展现了AI在企业中的广泛应用价值。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://openai.com/index/paf"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Introducing 4o Image Generation",
+      "title_zh": "推出4o图像生成功能",
+      "pubdate": "2025-03-25T11:05:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI宣布在GPT-4o中集成其最先进的图像生成器，这是该公司长期理念的实践，即将图像生成作为语言模型的核心能力。新功能不仅追求视觉美感，更注重实用性，代表了AI图像生成技术的重要进展，展现了OpenAI在人工智能领域的持续创新和领导地位。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://openai.com/index/introducing-4o-image-generation"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Introducing GPT-4.1 in the API",
+      "title_zh": "在API中引入GPT-4.1",
+      "pubdate": "2025-04-14T10:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI在API中正式推出GPT-4.1模型系列，该系列模型在多个方面实现全面提升，特别是在编程能力、指令遵循和长文本理解方面取得重大进展。同时发布了首款nano模型，从即日起面向全球开发者开放使用，标志着人工智能技术发展的新里程碑。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://openai.com/index/gpt-4-1"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Stargate advances with 4.5 GW partnership with Oracle",
+      "title_zh": "Stargate与Oracle达成4.5吉瓦合作伙伴关系取得进展",
+      "pubdate": "2025-07-22T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "甲骨文与OpenAI达成协议，将在美国开发4.5吉瓦的Stargate数据中心容量。这项投资将创造新的就业机会，加速美国的再工业化进程，并推动美国在人工智能领域的领导地位。这标志着Stargate作为OpenAI人工智能基础设施平台的重要里程碑，体现了其将人工智能惠及所有人的长期愿景。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://openai.com/index/stargate-advances-with-partnership-with-oracle"
+    }
+  },
+  {
+    "output": {
+      "id": "",
+      "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+      "title_zh": "向全美联邦工作人员提供ChatGPT服务",
+      "pubdate": "2025-08-06T00:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI与美国总务管理局达成合作，将在未来一年内向整个联邦行政部门工作人员免费提供ChatGPT Enterprise服务。这一创新举措旨在提升政府工作效率，标志着人工智能技术在政府领域的重大应用扩展。该合作体现了公私部门协作推动技术创新的趋势，预计将对联邦政府的工作流程和公共服务产生积极影响。",
+      "attentionscore": "",
+      "wegpt_comment": "",
+      "link": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce"
+    }
+  }
+]
