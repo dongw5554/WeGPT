@@ -1,0 +1,119 @@
+[
+  {
+    "output": {
+      "id": "id_562578661",
+      "title": "CDFlow: Building Invertible Layers with Circulant and Diagonal Matrices",
+      "title_zh": "CDFlow：基于循环矩阵和对角矩阵构建可逆层",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Xuchen Feng, Siyu Liao",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种基于循环矩阵和对角矩阵乘积的新型可逆线性层CDFlow，将参数复杂度从O(n²)降低到O(mn)，同时利用快速傅里叶变换将矩阵求逆时间复杂度从O(n³)降低到O(mn log n)。该方法在自然图像数据集上实现了强大的密度估计能力，特别适用于具有固有周期结构的数据建模，为可扩展生成建模提供了实际效益。",
+      "attentionscore": 60.7,
+      "link": "https://arxiv.org/abs/2510.25323"
+    }
+  },
+  {
+    "output": {
+      "id": "id_680424289",
+      "title": "Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication",
+      "title_zh": "基于语音相关生物信号重建未见语句的开放词汇神经通信",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Deok-Seon Kim, Seo-Hyun Lee, Kang Yin, Seong-Whan Lee",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探索了脑到语音系统的突破性进展，通过利用高密度脑电图和肌电图信号提取音素级信息，实现了对未见语句的语音合成。研究展示了基于生物信号的句子级语音合成在重建未见语句方面的可行性，标志着向开发适应不同患者需求的开放词汇神经通信系统迈出了重要一步。该研究为利用脑电图解码技术开发通信和康复解决方案提供了有意义的见解。",
+      "attentionscore": 60.35,
+      "link": "https://arxiv.org/abs/2510.27247"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1136299720",
+      "title": "Byzantine Resilient Federated Multi-Task Representation Learning",
+      "title_zh": "拜占庭容错的联邦多任务表征学习",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Tuan Le, Shana Moothedath",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出BR-MTRL框架，一种拜占庭容错的多任务表征学习方法，能够处理故障或恶意代理。该方法通过共享神经网络模型实现表征学习，所有客户端共享固定层，仅客户端特定最终层个性化。采用交替梯度下降策略进行模型训练，并使用几何中位数和Krum两种鲁棒聚合方法防御拜占庭攻击。在AWS平台上构建的联邦测试床中验证了算法性能，通过CIFAR-10和FEMNIST等真实数据集实验证明该方法在存在拜占庭对手的情况下仍能保持有效性和鲁棒性，并具有良好的迁移学习能力。",
+      "attentionscore": 60.3,
+      "link": "https://arxiv.org/abs/2503.19209"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1863743568",
+      "title": "BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation",
+      "title_zh": "BALR-SAM：面向资源高效医学图像分割的边界感知低秩自适应SAM",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Zelin Liu, Sicheng Dong, Bocheng Li, Yixuan Yang, Jiacheng Ruan, Chenxu Zhou, Suncheng Xiang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出BALR-SAM框架，针对医学图像分割任务优化Segment Anything Model。通过三个核心组件：互补细节增强网络捕获边界敏感特征、低秩适配器优化医学场景特征表示、低秩张量注意力机制减少75%内存使用并提升推理速度。在标准医学分割数据集上，仅更新1.8%参数即可超越包括完全微调MedSAM在内的多个先进方法，展现了在资源受限临床环境中的实用价值。",
+      "attentionscore": 60.15,
+      "link": "https://arxiv.org/abs/2509.24204"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1496847394",
+      "title": "SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy Automation",
+      "title_zh": "可持续平台：无缝智能农业集成迈向农艺自动化",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Agorakis Bompotas, Konstantinos Koutras, Nikitas Rigas Kalogeropoulos, Panagiotis Kechagias, Dimitra Gariza, Athanasios P. Kalogeras, Christos Alexakos",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "SUSTAINABLE是一个创新的智能农业平台，整合物联网、人工智能、卫星成像和基于角色的任务编排技术，旨在实现高效、可追溯和可持续的农业实践。该平台特别针对地中海葡萄园设计了卫星指数集成、实时环境数据监测和角色感知任务管理功能，通过试点应用展示了其在应对全球粮食需求增长、气候变化和可持续发展挑战方面的潜力。",
+      "attentionscore": 59.78,
+      "link": "https://arxiv.org/abs/2510.26989"
+    }
+  },
+  {
+    "output": {
+      "id": "id_239197627",
+      "title": "Hybrid Decentralized Optimization: Leveraging Both First- and Zeroth-Order Optimizers for Faster Convergence",
+      "title_zh": "混合去中心化优化：结合一阶和零阶优化器实现更快收敛",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Matin Ansaripour, Shayan Talaei, Giorgi Nadiradze, Dan Alistarh",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究论文提出了一种混合去中心化优化方法，允许具有一阶和零阶优化能力的节点在分布式系统中协同工作。研究证明，在合理参数设置下，系统不仅能够容忍噪声较大的零阶代理，还能从整合这些代理中获益。该方法适用于凸和非凸目标函数，并在标准优化任务和深度神经网络训练中验证了其有效性，为分布式机器学习提供了新的优化策略。",
+      "attentionscore": 59.75,
+      "link": "https://arxiv.org/abs/2210.07703"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1577440911",
+      "title": "The Denario project: Deep knowledge AI agents for scientific discovery",
+      "title_zh": "Denario项目：用于科学发现的深度知识AI智能体",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Francisco Villaescusa-Navarro, Boris Bolliet, Pablo Villanueva-Domingo, Adrian E. Bayer, Aidan Acquah, Chetana Amancharla, Almog Barzilay-Siegal, Pablo Bermejo, Camille Bilodeau, Pablo C\\'ardenas Ram\\'irez, Miles Cranmer, Urbano L. Fran\\c{c}a, ChangHoon Hahn, Yan-Fei Jiang, Raul Jimenez, Jun-Young Lee, Antonio Lerario, Osman Mamun, Thomas Meier, Anupam A. Ojha, Pavlos Protopapas, Shimanto Roy, David N. Spergel, Pedro Taranc\\'on-\\'Alvarez, Ujjwal Tiwari, Matteo Viel, Digvijay Wadekar, Chi Wang, Bonny Y. Wang, Licong Xu, Yossi Yovel, Shuwen Yue, Wen-Han Zhou, Qiyao Zhu, Jiajun Zou, \\'I\\~nigo Zubeldia",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "Denario是一个用于科学研究的AI多智能体助手系统，能够执行生成想法、文献检索、制定研究计划、编写执行代码、绘图以及起草和评审科学论文等多种任务。该系统采用模块化架构，已在天体物理学、生物学、化学、材料科学等多个学科领域生成多篇AI论文，并展示了跨学科融合能力。文章还讨论了AI驱动研究的伦理影响和科学哲学意义。",
+      "attentionscore": 51.5,
+      "link": "https://arxiv.org/abs/2510.26887"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2062148522",
+      "title": "Active transfer learning for structural health monitoring",
+      "title_zh": "结构健康监测中的主动迁移学习",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "J. Poole, N. Dervilis, K. Worden, P. Gardner, V. Giglioni, R. S. Mills, A. J. Hughes",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种用于群体结构健康监测的贝叶斯迁移学习框架，通过结合主动学习策略来解决训练数据获取困难的问题。该方法在无监督域适应基础上，利用少量标记的目标数据改进模型性能，并通过主动采样策略选择最具信息量的观测数据进行标记。在实验桥梁数据集上的评估表明，该方法在标签稀缺场景下能显著提高分类模型的学习效率，有望减少结构运维过程中的检测次数和运营成本。",
+      "attentionscore": 50.9,
+      "link": "https://arxiv.org/abs/2510.27525"
+    }
+  },
+  {
+    "output": {
+      "id": "id_40537557",
+      "title": "Asynchronous Risk-Aware Multi-Agent Packet Routing for Ultra-Dense LEO Satellite Networks",
+      "title_zh": "异步风险感知多智能体数据包路由在超密集低轨卫星网络中的应用",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Ke He, Thang X. Vu, Le He, Lisheng Fan, Symeon Chatzinotas, Bjorn Ottersten",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出PRIMAL框架，针对超密集低轨卫星星座的复杂异步网络环境，开发了一种事件驱动的多智能体路由算法。该框架允许每个卫星在独立的时间线上自主决策，通过原对偶方法管理最坏情况性能退化的风险。在1584颗卫星的模拟环境中验证，相比风险无感知基线，排队延迟降低70%以上，满载场景下端到端延迟减少近12毫秒，有效解决了最短路径与拥塞避免的核心冲突。",
+      "attentionscore": 50.08,
+      "link": "https://arxiv.org/abs/2510.27506"
+    }
+  }
+]
