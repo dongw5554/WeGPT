@@ -1,0 +1,119 @@
+[
+  {
+    "output": {
+      "id": "id_639630988",
+      "title": "Microsoft invests in and partners with OpenAI to support us building beneficial AGI",
+      "title_zh": "微软投资并与OpenAI合作，支持我们构建有益的通用人工智能",
+      "pubdate": "2019-07-22T07:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "微软宣布向OpenAI投资10亿美元，建立战略合作伙伴关系，共同开发具有广泛经济利益的通用人工智能（AGI）。双方将在微软Azure平台上构建可扩展至AGI的软硬件平台，联合开发新的Azure AI超级计算技术。微软将成为OpenAI的独家云服务提供商，共同致力于扩展Azure在大规模AI系统方面的能力，这标志着AI领域的重要战略合作。",
+      "attentionscore": 64.186,
+      "link": "https://openai.com/index/microsoft-invests-in-and-partners-with-openai"
+    }
+  },
+  {
+    "output": {
+      "id": "id_710130522",
+      "title": "Automate Strategy Finding with LLM in Quant Investment",
+      "title_zh": "利用LLM在量化投资中实现策略自动发现",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Zhizhuo Kou, Holam Yu, Junyu Luo, Jingshu Peng, Xujia Li, Chengzhong Liu, Juntao Dai, Lei Chen, Sirui Han, Yike Guo",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种基于大语言模型的三阶段框架，用于量化投资中的策略自动发现。该框架通过提示工程生成可执行的alpha因子候选，采用多模态代理评估系统筛选因子，并部署动态权重优化以适应市场条件。实验结果显示，该策略在中美市场均表现优异，在SSE50指数上获得53.17%的累计回报，显著超越所有基准，展现出卓越的风险调整后表现和市场下行保护能力。",
+      "attentionscore": 62.4598,
+      "link": "https://arxiv.org/abs/2409.06289"
+    }
+  },
+  {
+    "output": {
+      "id": "id_228022122",
+      "title": "CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs",
+      "title_zh": "CAS-Spec：用于LLMs即时无损推理加速的级联自适应自推测解码",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Zhiyuan Ning, Jiawei Shao, Ruge Xu, Xinfei Guo, Jun Zhang, Chi Zhang, Xuelong Li",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种新颖的级联自适应自推测解码方法CAS-Spec，通过动态可切换推理加速策略构建推测草稿模型，并引入动态树级联算法自适应路由多级草稿模型和分配草稿长度。该方法在现有即时推测解码方法中实现了最先进的加速效果，相比自回归解码在各种LLM和数据集上平均加速1.1倍至2.3倍，且无需专门训练多个模型，具有广泛的适用性和集成便利性。",
+      "attentionscore": 61.6578,
+      "link": "https://arxiv.org/abs/2510.26843"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1371234303",
+      "title": "Physics-Informed Extreme Learning Machine (PIELM): Opportunities and Challenges",
+      "title_zh": "物理信息极限学习机（PIELM）：机遇与挑战",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "He Yang, Fei Ren, Francesco Calabro, Hai-Sui Yu, Xiaohui Chen, Pei-Zhi Zhuang",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文探讨了物理信息极限学习机（PIELM）这一新兴研究方向，相比其他物理信息机器学习范式，PIELM具有更高的计算效率和精度。文章总结了PIELM在求解具有尖锐梯度、非线性、高频特性、硬约束、不确定性、多物理场耦合和可解释性的常/偏微分方程方面的应用进展。尽管取得了令人鼓舞的成功，但仍需解决诸多挑战，为开发更鲁棒、可解释和泛化性更强的PIELM框架提供了发展机遇。",
+      "attentionscore": 61.5398,
+      "link": "https://arxiv.org/abs/2510.24577"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1979171487",
+      "title": "SpatialTraceGen: High-Fidelity Traces for Efficient VLM Spatial Reasoning Distillation",
+      "title_zh": "SpatialTraceGen：用于高效VLM空间推理蒸馏的高保真轨迹生成",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Gio Huh, Dhruv Sheth, Rayhan Zirvi, Frank Xiao",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出SpatialTraceGen框架，旨在解决视觉语言模型在复杂空间推理方面的局限性。该框架通过将大型教师模型的推理过程蒸馏为高质量的多跳、多工具推理轨迹数据集，创新性地引入自动化验证器来确保每个推理步骤的保真度。在CLEVR-Humans基准测试中，验证器引导的过程使轨迹平均质量得分提高17%，质量方差降低40%以上，为有效微调和样本高效的离线强化学习提供了结构化的分步工具使用示例。",
+      "attentionscore": 54.2398,
+      "link": "https://arxiv.org/abs/2511.00054"
+    }
+  },
+  {
+    "output": {
+      "id": "id_734859713",
+      "title": "From product to system network challenges in system of systems lifecycle management",
+      "title_zh": "从产品到系统网络：系统之系统生命周期管理中的挑战",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Vahid Salehi, Josef Vilsmeier, Shirui Wang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探讨了现代产品从孤立实体向系统网络节点转变带来的生命周期管理挑战。文章提出了基于模型系统工程（MBSE）作为语义骨干、产品生命周期管理（PLM）作为治理和配置层、CAD-CAE作为模型衍生领域的实用参考框架。通过分析交通、医疗和公共部门案例，识别出四个核心原则：参考架构和数据模型、端到端配置主权、带明确评审节点的策划模型以及可衡量的价值贡献。文章为决策者和实践者提供了从产品中心向网络中心开发转型的三步路线图，旨在提高变更鲁棒性、缩短周期、改善复用性并支持可持续性决策。",
+      "attentionscore": 53.9878,
+      "link": "https://arxiv.org/abs/2510.27194"
+    }
+  },
+  {
+    "output": {
+      "id": "id_772692096",
+      "title": "From product to system network challenges in system of systems lifecycle management",
+      "title_zh": "从产品到系统网络：系统之系统生命周期管理中的挑战",
+      "pubdate": "2025-11-03T05:00:00.000Z",
+      "creator": "Vahid Salehi, Josef Vilsmeier, Shirui Wang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探讨了现代产品从孤立实体向系统网络节点转变带来的生命周期管理挑战。文章提出基于模型系统工程作为语义主干、产品生命周期管理作为治理配置层、CAD-CAE作为模型衍生领域、数字线程和数字孪生作为持续反馈的实用框架。基于移动出行、医疗和公共部门经验，识别出四个关键原则：参考架构和数据模型、端到端配置主权、带清晰评审节点的策划模型、以及可衡量的价值贡献。研究成果包括增强变更稳健性、缩短周期时间、改善重用率和支持可持续性决策。",
+      "attentionscore": 53.9878,
+      "link": "https://arxiv.org/abs/2510.27194"
+    }
+  },
+  {
+    "output": {
+      "id": "id_805707677",
+      "title": "DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding",
+      "title_zh": "DeepHQ：用于渐进式深度图像编码的学习分层量化器",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Jooyoung Lee, Se Yoon Jeong, Munchurl Kim",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种基于神经网络的渐进式图像编码方法DeepHQ，首次通过学习为每个量化层学习量化步长，并采用选择性压缩技术，仅压缩每个量化层中的必要表示组件。相比现有基于手工设计量化层次的方法，该方法在解码时间减少和模型尺寸缩小的同时，显著提高了编码效率，为渐进式图像压缩领域带来了创新突破。",
+      "attentionscore": 53.8598,
+      "link": "https://arxiv.org/abs/2408.12150"
+    }
+  },
+  {
+    "output": {
+      "id": "id_819797180",
+      "title": "Towards Channel Charting Enhancement with Non-Reconfigurable Intelligent Surfaces",
+      "title_zh": "基于非可重构智能表面的信道制图增强研究",
+      "pubdate": "2025-11-04T05:00:00.000Z",
+      "creator": "Mahdi Maleki, Reza Agahzadeh Ayoubi, Marouan Mizmizi, Umberto Spagnolini",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究探讨了如何利用全被动电磁表面（EMS）来增强密集城市环境中的信道制图技术。研究采用两种互补的先进信道制图方法——半监督t-SNE和半监督自编码器，验证了非参数和参数映射结果的一致性。研究发现信道制图精度取决于信噪比和空间差异性的平衡，传统RIS优化方法会抑制位置指纹并降低制图性能。研究设计了基于分位数准则的静态EMS相位配置文件，在30GHz 3D射线追踪城市环境中，将90%分位数的定位误差从>50米降低到<25米，轨迹严重中断减少了4倍以上，且无需重新配置开销。",
+      "attentionscore": 44.2398,
+      "link": "https://arxiv.org/abs/2511.00919"
+    }
+  }
+]
