@@ -1,0 +1,93 @@
+[
+  {
+    "output": {
+      "id": "id_1338654371",
+      "title": "R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing",
+      "title_zh": "R2R：通过大小模型令牌路由高效导航分歧推理路径",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Tianyu Fu, Yi Ge, Yichen You, Enshu Liu, Zhihang Yuan, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "清华大学团队提出R2R神经令牌路由方法，通过识别大语言模型与小语言模型间关键的分歧令牌，实现选择性调用大模型处理关键推理步骤。该方法仅需平均5.6B激活参数，在数学、编程和问答基准测试中性能超越R1-7B模型1.6倍，相比R1-32B实现2.8倍加速且性能相当，显著推进了推理效率的帕累托前沿。",
+      "attentionscore": 62.7878,
+      "link": "https://arxiv.org/abs/2505.21600"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1992594859",
+      "title": "NAP: Attention-Based Late Fusion for Automatic Sleep Staging",
+      "title_zh": "NAP：基于注意力的后期融合用于自动睡眠分期",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Alvise Dei Rossi, Julia van der Meer, Markus H. Schmidt, Claudio L. A. Bassetti, Luigi Fiorillo, Francesca Faraci",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出NAP（神经预测聚合器）模型，通过三轴注意力机制捕捉时间、空间和预测器层面的依赖关系，有效整合多导睡眠图信号中的多模态信息。该模型能够适应不同输入维度，通过聚合预训练单通道模型的输出，在多个数据集上实现了最先进的零样本泛化性能。虽然以自动睡眠分期为应用场景，但该方法可扩展到其他多模态生理应用中。",
+      "attentionscore": 62.0598,
+      "link": "https://arxiv.org/abs/2511.03488"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1920919793",
+      "title": "Enhancing Fatigue Detection through Heterogeneous Multi-Source Data Integration and Cross-Domain Modality Imputation",
+      "title_zh": "通过异构多源数据集成与跨域模态插补增强疲劳检测",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Luobin Cui, Yanlai Wu, Tang Ying, Weikai Li",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种面向实际部署的疲劳检测框架，针对航空、采矿、长途运输等安全关键应用中传感器性能下降的问题。通过利用异构源域知识，包括难以部署的高保真传感器，结合跨域对齐和模态插补技术，在目标域中自适应利用可用模态。实验基于现场部署传感器设置和两个公开疲劳数据集，验证了该方法在传感器受限场景下的实用性、鲁棒性和跨主体跨域的泛化能力，相比基线方法取得了一致性提升。",
+      "attentionscore": 61.857800000000005,
+      "link": "https://arxiv.org/abs/2507.16859"
+    }
+  },
+  {
+    "output": {
+      "id": "id_851820997",
+      "title": "CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and Prediction",
+      "title_zh": "CoTox：基于思维链的分子毒性推理与预测",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Jueon Park, Yein Park, Minju Song, Soyon Park, Donghyeon Lee, Seungheun Baek, Jaewoo Kang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出CoTox框架，将大型语言模型与思维链推理相结合用于多毒性预测。该方法整合化学结构数据、生物通路和基因本体术语，通过逐步推理生成可解释的毒性预测。研究表明CoTox在GPT-4o上表现优于传统机器学习和深度学习模型，且使用IUPAC名称表示化学结构能增强模型推理能力。该框架通过模拟相关细胞类型的药物处理，生成与生理反应一致的毒性预测，为早期药物安全评估提供支持。",
+      "attentionscore": 55.1878,
+      "link": "https://arxiv.org/abs/2508.03159"
+    }
+  },
+  {
+    "output": {
+      "id": "id_981855490",
+      "title": "Large Language Models Miss the Multi-Agent Mark",
+      "title_zh": "大语言模型错失多智能体目标",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Emanuele La Malfa, Gabriele La Malfa, Samuele Marro, Jie M. Zhang, Elizabeth Black, Michael Luck, Philip Torr, Michael Wooldridge",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇立场论文指出，当前基于大语言模型的多智能体系统虽然借用了多智能体系统的术语，但缺乏其核心原则。作者分析了四个关键领域的差异：智能体的社会性、环境设计、协调与通信协议以及涌现行为的测量。论文认为许多MAS LLMs缺乏自主性、社会互动和结构化环境等真正多智能体特征，过度依赖简化的LLM中心架构。作者呼吁更好地整合已确立的多智能体概念，避免误用术语和错失发展机会。",
+      "attentionscore": 51.8078,
+      "link": "https://arxiv.org/abs/2505.21298"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1606989816",
+      "title": "Benchmarking Foundation Models and Parameter-Efficient Fine-Tuning for Prognosis Prediction in Medical Imaging",
+      "title_zh": "医学影像预后预测中基础模型与参数高效微调的基准测试",
+      "pubdate": "2025-11-06T05:00:00.000Z",
+      "creator": "Filippo Ruffini, Elena Mulero Ayllon, Linlin Shen, Paolo Soda, Valerio Guarrasi",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本研究首次建立了系统性基准测试，评估基础模型和卷积神经网络在COVID-19胸部X光预后预测中的表现。研究使用四个公开数据集，涵盖死亡率、严重程度和ICU入院等预后指标，在数据稀缺和类别不平衡的现实临床约束下，比较了完整微调、线性探测和参数高效微调等策略。结果显示，CNN在小型不平衡数据集中表现稳健，而基础模型结合参数高效微调在较大数据集中具有竞争力，但严重类别不平衡会降低其性能。研究为临床AI部署提供了实证指导。",
+      "attentionscore": 51.2578,
+      "link": "https://arxiv.org/abs/2506.18434"
+    }
+  },
+  {
+    "output": {
+      "id": "id_125916095",
+      "title": "The Download: the AGI myth, and US/China AI competition",
+      "title_zh": "今日要闻：AGI神话与中美AI竞争",
+      "pubdate": "2025-11-04T13:10:00.000Z",
+      "creator": "Rhiannon Williams",
+      "source": "MIT Technology Review AI",
+      "ai_summary": "MIT Technology Review的《今日要闻》通讯深入探讨了通用人工智能（AGI）如何演变成我们这个时代最具影响力的'阴谋论'之一。文章批判性地分析了AGI概念的炒作现象，指出业界对实现AGI的时间预测充满不确定性。同时，通讯还关注中美两国在人工智能领域的激烈竞争态势，反映了当前全球AI发展的关键议题和地缘政治影响。",
+      "attentionscore": 39.08105,
+      "link": "https://www.technologyreview.com/2025/11/04/1127547/the-download-the-agi-myth-and-us-china-ai-competition/"
+    }
+  }
+]
