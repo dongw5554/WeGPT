@@ -1,0 +1,106 @@
+[
+  {
+    "output": {
+      "id": "id_1992562041",
+      "title": "Test-Time Warmup for Multimodal Large Language Models",
+      "title_zh": "多模态大语言模型的测试时预热",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Nikita Rajaneesh, Thomas Zollo, Richard Zemel",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "文章提出了一种创新的测试时预热方法，通过利用弱监督辅助任务的数据来适应每个测试实例，从而提升多模态大语言模型的推理能力。该方法在MMMU、VQA-Rad和GQA基准测试中分别实现了4.03%、5.28%和1.63%的相对性能提升，证明了在推理前进行'预热'可以增强模型在各种推理任务中的鲁棒性，为解决MLLMs在复杂推理任务中表现不佳的问题提供了有效方案。",
+      "attentionscore": 61.4298,
+      "link": "https://arxiv.org/abs/2509.10641"
+    }
+  },
+  {
+    "output": {
+      "id": "id_147855569",
+      "title": "DashCLIP: Leveraging multimodal models for generating semantic embeddings for DoorDash",
+      "title_zh": "DashCLIP：利用多模态模型为DoorDash生成语义嵌入",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Omkar Gurjar, Kin Sum Liu, Praveen Kolli, Utsaw Kumar, Mandar Rahurkar",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "DoorDash研究团队提出DashCLIP框架，通过联合训练产品和用户查询编码器，利用对比学习对齐单模态和多模态编码器。该创新方法训练查询编码器时使用LLM策划的相关性数据集，摆脱了对用户参与历史的依赖。生成的语义嵌入展现出强大的泛化能力，在商品分类和相关性预测等应用中表现优异。在个性化广告推荐部署后，点击率和转化率显著提升，证实了对关键业务指标的积极影响。该框架的灵活性使其有望成为改善电商用户体验的有前景解决方案。",
+      "attentionscore": 61.2098,
+      "link": "https://arxiv.org/abs/2504.07110"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1325925804",
+      "title": "Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA",
+      "title_zh": "胃肠道视觉问答中基于视觉推理的多任务学习",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Itbaan Safwan, Muhammad Annas Shaikh, Muhammad Haaris, Ramail Khan, Muhammad Atif Tahir",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种用于MediaEval Medico 2025挑战的多任务框架，采用LoRA调优的Florence-2模型，同时执行视觉问答、解释生成和视觉定位。系统整合了三个精选数据集：Kvasir-VQA-x1用于问答学习、提供结构化医学推理的合成增强解释数据集，以及连接视觉特征与分割掩码的文本-区域对。多任务设置使模型能够联合学习视觉定位、推理和解释，生成既准确又可解释的响应。广泛评估表明该方法在答案准确性和视觉定位方面显著优于单任务基线。",
+      "attentionscore": 61.2098,
+      "link": "https://arxiv.org/abs/2511.04384"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1255078855",
+      "title": "A Systematic Evaluation of Self-Supervised Learning for Label-Efficient Sleep Staging with Wearable EEG",
+      "title_zh": "自监督学习在可穿戴脑电图标签高效睡眠分期中的系统评估",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Emilio Estevan, Mar\\'ia Sierra-Torralba, Eduardo L\\'opez-Larraz, Luis Montesano",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究首次系统评估自监督学习在可穿戴脑电图睡眠分期中的应用。使用Ikon Sleep头带采集的两个数据库进行测试，结果显示SSL方法相比监督学习基线性能提升达10%，在标签数据稀缺时优势尤为明显。SSL仅需5%-10%标注数据即可达到80%以上的临床级精度，而监督方法需要两倍标签量。该技术对人群特征、记录环境和信号质量变化具有鲁棒性，有望推动经济型睡眠监测系统发展。",
+      "attentionscore": 60.8798,
+      "link": "https://arxiv.org/abs/2510.07960"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1272382689",
+      "title": "Higher-Order Singular-Value Derivatives of Rectangular Real Matrices",
+      "title_zh": "实矩形矩阵的高阶奇异值导数",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "R\\'ois\\'in Luo, James McDermott, Colm O'Riordan",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种理论框架，用于推导实矩形矩阵中奇异值的n阶Fréchet导数。通过利用Kato自伴算子解析摄动理论中的约化预解算子，将实矩形矩阵视为有限维希尔伯特空间上的紧算子，并将其嵌入到块自伴算子中，从而捕获非对称扰动。该框架为高阶谱灵敏度研究提供了实用工具，特别在随机矩阵应用中具有重要价值，如深度学习中的对抗扰动分析。研究还专门推导了n=2时的Hessian矩阵，填补了文献空白。",
+      "attentionscore": 51.82979999999999,
+      "link": "https://arxiv.org/abs/2506.03764"
+    }
+  },
+  {
+    "output": {
+      "id": "id_539496654",
+      "title": "Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting",
+      "title_zh": "随机扩散：用于随机时间序列预测的扩散概率模型",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Yuansan Liu, Sudanthi Wijewickrema, Dongting Hu, Christofer Bester, Stephen O'Leary, James Bailey",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出了一种新颖的随机扩散模型，通过利用随机潜在空间的表示能力来学习数据驱动的先验知识，以建模多元时间序列数据的变异性。该模型能够捕捉复杂的时间动态和数据的固有不确定性，显著提高了对高度随机时间序列数据的建模能力。研究在真实世界数据集上进行了广泛实验，验证了模型在随机时间序列预测中的有效性，并展示了在现实世界手术指导中的应用潜力，为医学界带来潜在益处。",
+      "attentionscore": 51.479800000000004,
+      "link": "https://arxiv.org/abs/2406.02827"
+    }
+  },
+  {
+    "output": {
+      "id": "id_113423260",
+      "title": "NEF-NET+: Adapting Electrocardio panorama in the wild",
+      "title_zh": "NEF-NET+：在真实环境中适配心电图全景成像",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Zehui Zhan, Yaojun Hu, Jiajing Zhan, Wanchen Lian, Wanqing Wu, Jintai Chen",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出NEF-NET+增强框架，用于现实环境下的心电图全景合成，支持从任意视角合成任意长度信号，并能跨设备泛化及补偿电极放置偏差。通过新的模型架构和校准流程，在真实场景中PSNR指标提升约6dB，并构建了包含5367个记录的Panobench基准数据集，显著改进了传统心电图系统在非标准视角下的诊断能力。",
+      "attentionscore": 44.2882,
+      "link": "https://arxiv.org/abs/2511.02880"
+    }
+  },
+  {
+    "output": {
+      "id": "id_947422209",
+      "title": "TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments",
+      "title_zh": "TIMESAFE：前传环境中的时序中断监控与安全评估",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Joshua Groen, Simone Di Valerio, Imtiaz Karim, Davide Villa, Yiewi Zhang, Leonardo Bonati, Michele Polese, Salvatore D'Oro, Tommaso Melodia, Elisa Bertino, Francesca Cuomo, Kaushik Chowdhury",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究论文揭示了5G前传网络中时间同步协议的安全漏洞，展示了针对PTP协议的欺骗和重放攻击能够在2秒内导致商用O-RAN和5G基站灾难性故障，需要人工干预才能恢复。为应对这一威胁，研究团队设计了基于机器学习的监控解决方案，能够以超过97.5%的准确率检测各种恶意攻击，突显了5G网络时序安全的重要性。",
+      "attentionscore": 40.8798,
+      "link": "https://arxiv.org/abs/2412.13049"
+    }
+  }
+]
