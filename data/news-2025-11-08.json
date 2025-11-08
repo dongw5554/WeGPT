@@ -1,0 +1,119 @@
+[
+  {
+    "output": {
+      "id": "id_1288098327",
+      "title": "Empirical Bayesian Multi-Bandit Learning",
+      "title_zh": "经验贝叶斯多臂老虎机学习",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Xia Jiang, Rong J. B. Zhu",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出了一种新颖的分层贝叶斯框架用于多任务上下文老虎机学习，通过经验贝叶斯方法估计先验分布的协方差矩阵，解决了现有方法忽略老虎机间协方差结构学习的问题。研究开发了ebmTS和ebmUCB两种高效算法，提供了频率主义遗憾上界，填补了多老虎机问题领域的研究空白。在合成和真实数据集上的广泛实验表明，该方法在复杂环境中表现优异，相比现有技术实现了更低的累积遗憾。",
+      "attentionscore": 62.61205,
+      "link": "https://arxiv.org/abs/2510.26284"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1201066922",
+      "title": "Multimodal Cancer Modeling in the Age of Foundation Model Embeddings",
+      "title_zh": "基础模型嵌入时代的多模态癌症建模",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Steven Song, Morgan Borjigin-Wang, Irene Madejski, Robert L. Grossman",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究探讨了在癌症基因组图谱(TCGA)数据上使用基础模型嵌入进行多模态癌症建模的新方法。研究团队展示了多模态融合的简便性和叠加效应，其性能优于单模态模型。特别强调了纳入病理报告文本的益处，并对基于模型的文本摘要和幻觉效应进行了严格评估。这项研究提出了一种以嵌入为中心的多模态癌症建模方法，为癌症研究提供了新的技术路径。",
+      "attentionscore": 62.21205,
+      "link": "https://arxiv.org/abs/2505.07683"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1890971361",
+      "title": "Blackmagic’s free camera app can now stream directly to YouTube and Twitch",
+      "title_zh": "Blackmagic免费相机应用现可直接向YouTube和Twitch直播",
+      "pubdate": "2025-11-07T18:53:33.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Blackmagic Design更新其免费相机应用，新增直接向YouTube、Twitch和Vimeo直播功能，无需第三方应用或额外编码硬件。更新还支持SRT流媒体协议，优化网络不稳定时的传输质量，并增加了自定义RTMP和SRT服务器支持。应用还改进了外部存储设备断开警报，防止高分辨率ProRes文件丢失，以及多视角监控功能，为专业广播和流媒体用户提供更灵活的工作流程。",
+      "attentionscore": 59.92055,
+      "link": "https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch"
+    }
+  },
+  {
+    "output": {
+      "id": "id_229416253",
+      "title": "coverforest: Conformal Predictions with Random Forest in Python",
+      "title_zh": "coverforest：基于Python的随机森林一致性预测",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Panisara Meehinkong, Donlapark Ponnoprat",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "coverforest是一个专门为随机森林优化的Python包，实现了高效的一致性预测方法，包括分割一致性、CV+、Jackknife+-after-bootstrap和自适应预测集等。该包通过并行计算和Cython优化加速了袋外计算，实验表明其预测能达到期望的覆盖水平，训练和预测时间比现有实现快2-9倍。该工具支持回归和分类任务，为机器学习不确定性量化提供了高效解决方案。",
+      "attentionscore": 54.01205,
+      "link": "https://arxiv.org/abs/2501.14570"
+    }
+  },
+  {
+    "output": {
+      "id": "id_354700971",
+      "title": "Test-time Adaptation of Tiny Recursive Models",
+      "title_zh": "微型递归模型的测试时自适应",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Ronan Killian McGovern",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本文研究了一种在ARC Prize竞赛中使用的微型递归模型(TRM)的测试时自适应方法。该模型仅有700万参数，通过在1280个公开ARC任务上进行预训练，在4个H100 SXM GPU上训练48小时后获得约10%的公开评估集得分。研究显示，在竞赛允许的计算限制内，通过仅12500次梯度步骤的微调，该模型在半私有评估任务上达到了6.67%的得分。值得注意的是，这种性能提升是通过完整的微调而非LoRA微调或仅任务嵌入微调实现的。",
+      "attentionscore": 51.70805,
+      "link": "https://arxiv.org/abs/2511.02886"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1173002090",
+      "title": "The best Fitbits for your fitness and health",
+      "title_zh": "最适合您健身与健康的Fitbit设备推荐",
+      "pubdate": "2025-11-07T21:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "本文全面评测了2025年Fitbit产品线，包括Google Pixel Watch 4、Fitbit Inspire 3、Charge 6和Ace LTE等设备。文章客观分析了Fitbit在被Google收购后的转型期现状，既指出了服务器中断、功能调整等挑战，也肯定了设备在健康监测、性价比方面的优势。内容逻辑清晰，对各款产品的功能特性、价格定位和适用场景进行了专业对比，为消费者提供了实用的购买参考。",
+      "attentionscore": 51.44055,
+      "link": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1437913711",
+      "title": "Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment",
+      "title_zh": "快速部署，后期优化：顶尖AI工程师不关心成本——他们优先考虑部署",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "taryn.plumb@venturebeat.com (Taryn Plumb)",
+      "source": "VentureBeat AI",
+      "ai_summary": "文章揭示了AI行业的一个关键趋势：顶尖企业不再将成本视为AI采用的主要障碍，而是更关注部署速度、延迟和容量等运营挑战。Wonder和Recursion两家公司的实践表明，AI成本仅占订单的很小比例，真正的挑战在于云容量限制和基础设施灵活性。Recursion采用混合基础设施策略，将大规模训练放在本地集群，短任务放在云端，成本可降低10倍。文章强调，企业需要从心理上接受对AI的长期投入，避免因害怕成本而限制创新。",
+      "attentionscore": 50.79445,
+      "link": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
+    }
+  },
+  {
+    "output": {
+      "id": "id_408466151",
+      "title": "Spurious Correlation-Aware Embedding Regularization for Worst-Group Robustness",
+      "title_zh": "面向最差群体鲁棒性的伪相关感知嵌入正则化",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Subeen Park, Joowang Kim, Hakyung Lee, Sunjae Yoo, Kyungwoo Song",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为SCER的新方法，旨在解决深度学习模型在分布偏移下对伪相关性的依赖问题。该方法通过在嵌入层面对特征表示施加理论约束，抑制伪相关线索，使模型更关注核心特征而非虚假模式。研究团队从理论上证明了最差群体误差与分类器对伪相关方向和核心方向的依赖程度相关，并通过在多个视觉和语言任务上的系统评估，显示SCER在最差群体准确率上优于现有最先进方法。",
+      "attentionscore": 44.39205,
+      "link": "https://arxiv.org/abs/2511.04401"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1012936740",
+      "title": "Texas sues Roblox for allegedly failing to protect children on its platform",
+      "title_zh": "德克萨斯州起诉Roblox涉嫌未能保护平台上的儿童安全",
+      "pubdate": "2025-11-07T17:51:40.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "德克萨斯州总检察长肯·帕克斯顿起诉Roblox平台，指控其'将像素恋童癖和利润置于德克萨斯州儿童安全之上'，忽视州和联邦在线安全法律。诉讼指控Roblox存在欺骗性交易行为，为儿童掠夺者提供栖息地进行诱骗和性剥削。文章列举了多个州类似诉讼案例，Roblox回应称已推出145项安全措施，并计划实施年龄验证系统。该案反映了社交媒体平台在儿童保护方面面临的监管挑战。",
+      "attentionscore": 39.70055,
+      "link": "https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety"
+    }
+  }
+]
