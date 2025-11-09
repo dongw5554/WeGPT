@@ -1,0 +1,132 @@
+[
+  {
+    "output": {
+      "id": "id_953209922",
+      "title": "Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models",
+      "title_zh": "浅层扩散：通过扩散模型中的低维子空间实现鲁棒且不可见的水印技术",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Wenda Li, Huijie Zhang, Qing Qu",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出了一种名为Shallow Diffuse的新型水印技术，专门针对扩散模型生成的AI内容。该方法通过利用图像生成过程中的低维子空间，将水印嵌入与图像生成过程解耦，使大部分水印位于该子空间的零空间中。理论分析和实验验证表明，这种解耦策略显著提高了数据生成的一致性和水印的可检测性。相比现有方法，Shallow Diffuse在鲁棒性和一致性方面表现更优，为解决AI生成内容的误用和版权侵权问题提供了有效技术方案。",
+      "attentionscore": 63.86205,
+      "link": "https://arxiv.org/abs/2410.21088"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1701210634",
+      "title": "Universal Fourier Neural Operators for periodic homogenization problems in linear elasticity",
+      "title_zh": "线性弹性周期性均匀化问题的通用傅里叶神经算子",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Binh Huy Nguyen, Matti Schneider",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种基于傅里叶神经算子（FNOs）的新方法，用于解决线性弹性中的周期性均匀化问题。该方法结合了快速傅里叶变换（FFT）的物理洞察力，构建了无需训练的FNO代理模型，能够预测任意刚度分布的细胞问题解。该模型不受材料对称性、相数或界面几何形状的限制，具有与经典FFT求解器相媲美的运行时间和内存需求，可处理超过1亿体素的大规模问题。这项工作强调了FNOs在解决微观力学问题方面的潜力，为FFT方法与FNOs之间建立了富有成效的联系。",
+      "attentionscore": 62.26205,
+      "link": "https://arxiv.org/abs/2507.12233"
+    }
+  },
+  {
+    "output": {
+      "id": "id_773001458",
+      "title": "A Proprietary Model-Based Safety Response Framework for AI Agents",
+      "title_zh": "基于专有模型的人工智能代理安全响应框架",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Qi Li, Jianjun Xu, Pingtao Wei, Jiu Li, Peiqiang Zhao, Jiwei Shi, Xuan Zhang, Yanhui Yang, Xiaodong Hui, Peng Xu, Wenqin Shao",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新的AI安全响应框架，针对大语言模型在关键领域部署的安全挑战。框架采用双层级保护机制：输入层通过监督微调的安全分类模型实现四层级风险识别（安全、不安全、条件安全、重点关注），风险召回率达99.3%；输出层结合检索增强生成与专门微调的解释模型，确保所有回答基于实时可信知识库，杜绝信息捏造并实现结果可追溯。实验显示该框架在公共安全评估基准上显著优于基线模型，并在高风险测试集上获得100%安全评分，为构建高安全、高可信的LLM应用提供了有效工程路径。",
+      "attentionscore": 62.10805,
+      "link": "https://arxiv.org/abs/2511.03138"
+    }
+  },
+  {
+    "output": {
+      "id": "id_599566116",
+      "title": "Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework",
+      "title_zh": "迈向自主工程设计：知识引导的多智能体框架",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Varun Kumar, George Em Karniadakis",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇论文提出了一种知识引导的多智能体AI框架，用于自主工程设计。该框架包含三个核心AI代理：图本体学家、设计工程师和系统工程师，分别负责构建知识图谱、生成设计方案和评估反馈。以NACA翼型气动优化为例，展示了该框架如何通过迭代设计循环提升设计效率和质量。研究表明，这种协作式AI代理能够显著提高工程设计过程的效率、一致性和质量。",
+      "attentionscore": 61.58805,
+      "link": "https://arxiv.org/abs/2511.03179"
+    }
+  },
+  {
+    "output": {
+      "id": "id_110826507",
+      "title": "ODE approximation for the Adam algorithm: General and overparametrized setting",
+      "title_zh": "Adam算法的ODE近似：通用与过参数化设置",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Steffen Dereich, Arnulf Jentzen, Sebastian Kassing",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究针对深度学习中广泛使用的Adam优化器，在快速-慢速尺度机制下开发了基于ODE的分析方法。研究表明，在固定动量参数和趋近于零的步长条件下，Adam算法是特定向量场流动的渐近伪轨迹。在通用设置中，如果Adam算法收敛，其极限必须是Adam向量场的零点而非目标函数的局部极小值或临界点。但在过参数化经验风险最小化设置中，Adam算法能够局部找到极小值集合，当进入全局极小值邻域无限次时，会收敛到全局极小值集合。",
+      "attentionscore": 52.99205,
+      "link": "https://arxiv.org/abs/2511.04622"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1444164499",
+      "title": "Exact Expressive Power of Transformers with Padding",
+      "title_zh": "带填充的Transformer的精确表达能力",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "William Merrill, Ashish Sabharwal",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究探讨了通过填充标记作为并行化测试时计算的方法来扩展Transformer模型的表达能力。研究表明，使用多项式填充的平均硬注意力、掩码预归一化Transformer能够精确识别高度并行化问题类别FO-uniform TC^0。研究还揭示了填充与循环深度增加相结合时Transformer的扩展能力，证明带O(log^d n)循环的填充Transformer能够识别中等并行化问题类别FO-uniform TC^d。这些发现为探索填充和循环作为思维链的并行化替代方案提供了理论基础。",
+      "attentionscore": 52.61205,
+      "link": "https://arxiv.org/abs/2505.18948"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1497154249",
+      "title": "Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data",
+      "title_zh": "基于动态偏移数据的强化学习复合流匹配方法",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Lingkai Kong, Haichuan Wang, Tonghan Wang, Guojun Xiong, Milind Tambe",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出CompFlow方法，针对强化学习中源环境与目标环境动态差异问题，通过流匹配与最优传输的理论联系，构建复合流结构来学习目标动态。该方法相比传统KL散度或互信息估计，能够处理动态分布不重叠的情况，并通过Wasserstein距离提供更合理的动态差异估计。实验证明CompFlow在多个动态偏移的RL基准测试中优于现有基线方法，具有更好的泛化能力和性能表现。",
+      "attentionscore": 51.99205,
+      "link": "https://arxiv.org/abs/2505.23062"
+    }
+  },
+  {
+    "output": {
+      "id": "id_143318654",
+      "title": "Evaluating Control Protocols for Untrusted AI Agents",
+      "title_zh": "评估不可信AI代理的控制协议",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Jon Kutasov, Chloe Loughridge, Yuqi Sun, Henry Sleight, Buck Shlegeris, Tyler Tracy, Joe Benton",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究系统评估了针对不可信AI代理的各种控制协议，在SHADE-Arena多样化代理环境中进行测试。研究发现，针对关键行动进行延迟和重新采样的蓝队协议可将安全性从50%提升至96%。然而，当红队策略具备额外能力时，如了解重新采样时机或模拟监控器，攻击成功率显著提高，安全性降至17%。关键行动延迟协议表现出高度鲁棒性，强调了拒绝攻击策略访问协议内部信息的重要性。",
+      "attentionscore": 51.70805,
+      "link": "https://arxiv.org/abs/2511.02997"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2065669634",
+      "title": "Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference",
+      "title_zh": "Mustafar：在LLM推理中促进非结构化稀疏性以实现KV缓存剪枝",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出Mustafar方法，通过非结构化稀疏性显著改进LLM中的KV缓存压缩，可在不损失精度或需要微调的情况下实现高达70%的稀疏度。研究发现基于每个token幅度的剪枝策略对Key和Value缓存都极为有效，超越了先前的结构化剪枝方案。该方法采用基于位图的稀疏格式和自定义注意力内核，能够压缩并直接在压缩后的缓存上进行计算，将KV缓存压缩至密集推理的45%，使上下文长度更长，吞吐量提升高达2.23倍。",
+      "attentionscore": 45.99205,
+      "link": "https://arxiv.org/abs/2505.22913"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1178072441",
+      "title": "Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training",
+      "title_zh": "临界批大小再探讨：一种简单的大批量语言模型训练实证方法",
+      "pubdate": "2025-11-07T05:00:00.000Z",
+      "creator": "William Merrill, Shane Arora, Dirk Groeneveld, Hannaneh Hajishirzi",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种简单实证方法来直接测量语言模型训练中的临界批大小，发现临界批大小在训练初期接近0，随后快速增长并趋于平稳。该方法在OLMo模型上验证有效，且不同规模模型（1B和7B）呈现相似趋势。基于此发现，研究提出了批大小预热策略：从小批大小开始训练，随临界批大小增长而逐步增加。实验证明，使用批大小预热训练OLMo 1B模型，比原始训练减少43%梯度步数且获得略优性能，为大批量训练提供了可靠框架。",
+      "attentionscore": 44.06205,
+      "link": "https://arxiv.org/abs/2505.23971"
+    }
+  }
+]
