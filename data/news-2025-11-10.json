@@ -1,0 +1,93 @@
+[
+  {
+    "output": {
+      "id": "id_315258939",
+      "title": "Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement",
+      "title_zh": "基于模式感知扩散的fMRI/dMRI合成与组织和微结构优化",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Xiongri Shen, Jiaqi Wang, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种名为PDS的创新方法，用于解决功能磁共振成像（fMRI）和扩散磁共振成像（dMRI）模态缺失问题。该方法采用模式感知双模态3D扩散框架进行跨模态学习，并整合组织优化网络与高效微结构优化技术，以保持结构保真度和细节精度。在OASIS-3、ADNI和内部数据集上的评估显示，该方法在fMRI合成中PSNR/SSIM达到29.83 dB/90.84%，在dMRI合成中达到30.00 dB/77.55%，均优于基线方法。临床验证表明合成数据具有良好的诊断性能，在混合真实-合成实验中达到67.92%/66.02%/64.15%的准确率。",
+      "attentionscore": 63.28805,
+      "link": "https://arxiv.org/abs/2511.04963"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1490789456",
+      "title": "ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property",
+      "title_zh": "ORCHID：面向高风险资产的基于人机协同智能决策的编排式检索增强分类系统",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Maria Mahbub, Vanessa Lama, Sanjay Das, Brian Starks, Christopher Polchek, Saffell Silvers, Lauren Deck, Prasanna Balaprakash, Tirthankar Ghosal",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "ORCHID是美国能源部开发的一种模块化智能系统，专门用于高风险资产分类。该系统结合检索增强生成技术和人工监督，通过多个协作智能体（检索、描述精炼、分类、验证和反馈记录）协同工作，采用模型上下文协议实现模型无关的本地部署。在真实高风险资产案例测试中，ORCHID相比非智能体基线系统显著提高了分类准确性和可追溯性，同时将不确定项目交由领域专家处理。该系统提供逐步推理、政策引用和仅追加审计包等功能，为敏感合规工作流程提供了可信赖的大语言模型辅助解决方案。",
+      "attentionscore": 62.95805,
+      "link": "https://arxiv.org/abs/2511.04956"
+    }
+  },
+  {
+    "output": {
+      "id": "id_453583151",
+      "title": "Reasoning Is All You Need for Urban Planning AI",
+      "title_zh": "推理即城市规划AI所需的一切",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Sijie Yang, Jiatong Li, Filip Biljecki",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇立场论文提出了基于推理能力的城市规划AI框架，整合了感知、基础和推理三个认知层与六个逻辑组件。文章强调城市规划决策需要基于价值的推理能力、规则基础的约束满足和可解释的决策过程，这些是传统统计学习无法满足的。该框架展示了AI如何通过系统探索解决方案空间、验证法规合规性和透明权衡来增强人类规划师，而非替代人类判断，而是通过计算推理能力来放大人类判断。",
+      "attentionscore": 62.90805,
+      "link": "https://arxiv.org/abs/2511.05375"
+    }
+  },
+  {
+    "output": {
+      "id": "id_59478218",
+      "title": "Real-Time Reasoning Agents in Evolving Environments",
+      "title_zh": "演化环境中的实时推理智能体",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Yule Wen, Yixin Ye, Yanzhe Zhang, Diyi Yang, Hao Zhu",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出实时推理作为演化环境中智能体的新问题框架，构建了Real-Time Reasoning Gym实验平台。研究比较了两种语言模型部署范式：反应式智能体（有限推理计算快速响应）和规划式智能体（扩展推理计算处理复杂问题）。实验表明即使最先进模型也难以在两种范式中同时做出逻辑和及时的判断。为此，研究提出AgileThinker方法，同时采用两种推理范式，在任务难度和时间压力增加时持续优于单一范式智能体，有效平衡推理深度和响应延迟。该工作为开发实用智能体建立了关键测试平台，为时间约束AI系统研究奠定基础。",
+      "attentionscore": 61.70805,
+      "link": "https://arxiv.org/abs/2511.04898"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1415840112",
+      "title": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
+      "title_zh": "CNN模型在多个内存计算单元上的高效部署",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Eleni Bougioukou, Theodore Antonakopoulos",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探讨了在内存计算(IMC)硬件上高效部署卷积神经网络(CNN)的方法，提出了一种名为负载平衡最长路径(LBLP)的动态任务分配算法。该算法通过将CNN节点动态分配到多个处理单元，旨在最大化处理速率并最小化延迟。研究使用IMC仿真器验证了LBLP算法在多种CNN模型上的有效性，相比其他调度策略表现出更好的性能，为解决深度学习加速中的数据移动瓶颈提供了创新解决方案。",
+      "attentionscore": 51.70805,
+      "link": "https://arxiv.org/abs/2511.04682"
+    }
+  },
+  {
+    "output": {
+      "id": "id_845935664",
+      "title": "Building Specialized Software-Assistant ChatBot with Graph-Based Retrieval-Augmented Generation",
+      "title_zh": "基于图检索增强生成的专业软件助手聊天机器人构建",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Mohammed Hilel, Yannis Karmim, Jean De Bodinat, Reda Sarehane, Antoine Gillon",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出了一种基于图检索增强生成的框架，用于构建专业软件助手聊天机器人。该框架将企业Web应用自动转换为状态-动作知识图谱，使大型语言模型能够生成基于实际软件环境的可靠指导。通过与AI企业RAKAM和Lemon Learning合作开发，解决了传统数字采用平台构建和维护成本高的问题，同时避免了LLM产生幻觉回答的风险。文章详细介绍了工程管道、图检索流程设计以及在生产环境中的部署经验。",
+      "attentionscore": 51.66205,
+      "link": "https://arxiv.org/abs/2511.05297"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1188692563",
+      "title": "OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data",
+      "title_zh": "OvA-LP：非独立同分布数据上联邦学习的简单高效框架",
+      "pubdate": "2025-11-10T05:00:00.000Z",
+      "creator": "Dongjin Park, Hasung Yeo, Joon-Woo Lee",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本文提出OvA-LP框架，专门解决联邦微调在异构客户端分布下的局部漂移问题。该框架结合冻结编码器的线性探测与一对多头部设计，通过两阶段流程抑制漂移源头，在CIFAR-100实验中保持95.9%的IID准确率，显著优于现有方法。OvA-LP在对称和非对称标签噪声下均表现稳健，且预计算编码器特征使每轮成本几乎与编码器大小无关，为异构环境下的鲁棒联邦学习提供了理论基础。",
+      "attentionscore": 51.48805,
+      "link": "https://arxiv.org/abs/2511.05028"
+    }
+  }
+]
