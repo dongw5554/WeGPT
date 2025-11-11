@@ -1,0 +1,132 @@
+[
+  {
+    "output": {
+      "id": "id_1296626031",
+      "title": "ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property",
+      "title_zh": "ORCHID：面向高风险资产的人机协同智能决策检索增强分类系统",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Maria Mahbub, Vanessa Lama, Sanjay Das, Brian Starks, Christopher Polchek, Saffell Silvers, Lauren Deck, Prasanna Balaprakash, Tirthankar Ghosal",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "ORCHID是美国能源部开发的一种模块化代理系统，专门用于高风险资产分类。该系统结合检索增强生成技术和人工监督，通过多智能体协作（检索、描述优化、分类、验证和反馈记录）实现政策合规决策。采用模型上下文协议实现模型无关的本地化操作，提供从项目到证据再到决策的完整闭环流程。初步测试显示，ORCHID在真实高风险资产案例中相比非代理基线系统提高了准确性和可追溯性，同时将不确定项目交由领域专家处理，为敏感合规工作流程提供了可信赖的LLM辅助解决方案。",
+      "attentionscore": 63.64475000000001,
+      "link": "https://arxiv.org/abs/2511.04956"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1509177529",
+      "title": "Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs",
+      "title_zh": "扎根现实：从离线日志中学习并部署主动式大语言模型",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Fei Wei, Daoyuan Chen, Ce Wang, Yilun Huang, Yushuo Chen, Xuchen Pan, Yaliang Li, Bolin Ding",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种名为'Learn-to-Ask'的创新框架，旨在解决大语言模型从被动响应转向主动对话的挑战。该框架直接从离线专家数据中学习，无需用户模拟器，通过利用专家轨迹的'观察未来'来推断密集的逐轮奖励信号。研究在真实医疗数据集上验证了方法的有效性，使用高达32B参数的大语言模型，并成功部署到大规模在线AI服务中。内部评估显示，该模型表现甚至优于人类专家，为将被动LLM转化为主动目标导向应用提供了实用且经济可行的蓝图。",
+      "attentionscore": 62.79475,
+      "link": "https://arxiv.org/abs/2510.25441"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1272009625",
+      "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+      "title_zh": "我们迄今发现的最佳黑色星期五早期优惠：笔记本电脑、电视等产品折扣汇总",
+      "pubdate": "2025-11-10T22:32:29.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "这篇文章详细介绍了黑色星期五前期的各类科技产品优惠信息，涵盖笔记本电脑、电视、耳机、智能手表、智能家居设备等多个品类。文章列举了苹果MacBook Air、Fitbit系列、Bose耳机、LG OLED电视等热门产品的历史低价折扣，并提供了亚马逊、沃尔玛、百思买等主要零售商的购买渠道。内容结构清晰，产品信息详细，折扣力度显著，为消费者提供了实用的购物指南和优惠参考。",
+      "attentionscore": 61.99545,
+      "link": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1229459933",
+      "title": "DynaSpec: Context-aware Dynamic Speculative Sampling for Large-Vocabulary Language Models",
+      "title_zh": "DynaSpec：面向大词汇量语言模型的上下文感知动态推测采样",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Jinbin Zhang, Nasib Ullah, Erik Schultheis, Rohit Babbar",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出DynaSpec方法，针对大词汇量语言模型推理加速中的瓶颈问题，创新性地采用上下文感知的动态短列表机制。通过轻量级元分类器将上下文路由到少量token簇，在保持验证阶段完整词汇表的同时，显著提升了推测解码效率。实验表明，在Llama-3-8B模型上，DynaSpec能达到完整词汇表性能的98.2%，相比固定短列表基线的84.4%有显著提升，生成token数量可达固定词汇表方法的2.18倍，为大规模语言模型的高效推理提供了有效解决方案。",
+      "attentionscore": 61.93545,
+      "link": "https://arxiv.org/abs/2510.13847"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2113164710",
+      "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+      "title_zh": "为美国过渡期军人和退伍军人提供免费ChatGPT服务",
+      "pubdate": "2025-11-10T02:00:00.000Z",
+      "creator": "Unknown",
+      "source": "OpenAI Blog",
+      "ai_summary": "OpenAI宣布为即将退役或分离的美国军人及退伍军人提供为期一年的免费ChatGPT Plus服务，旨在支持他们向平民生活的过渡。该工具可协助用户制作简历、准备面试、规划教育路径以及制定未来计划，体现了AI技术在支持军人职业转型方面的积极应用。这一举措不仅展现了科技公司对社会责任的担当，也为军人群体提供了实用的数字化支持工具。",
+      "attentionscore": 54.076,
+      "link": "https://openai.com/index/chatgpt-for-veterans"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1479133006",
+      "title": "Private Statistical Estimation via Truncation",
+      "title_zh": "基于截断的私有统计估计",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Manolis Zampetakis, Felix Zhou",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种基于数据截断的差分隐私统计估计新框架，解决了数据支持无界时的关键挑战。通过利用截断统计技术，开发了指数族分布的高效差分隐私估计器，包括高斯均值和协方差估计，实现了接近最优的样本复杂度。该方法通过截断降低敏感度，同时使用最大似然估计和差分隐私随机梯度下降校正偏差，为差分隐私算法设计提供了通用蓝图。",
+      "attentionscore": 53.88545,
+      "link": "https://arxiv.org/abs/2505.12541"
+    }
+  },
+  {
+    "output": {
+      "id": "id_151488187",
+      "title": "USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding",
+      "title_zh": "USF-MAE：基于掩码自编码的超声自监督基础模型",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Youssef Megahed, Robin Ducharme, Aylin Erman, Mark Walker, Steven Hawken, Adrian D. C. Chan",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本研究提出了首个专门针对超声图像的大规模自监督基础模型USF-MAE，采用掩码自编码技术，在37万张2D和3D超声图像上预训练。该模型在OpenUS-46数据集上学习模态特定表征，无需标注数据即可获得优异性能。在乳腺癌、卵巢肿瘤和胃肠道间质瘤三个分类任务中，USF-MAE均优于传统CNN和ViT基线，F1分数分别达到81.6%、79.6%和82.4%，展现出强大的跨解剖区域泛化能力。",
+      "attentionscore": 52.17475,
+      "link": "https://arxiv.org/abs/2510.22990"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1189343928",
+      "title": "Measuring Model Performance in the Presence of an Intervention",
+      "title_zh": "干预存在下的模型性能测量",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Winston Chen, Michael W. Sjoding, Jenna Wiens",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究探讨了在存在干预措施情况下AI模型性能评估的挑战。作者指出，随机对照试验中传统方法仅使用对照组数据进行模型评估效率低下，忽略了治疗组数据。研究提出了nuisance parameter weighting方法，通过重新加权治疗组数据来模拟无干预情况下的结果分布，从而获得无偏的模型评估。该方法在合成和真实数据集上验证，在各种干预效果和样本量设置下均优于标准方法，为现实场景中更高效的模型评估提供了重要进展。",
+      "attentionscore": 52.08545,
+      "link": "https://arxiv.org/abs/2511.05805"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1134226526",
+      "title": "FlowNet: Modeling Dynamic Spatio-Temporal Systems via Flow Propagation",
+      "title_zh": "FlowNet：通过流传播建模动态时空系统",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Yutong Feng, Xu Liu, Yutong Xia, Yuxuan Liang",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为FlowNet的新型架构，通过流传播机制建模复杂动态时空系统。该方法采用物理启发的范式，利用可量化的流转移来模拟动态节点耦合，通过流分配模块确保状态重分布符合守恒定律。FlowNet通过自适应空间掩码模块动态调整交互半径，抑制无关噪声并实现上下文感知传播。实验结果表明，在三个真实世界系统的建模中，FlowNet在七个指标上显著优于现有最先进方法，验证了其效率和物理可解释性。",
+      "attentionscore": 51.48545,
+      "link": "https://arxiv.org/abs/2511.05595"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1551372486",
+      "title": "Hybrid Autoencoders for Tabular Data: Leveraging Model-Based Augmentation in Low-Label Settings",
+      "title_zh": "面向表格数据的混合自编码器：在低标签设置中利用基于模型的增强",
+      "pubdate": "2025-11-11T05:00:00.000Z",
+      "creator": "Erel Naor, Ofir Lindenbaum",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种混合自编码器方法，结合神经编码器和软决策树编码器，通过模型特定特征选择实现基于模型的增强。该方法针对表格数据中深度神经网络对无关特征敏感和频谱偏差的问题，在低标签设置下显著提升了分类和回归性能。两个编码器通过共享解码器和交叉重构损失学习互补表示，推理时仅使用神经编码器保持灵活性。该方法在多个表格数据集上超越了深度和基于树的监督基线方法。",
+      "attentionscore": 50.93545,
+      "link": "https://arxiv.org/abs/2511.06961"
+    }
+  }
+]
