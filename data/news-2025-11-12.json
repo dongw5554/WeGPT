@@ -1,0 +1,119 @@
+[
+  {
+    "output": {
+      "id": "id_1425823238",
+      "title": "LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval",
+      "title_zh": "LeanRAG：基于知识图谱的生成与语义聚合及分层检索",
+      "pubdate": "2025-11-12T05:00:00.000Z",
+      "creator": "Yaoze Zhang, Rong Wu, Pinlong Cai, Xiaoman Wang, Guohang Yan, Song Mao, Ding Wang, Botian Shi",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "LeanRAG是一个创新的知识图谱增强生成框架，通过语义聚合和分层检索策略解决传统RAG方法的问题。该框架采用新颖的语义聚合算法构建实体聚类，在聚合级摘要间建立显式关系，形成完全可导航的语义网络。同时，自底向上的结构引导检索策略能够锚定查询到最相关的细粒度实体，并系统遍历图谱语义路径收集简洁而上下文全面的证据集。在四个不同领域的问答基准测试中，LeanRAG显著优于现有方法，在提高响应质量的同时减少46%的检索冗余。",
+      "attentionscore": 63.36915,
+      "link": "https://arxiv.org/abs/2508.10391"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1442984181",
+      "title": "Schedulers for Schedule-free: Theoretically inspired hyperparameters",
+      "title_zh": "无调度器的调度自由：理论启发的超参数",
+      "pubdate": "2025-11-12T05:00:00.000Z",
+      "creator": "Yuen-Man Pun, Matthew Buchholz, Robert M. Gower",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇论文由Yuen-Man Pun等人提出，针对最近提出的schedule-free方法进行了理论扩展。研究将schedule-free的收敛理论从仅支持恒定学习率扩展到允许任何调度器，并展示了如何根据学习率更新平均参数。论文通过实验验证了该理论在深度神经网络上的预测能力，尽管理论基于凸性假设。研究还设计了新的自适应Polyak学习率调度方案，证明了最优的任意时间最后迭代收敛性，并在黑盒模型蒸馏任务中表现出色。",
+      "attentionscore": 62.2215,
+      "link": "https://arxiv.org/abs/2511.07767"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1338625030",
+      "title": "The LG G5 takes OLED performance to another level",
+      "title_zh": "LG G5将OLED性能提升至全新高度",
+      "pubdate": "2025-11-11T16:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "LG G5作为高端画廊风格电视，采用超薄设计和壁挂式安装，外观精致时尚。该电视具有深邃的黑色水平和精准的色彩灰度准确性，提供令人惊艳的视觉体验。相比去年的G4型号，G5在亮度方面有显著提升，镜面高光效果明亮而绚丽。作者多次向亲友推荐LG OLED电视，认为它们始终是市场上最佳电视选择之一，G5同样值得推荐，能将普通电影之夜变得格外特别。",
+      "attentionscore": 61.20265,
+      "link": "https://www.theverge.com/tech/817807/lg-g5-oled-tv-review"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1508251830",
+      "title": "Google is introducing its own version of Apple’s private AI cloud compute",
+      "title_zh": "谷歌推出类似苹果私人AI云计算的自家版本",
+      "pubdate": "2025-11-11T19:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "谷歌推出名为Private AI Compute的云平台，让用户在享受先进AI功能的同时保护数据隐私。该平台与苹果的Private Cloud Compute类似，将复杂AI请求发送到云端处理，确保敏感数据仅用户可见。此举旨在解决设备算力不足与AI功能需求增长的矛盾，预计Pixel 10等设备将获得更个性化的AI建议和更广泛的语言转录功能。",
+      "attentionscore": 61.15265,
+      "link": "https://www.theverge.com/news/818364/google-private-ai-compute"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1756573788",
+      "title": "Multistep Quasimetric Learning for Scalable Goal-conditioned Reinforcement Learning",
+      "title_zh": "用于可扩展目标条件强化学习的多步拟度量学习",
+      "pubdate": "2025-11-12T05:00:00.000Z",
+      "creator": "Bill Chunyuan Zheng, Vivek Myers, Benjamin Eysenbach, Sergey Levine",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇论文提出了一种创新的多步拟度量学习方法，用于解决目标条件强化学习中的长时程推理挑战。该方法将时间差分方法与蒙特卡洛方法相结合，通过多步蒙特卡洛回报拟合拟度量距离，在长达4000步的模拟任务中表现优于现有方法。研究还展示了该方法在真实世界机器人操作领域的应用，能够从未标记的离线视觉观测数据集中实现多步拼接，这是首个在该领域实现端到端多步拼接的GCRL方法。",
+      "attentionscore": 54.8015,
+      "link": "https://arxiv.org/abs/2511.07730"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2141712363",
+      "title": "Biologically-Informed Hybrid Membership Inference Attacks on Generative Genomic Models",
+      "title_zh": "基于生物学信息的生成式基因组模型混合成员推断攻击",
+      "pubdate": "2025-11-12T05:00:00.000Z",
+      "creator": "Asia Belfiore, Jonathan Passerat-Palmbach, Dmitrii Usynin",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探讨了语言模型在生成合成基因突变谱中的应用，利用差分隐私保护敏感基因数据。作者提出了一种新颖的基于生物学信息的混合成员推断攻击方法，结合传统黑盒攻击与基因组学指标，显著提升了攻击效果。实验表明，小型和大型Transformer GPT类模型都适用于小规模基因组学的合成变体生成，且混合攻击相比传统基于指标的成员推断攻击具有更高的对抗成功率。",
+      "attentionscore": 52.09915,
+      "link": "https://arxiv.org/abs/2511.07503"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1263264395",
+      "title": "Pixel phones are getting notification summaries",
+      "title_zh": "Pixel手机将获得通知摘要功能",
+      "pubdate": "2025-11-11T19:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "谷歌为Pixel手机推出重要更新，新增AI驱动的通知摘要功能，目前仅限于聊天对话应用。该功能将随本月更新在Pixel 9系列及更新机型上线（Pixel 9A除外）。同时扩展诈骗检测功能至第三方聊天应用如Telegram和Discord，并在Messages应用中增加AI照片重混功能。谷歌采取谨慎策略，避免重蹈苹果AI功能的覆辙，12月还将推出自动分类通知功能。",
+      "attentionscore": 51.15265,
+      "link": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1260772252",
+      "title": "Sandisk’s new 1TB USB-C drive is so small you never need to take it out",
+      "title_zh": "Sandisk新款1TB USB-C闪存盘小巧到无需拔出",
+      "pubdate": "2025-11-11T14:38:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Sandisk推出号称全球最小的1TB USB-C闪存盘Extreme Fit，采用L型设计可永久插在笔记本电脑上使用。该产品提供64GB至1TB多种容量选择，传输速度最高400MB/s，采用USB 3.2 Gen 1接口。设计理念为'免拔插'存储升级方案，但需注意USB-C接口的脆弱性。目前在美国等地发售，1TB版本售价117.99美元起。",
+      "attentionscore": 49.73265,
+      "link": "https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd"
+    }
+  },
+  {
+    "output": {
+      "id": "id_227149452",
+      "title": "WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking",
+      "title_zh": "WaterMod：面向概率平衡LLM水印的模块化令牌等级分区",
+      "pubdate": "2025-11-12T05:00:00.000Z",
+      "creator": "Shinwoo Park, Hyejin Park, Hyeseon Ahn, Yo-Sub Han",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇文章介绍了一种名为WaterMod的新型大语言模型水印技术，通过模块化令牌等级分区实现概率平衡的水印嵌入。该技术将词汇表按模型概率降序排列后，通过模运算分区将语义相似的令牌分配到不同类别，应用固定偏置实现水印嵌入。在零比特设置中，通过熵自适应门选择奇偶性作为绿色列表，确保至少一个高概率令牌可用于采样。在多比特设置中，当前有效载荷数字选择颜色类别，实现细粒度的来源追踪。实验结果表明，WaterMod在保持生成质量的同时，在零比特和多比特设置中均实现了强大的水印检测性能。",
+      "attentionscore": 44.19915,
+      "link": "https://arxiv.org/abs/2511.07863"
+    }
+  }
+]
