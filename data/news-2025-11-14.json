@@ -1,0 +1,145 @@
+[
+  {
+    "output": {
+      "id": "id_3534584",
+      "title": "The best phone to buy right now",
+      "title_zh": "当前最佳手机购买推荐",
+      "pubdate": "2025-11-13T19:07:22.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "这是一篇全面的手机购买指南，详细评测了2025年各价位段最佳手机选择。文章重点推荐了iPhone 17作为大多数用户的首选，Pixel 10作为最佳安卓手机，以及三星Galaxy S25 Ultra作为高端安卓旗舰。同时涵盖了折叠手机、翻盖手机和预算机型，包括Pixel 9A、iPhone 17 Pro、Galaxy Z Flip 7和Pixel 10 Pro Fold等。文章分析客观全面，既承认当前手机创新的放缓，又为不同需求和预算的用户提供了实用建议。",
+      "attentionscore": 62.10835,
+      "link": "https://www.theverge.com/22163811/best-phone"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1333779981",
+      "title": "Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more",
+      "title_zh": "Valve认为Arm架构在SteamOS手持设备、笔记本电脑等方面具有'潜力'",
+      "pubdate": "2025-11-12T19:20:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Valve软件工程师Pierre-Loup Griffais表示，公司对Arm架构在SteamOS设备中的潜力感到兴奋，认为这将为超便携设备、更强大的笔记本电脑、手持设备甚至桌面芯片铺平道路。Valve正在持续优化SteamOS以支持更多Arm设备，并提升游戏兼容性和性能表现。尽管公司目前未透露Steam Deck 2的具体计划，但已有其他硬件厂商就手持设备与Valve接洽，显示出Arm架构在游戏硬件领域的广阔前景。",
+      "attentionscore": 60.96835,
+      "link": "https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1230739357",
+      "title": "Test-Time Reinforcement Learning for GUI Grounding via Region Consistency",
+      "title_zh": "基于区域一致性的GUI定位测试时强化学习",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, Chang Zong, Weiming Lu, Shengpei Jiang, Yongliang Shen",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新的GUI定位方法GUI-RC和GUI-RCPO，通过利用模型预测的空间重叠模式来识别共识区域，无需额外训练即可提高定位精度。GUI-RC通过构建空间投票网格识别模型一致性最高的区域，在ScreenSpot基准测试中使各种架构的准确率提升2-3%。GUI-RCPO进一步将一致性模式转化为奖励，实现测试时强化学习，仅使用1272个未标记数据就能在相同基准上实现3-6%的准确率提升，为开发更高效的数据GUI智能体开辟了新途径。",
+      "attentionscore": 60.69585,
+      "link": "https://arxiv.org/abs/2508.05615"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1472866766",
+      "title": "Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction",
+      "title_zh": "Feature-EndoGaussian：手术可变形场景重建中的特征蒸馏高斯泼溅技术",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Kai Li, Junhao Wang, William Han, Ding Zhao",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出Feature-EndoGaussian (FE-4DGS)技术，这是首个利用特征蒸馏4D高斯泼溅技术实现可变形手术环境实时重建和语义分割的管道。与传统方法不同，该技术能够无缝集成预训练的2D语义嵌入，生成统一的4D表示，使语义信息随组织运动而变形。该方法通过单一并行化光栅化过程实现实时RGB和语义输出，在保持61FPS实时渲染的同时，在EndoNeRF和SCARED数据集上达到最先进的渲染保真度，并在EndoVis18分割任务中表现优异，为微创手术提供了高保真度的实时视觉反馈。",
+      "attentionscore": 60.54585,
+      "link": "https://arxiv.org/abs/2503.06161"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1998924705",
+      "title": "Xiaoice: Training-Free Video Understanding via Self-Supervised Spatio-Temporal Clustering of Semantic Features",
+      "title_zh": "小冰：基于自监督时空聚类的语义特征实现免训练视频理解",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Shihao Ji, Zihui Song",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新的免训练视频理解框架，通过将预训练视觉语言模型的语义先验与经典机器学习算法相结合，将视频理解重新定义为高维语义特征空间中的自监督时空聚类问题。该方法无需端到端训练，能够自动将视频流分割为语义连贯的事件段，并通过无监督聚类识别重复出现的宏观场景和主题，最终生成结构化的多模态视频摘要。这一框架为零样本视频内容自动结构分析提供了有效、可解释且模型无关的解决方案。",
+      "attentionscore": 60.14585,
+      "link": "https://arxiv.org/abs/2510.16781"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1203077027",
+      "title": "Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance",
+      "title_zh": "医疗制造双模式深度异常检测：结构相似性与特征距离",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Julio Zanon Diaz, Georgios Siogkas, Peter Corcoran",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究针对医疗设备制造中的自动化视觉检测挑战，提出了两种注意力引导的自编码器架构。第一种采用多尺度结构相似性指数实现实时缺陷检测，第二种应用马氏距离分析进行特征空间监控。两种方法共享轻量级主干网络，在表面密封图像数据集上表现优于现有基准方法，并在MVTec-Zipper基准测试中达到先进水平。该双模式框架集成了在线异常检测和监控功能，提升了安全关键制造环境中AI系统的可靠性、可观测性和生命周期监控能力。",
+      "attentionscore": 60.14585,
+      "link": "https://arxiv.org/abs/2509.05796"
+    }
+  },
+  {
+    "output": {
+      "id": "id_612068872",
+      "title": "I rode in one of the UK’s first self-driving cars",
+      "title_zh": "我体验了英国首批自动驾驶汽车",
+      "pubdate": "2025-11-14T07:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "文章记录了作者在英国体验Wayve自动驾驶汽车的经历，表达了对技术发展的惊喜。Wayve与Uber计划在2026年于伦敦测试Level 4全自动驾驶出租车，这是政府推动自动驾驶技术发展的一部分。Alphabet旗下的Waymo也在关注伦敦市场，展现了国际科技公司对英国自动驾驶市场的兴趣，反映了自动驾驶技术在全球的快速发展趋势。",
+      "attentionscore": 59.78835,
+      "link": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
+    }
+  },
+  {
+    "output": {
+      "id": "id_873391255",
+      "title": "Biologically-Informed Hybrid Membership Inference Attacks on Generative Genomic Models",
+      "title_zh": "基于生物信息学的混合成员推理攻击在生成式基因组模型中的应用",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Asia Belfiore, Jonathan Passerat-Palmbach, Dmitrii Usynin",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究探讨了使用语言模型生成合成基因突变谱的方法，并采用差分隐私技术保护敏感基因数据。作者提出了一种新颖的基于生物信息学的混合成员推理攻击方法，结合传统黑盒攻击与基因组上下文指标，显著提升了攻击成功率。实验表明，小型和大型GPT类变换器模型均可作为小规模基因组学的可行合成变异生成器，且混合攻击方法相比传统基于指标的成员推理攻击具有更高的对抗成功率。",
+      "attentionscore": 50.47585,
+      "link": "https://arxiv.org/abs/2511.07503"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1368376583",
+      "title": "A Critical Review of the Need for Knowledge-Centric Evaluation of Quranic Recitation",
+      "title_zh": "《古兰经》诵读知识中心评估需求的批判性审视",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Mohammed Hilal Al-Kharusi, Khizar Hayat, Khalil Bader Al Ruqeishi, Haroon Rashid Lone",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇文献综述批判性地分析了当前《古兰经》诵读（Tajweed）自动评估系统的局限性。作者指出现有基于自动语音识别（ASR）的系统过分强调词语识别，而忽视了对诵读质量的声学评估，存在数据集偏见、人口统计差异等问题。文章主张从数据为中心的方法转向基于知识的计算框架，利用《古兰经》文本的不变性和Tajweed的明确规则，建立基于发音原则和发音点的规则声学模型。最终结论是，未来的自动评估系统应是结合语言专业知识与先进音频处理的混合系统，以开发可靠、公平且教育有效的工具。",
+      "attentionscore": 50.47585,
+      "link": "https://arxiv.org/abs/2510.12858"
+    }
+  },
+  {
+    "output": {
+      "id": "id_244329472",
+      "title": "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions",
+      "title_zh": "利用深度库普曼特征函数寻找动力学流的分界线",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Kabir V. Dabholkar, Omri Barak",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种结合库普曼理论和深度神经网络的新数值框架，用于有效表征高维动力系统中的分界线。该方法通过近似与实正特征值相关的库普曼特征函数，这些函数在分界线处恰好消失，从而利用优化方法精确定位复杂系统中的分界边界。研究在合成基准测试、生态网络模型以及高维循环神经网络上验证了方法的有效性，并展示了在神经科学实验中设计最佳扰动以跨越分界线的实际应用价值。",
+      "attentionscore": 50.39345,
+      "link": "https://arxiv.org/abs/2505.15231"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1743321979",
+      "title": "Google is still aiming for its “moonshot” 2030 energy goals",
+      "title_zh": "谷歌仍致力于实现其'登月计划'般的2030年能源目标",
+      "pubdate": "2025-11-13T11:00:00.000Z",
+      "creator": "Casey Crownhart",
+      "source": "MIT Technology Review AI",
+      "ai_summary": "文章报道了Google公司仍在坚持其'登月计划'般的2030年能源目标。作为MIT Technology Review年度旗舰会议EmTech MIT的报道内容，重点关注了气候议题，特别是Google在可持续能源方面的长期战略规划和创新努力，体现了科技巨头在应对气候变化方面的持续承诺。",
+      "attentionscore": 46.54465,
+      "link": "https://www.technologyreview.com/2025/11/13/1127896/google-energy-goals/"
+    }
+  }
+]
