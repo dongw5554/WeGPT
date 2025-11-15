@@ -1,0 +1,262 @@
+[
+  {
+    "output": {
+      "id": "id_289621373",
+      "title": "MIRNet: Integrating Constrained Graph-Based Reasoning with Pre-training for Diagnostic Medical Imaging",
+      "title_zh": "MIRNet：整合约束图推理与预训练用于诊断医学影像",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Shufeng Kong, Zijie Wang, Nuan Cui, Hao Tang, Yihan Meng, Yuanyuan Wei, Feifan Chen, Yingheng Wang, Zhuo Cai, Yaonan Wang, Yulong Zhang, Yuzheng Li, Zibin Zheng, Caihua Liu",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "MIRNet是一种创新的医学影像诊断框架，整合了自监督预训练与约束图推理技术。该研究针对舌象诊断这一复杂领域，通过掩码自编码器学习视觉表征，利用图注意力网络建模标签关联，并引入临床先验约束优化。同时发布了TongueAtlas-4K数据集，包含4000张图像和22个诊断标签，是舌象分析领域最大的公开数据集。验证结果显示该方法达到了最先进的性能水平，虽然针对舌象诊断优化，但框架可泛化至更广泛的医学影像诊断任务。",
+      "attentionscore": 61.17375,
+      "link": "https://arxiv.org/abs/2511.10013"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1408958595",
+      "title": "Enhancing Conflict Resolution in Language Models via Abstract Argumentation",
+      "title_zh": "通过抽象论证增强语言模型的冲突解决能力",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Zhaoqun Li, Xiaotong Fang, Chen Chen, Mengze Li, Beishui Liao",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种通过抽象论证框架增强大型语言模型冲突解决能力的方法。针对LLMs在处理共识构建和说服任务中因信息不完整或不一致而产生的冲突问题，研究团队开发了包含多样化抽象论证框架的数据集，并提供了论证可接受性计算过程的详细解释。实验表明，结合过程解释的微调方法显著提升了模型的泛化能力，相比仅使用问答对训练的模型表现更优。该方法还利用LLMs的自我解释能力，缓解了神经网络通常缺乏透明度的问题。",
+      "attentionscore": 61.10375,
+      "link": "https://arxiv.org/abs/2412.16725"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1661823414",
+      "title": "Mined Prompting and Metadata-Guided Generation for Wound Care Visual Question Answering",
+      "title_zh": "基于挖掘提示和元数据引导的伤口护理视觉问答生成",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Bavana Durgapraveen, Sornaraj Sivasankaran, Abhinand Balachandran, Sriram Rajkumar",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究针对MEDIQA-WV 2025共享任务，提出两种互补方法改进伤口护理视觉问答系统。挖掘提示策略通过检索相似训练样本作为少样本演示，提升回答相关性；元数据引导方法基于四个关键元数据属性动态调整生成内容，增强临床精确性。实验证明两种方法结合能显著提高AI系统在异步远程护理中的效率和可靠性，为开发智能伤口护理支持工具提供了有前景的技术方向。",
+      "attentionscore": 61.10375,
+      "link": "https://arxiv.org/abs/2511.10591"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1200265594",
+      "title": "The best budget robot vacuums",
+      "title_zh": "最佳预算扫地机器人推荐",
+      "pubdate": "2025-11-12T22:31:26.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "本文详细评测了多款预算型扫地机器人，包括Tapo RV30 Max Plus、Roborock Q5 Pro、Shark Ion和Eufy 11S Max等型号。文章对比了各产品的功能特点、价格优势和适用场景，强调在预算有限的情况下仍能获得良好清洁效果。评测涵盖了导航系统、吸力性能、电池续航、APP控制等关键指标，为消费者提供了实用的购买建议和产品对比分析。",
+      "attentionscore": 56.09625,
+      "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1784653572",
+      "title": "Valve wants Half-Life: Alyx to work well standalone on Steam Frame",
+      "title_zh": "Valve希望《半条命：爱莉克斯》能在Steam Frame上实现良好的独立运行",
+      "pubdate": "2025-11-13T20:37:07.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Valve在Steam Frame VR头显上展示了《半条命：爱莉克斯》的无线串流体验，通过专用无线适配器和'注视点串流'技术实现零延迟。虽然目前仅支持PC串流，但Valve表示正积极研究让游戏在头显内置Arm芯片上独立运行的可能性。官方对实现良好独立体验持乐观态度，但强调仍需大量工作。这一技术突破将为VR游戏带来更便捷的体验方式。",
+      "attentionscore": 56.07625,
+      "link": "https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr"
+    }
+  },
+  {
+    "output": {
+      "id": "id_955839575",
+      "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+      "title_zh": "我们迄今发现的最佳黑色星期五早期优惠：笔记本电脑、电视等",
+      "pubdate": "2025-11-14T22:02:20.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "本文详细介绍了2025年黑色星期五前的各类电子产品早期优惠信息，涵盖耳机、智能手表、平板电脑、电视、智能家居设备等多个品类。文章列举了众多知名品牌如Bose、苹果、索尼、LG等产品的折扣价格，包括Bose QuietComfort Ultra耳机降价至299美元、苹果MacBook Air M4版降至749.99美元历史低价、索尼Bravia 8 II电视大幅降价等。文章内容详实，分类清晰，为消费者提供了丰富的购物参考信息，具有很高的实用价值。",
+      "attentionscore": 55.87625,
+      "link": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025"
+    }
+  },
+  {
+    "output": {
+      "id": "id_359500407",
+      "title": "YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over",
+      "title_zh": "YouTube TV、ESPN与迪士尼：现已结束的停播风波最新进展",
+      "pubdate": "2025-11-15T01:19:23.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "迪士尼与YouTube TV经过两周的频道停播争议后达成协议，恢复ESPN及20多个迪士尼旗下频道的播出。争议期间谷歌指责迪士尼试图提价以推广其Hulu+Live TV和Fubo服务，迪士尼则称谷歌要求优惠待遇和低于市场价。谷歌向用户提供20美元补偿，双方CEO介入谈判，FCC主席也敦促解决。此次停播与2021年两天内解决的争议相比更为复杂，迪士尼每天损失超过400万美元收入。",
+      "attentionscore": 55.25625,
+      "link": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates"
+    }
+  },
+  {
+    "output": {
+      "id": "id_499150518",
+      "title": "Apple will take a mini commission from mini app developers",
+      "title_zh": "苹果将对迷你应用开发者收取少量佣金",
+      "pubdate": "2025-11-13T19:58:25.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "苹果公司宣布推出针对迷你应用开发者的新计划，将应用内购买佣金从最高30%降至15%。迷你应用是基于HTML5和JavaScript构建的\"自包含体验\"，在中国市场尤为流行，微信等平台已广泛应用。此举恰逢苹果与腾讯达成协议，允许对微信迷你应用收取15%佣金，可能有助于缓解反垄断压力。苹果表示该计划将帮助开发者发展业务，并促进迷你应用在App Store的可用性。",
+      "attentionscore": 54.57625,
+      "link": "https://www.theverge.com/news/820486/apple-mini-app-developers-commission"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1676577781",
+      "title": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options",
+      "title_zh": "OpenAI表示全新GPT-5.1更'温暖'且提供更多'个性'选项",
+      "pubdate": "2025-11-12T19:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "OpenAI发布GPT-5.1更新版，包括GPT-5.1 Instant和GPT-5.1 Thinking两个模型，前者更温暖智能，后者更易理解且在处理复杂任务时更持久。公司还扩展了8种个性预设选项，并推出风格微调实验。此次更新旨在提升ChatGPT的对话体验，回应此前GPT-5发布时用户对改进幅度不足的反馈。微软作为合作伙伴也在关注竞争对手Anthropic的模型。",
+      "attentionscore": 54.40625,
+      "link": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1251379665",
+      "title": "Disney and ESPN are back on YouTube TV",
+      "title_zh": "迪士尼与ESPN重返YouTube TV平台",
+      "pubdate": "2025-11-15T01:10:19.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "迪士尼与YouTube TV达成新协议，ESPN及其他迪士尼旗下频道在停播两周后重新回归。协议内容包括迪士尼全线性频道组合、免费提供ESPN Unlimited Plan服务、在YouTube TV内访问ESPN节目内容，以及将Disney+和Hulu捆绑服务纳入YouTube套餐。双方高层均表示此协议体现了对用户价值的重视，为观众提供更多选择和灵活性，确保周末体育赛事等优质内容的正常观看。",
+      "attentionscore": 54.27625,
+      "link": "https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn"
+    }
+  },
+  {
+    "output": {
+      "id": "id_236147797",
+      "title": "Apple TV is getting MLS games at no extra cost",
+      "title_zh": "Apple TV将免费提供MLS比赛直播",
+      "pubdate": "2025-11-13T22:33:28.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "苹果公司和MLS宣布，从2026赛季开始，所有MLS比赛将免费向Apple TV订阅用户开放，无需额外付费。这一重大改变意味着用户将能观看所有常规赛、联赛杯、全明星赛、Campeones杯和季后赛等全部赛事。此前自2023赛季起，观看MLS比赛需要单独购买MLS季票订阅，而新的捆绑策略类似于苹果即将推出的F1流媒体服务模式，将进一步提升Apple TV订阅价值。",
+      "attentionscore": 54.02625,
+      "link": "https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1343886750",
+      "title": "Google Photos lets iPhone users edit images by describing changes",
+      "title_zh": "Google Photos允许iPhone用户通过描述变化来编辑图像",
+      "pubdate": "2025-11-11T17:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Google Photos为iPhone用户推出多项AI更新，包括对话式编辑功能，用户可通过文字或语音描述来编辑照片。新功能还包括更精准的人脸编辑、Nano Banana AI模型集成以及新的'Ask'按钮聊天界面。这些更新使iPhone用户能够像Android用户一样享受先进的AI编辑体验，同时扩展了'Ask Photos'工具到100多个新地区和17种语言，提升了照片管理和编辑的便利性。",
+      "attentionscore": 53.97625,
+      "link": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
+    }
+  },
+  {
+    "output": {
+      "id": "id_335465173",
+      "title": "The 30 best gift ideas for mom this holiday season",
+      "title_zh": "本节日季送给妈妈的30个最佳礼物创意",
+      "pubdate": "2025-11-11T16:00:00.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "这是一篇温馨实用的节日礼物指南，专门为妈妈群体提供30个精心挑选的礼物创意。文章强调选择合适的礼物能让家庭时光更有价值，推荐了从实用到优雅的各种选择，如Oura Ring 4智能戒指和苹果产品等。内容按价格分类，旨在帮助读者找到让妈妈难忘的特别礼物，体现了对母亲关怀的用心和体贴。",
+      "attentionscore": 53.47625,
+      "link": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas"
+    }
+  },
+  {
+    "output": {
+      "id": "id_963127559",
+      "title": "Paramount Skydance is working on a new Star Trek movie",
+      "title_zh": "派拉蒙天空之舞正在开发新的《星际迷航》电影",
+      "pubdate": "2025-11-14T19:32:06.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "派拉蒙天空之舞影业负责人David Ellison明确表示希望重启《星际迷航》电影系列，现正式宣布《龙与地下城：侠盗荣耀》联合导演Jonathan Goldstein和John Francis Daley已签约执导全新《星际迷航》电影。该片将是对这一经典IP的完全重新演绎，与过往系列和电影无直接关联。目前尚未公布制作时间表、剧情细节或演员阵容，但这一消息显示该系列重启计划正在积极推进中。",
+      "attentionscore": 53.02625,
+      "link": "https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1286349890",
+      "title": "Robustness and Imperceptibility Analysis of Hybrid Spatial-Frequency Domain Image Watermarking",
+      "title_zh": "混合空间-频域图像水印的鲁棒性与不可感知性分析",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Rizal Khoirul Anam",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究对数字图像水印技术进行了全面比较分析，包括空间域（LSB）、频域（DFT）以及新型混合方法（LSB+DFT）。研究通过PSNR评估不可感知性，通过NC和BER评估鲁棒性。实验结果表明，LSB方法具有优异的不可感知性但极其脆弱，DFT方法在视觉质量上有所牺牲但鲁棒性强，而提出的混合LSB+DFT技术通过冗余嵌入和备用提取机制，在所有测试攻击中展现出最优的平衡性能，既保持了高视觉保真度又具有卓越的鲁棒性。",
+      "attentionscore": 51.37375,
+      "link": "https://arxiv.org/abs/2511.10245"
+    }
+  },
+  {
+    "output": {
+      "id": "id_870819888",
+      "title": "Adaptive EEG-based stroke diagnosis with a GRU-TCN classifier and deep Q-learning thresholding",
+      "title_zh": "基于自适应EEG的卒中诊断：GRU-TCN分类器与深度Q学习阈值调节",
+      "pubdate": "2025-11-13T05:00:00.000Z",
+      "creator": "Shakeel Abdulkareem (George Mason University, College of Science, Fairfax, VA, USA, Raregen Youth Network, Translational Medical Research Department, Oakton, VA, USA), Bora Yimenicioglu (Raregen Youth Network, Translational Medical Research Department, Oakton, VA, USA), Khartik Uppalapati (Raregen Youth Network, Translational Medical Research Department, Oakton, VA, USA), Aneesh Gudipati (George Mason University, College of Science, Fairfax, VA, USA), Adan Eftekhari (Harvard University, Cambridge, MA, USA), Saleh Yassin (Harvard University, Cambridge, MA, USA)",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种基于EEG的自适应多任务卒中诊断系统，结合GRU-TCN循环卷积网络和深度Q学习阈值调节技术。该系统能够从32通道EEG信号中预测卒中类型（健康、缺血性、出血性）、半球偏侧化和严重程度。在UCLH卒中数据集上，基线模型对卒中类型的准确率达89.3%，通过DQN阈值自适应优化后提升至98.0%。研究还验证了在独立低密度EEG队列上的鲁棒性，并提供了头皮映射和频谱可视化以增强可解释性，为床边快速卒中分诊提供了有前景的技术方案。",
+      "attentionscore": 49.86125,
+      "link": "https://arxiv.org/abs/2510.24889"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1165712998",
+      "title": "Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision",
+      "title_zh": "基于物理散焦建模与多视角几何监督的深度一致性3D高斯泼溅",
+      "pubdate": "2025-11-14T05:00:00.000Z",
+      "creator": "Yu Deng, Baozhu Zhao, Junyan Su, Xiaohan Zhang, Qi Liu",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新的3D高斯泼溅方法，通过整合物理散焦监督和多视角一致性监督来解决极端深度变化场景中的三维重建难题。方法包含两个核心组件：深度监督利用单目深度估计器生成深度先验，通过散焦卷积合成物理准确的散焦图像；多视角一致性监督采用LoFTR特征匹配最小化跨视角几何误差。在Waymo数据集上相比现有方法实现了0.8 dB的PSNR提升，为城市环境中复杂深度分层提供了可扩展解决方案。",
+      "attentionscore": 49.77375,
+      "link": "https://arxiv.org/abs/2511.10316"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1931433537",
+      "title": "Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo",
+      "title_zh": "星链竞争对手'柯伊伯项目'更名为亚马逊Leo",
+      "pubdate": "2025-11-13T22:22:53.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "亚马逊将其卫星互联网项目'柯伊伯项目'正式更名为'亚马逊Leo'，名称源自低地球轨道(LEO)术语。该项目计划发射3000多颗卫星，目前已通过6次发射将72颗卫星送入轨道。作为SpaceX星链的主要竞争对手，亚马逊承诺将提供高速可靠的互联网服务，覆盖现有网络无法到达的地区。但大规模卫星发射也引发了太空碎片增加、轨道碰撞风险上升以及对载人航天任务威胁等担忧。",
+      "attentionscore": 44.27625,
+      "link": "https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1639920994",
+      "title": "Hackers use Anthropic’s AI model Claude once again",
+      "title_zh": "黑客再次利用Anthropic的AI模型Claude发动攻击",
+      "pubdate": "2025-11-13T19:47:39.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "Anthropic公司披露中国国家支持的黑客在9月活动中使用其AI模型Claude自动化攻击了约30家企业和政府机构，其中80%-90%的攻击流程实现自动化，远超以往水平。黑客仅需少量人工干预即可完成攻击，标志着AI驱动的网络攻击进入新阶段。同时，谷歌也发现俄罗斯黑客使用大语言模型生成恶意软件指令。尽管中国否认相关指控，但Anthropic确信黑客受中国政府资助，此次攻击成功窃取了四家受害者的敏感数据。",
+      "attentionscore": 33.97625,
+      "link": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
+    }
+  },
+  {
+    "output": {
+      "id": "id_592859662",
+      "title": "A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why",
+      "title_zh": "任天堂Switch 2最新更新封锁部分第三方底座，但未说明原因",
+      "pubdate": "2025-11-14T20:00:27.000Z",
+      "creator": "Unknown",
+      "source": "The Verge AI",
+      "ai_summary": "任天堂为Switch 2发布21.0.0更新后，导致部分第三方底座无法正常工作，引发市场关注。任天堂声称无意阻碍合法第三方底座兼容性，暗示存在合法与非法的第三方底座制造方式。有趣的是，Viture Pro移动底座和Antank S3 Max等部分产品仍能正常工作，因为它们采用了专有芯片解决方案。这一事件可能预示着任天堂将加强对第三方配件的控制，推动消费者使用其昂贵的官方底座，对Genki和JSAUX等即将推出紧凑型底座的厂商构成挑战。",
+      "attentionscore": 33.73625,
+      "link": "https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked"
+    }
+  }
+]
