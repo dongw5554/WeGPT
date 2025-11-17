@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_2080092925",
+      "title": "Sky Sports killed off its female-focused Halo brand after just three days",
+      "title_zh": "天空体育仅运营三天便关闭其女性专属品牌Halo",
+      "pubdate": "2025-11-17T01:14:40.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "天空体育推出的女性专属品牌Halo在仅运营三天后被迫关闭。该品牌被批评采用性别刻板印象的内容策略，包括粉色闪亮字体、'热辣女孩散步'和抹茶等主题，而非真正关注女子体育或提升女性声音。此举被指为幼稚化、居高临下、性别歧视和厌恶女性，引发强烈反弹。尽管公司声称该项目由女性团队推动，但女性体育粉丝的强烈反对表明这一说法难以令人信服。",
+      "attentionscore": 75.61,
+      "link": "https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2003366029",
+      "title": "Unsupervised Cycle Detection in Agentic Applications",
+      "title_zh": "智能体应用中的无监督循环检测",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种无监督循环检测框架，用于识别大型语言模型驱动的智能体应用中隐藏的执行循环问题。这些循环会无声消耗资源而不触发显式错误。该混合方法结合了结构分析和语义分析，在基于LangGraph的股票市场应用的1575条轨迹上测试，F1分数达到0.72，显著优于单独的结构方法（F1: 0.08）和语义方法（F1: 0.28）。虽然结果令人鼓舞，但仍有改进空间，未来工作需要完善该方法并解决当前局限性。",
+      "attentionscore": 74.9,
+      "link": "https://arxiv.org/abs/2511.10650"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1737566235",
+      "title": "KarmaTS: A Universal Simulation Platform for Multivariate Time Series with Functional Causal Dynamics",
+      "title_zh": "KarmaTS：具有功能因果动态的多变量时间序列通用仿真平台",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "KarmaTS是一个创新的交互式框架，专门用于构建具有滞后索引的可执行时空因果图模型，用于多变量时间序列仿真。该系统通过结合专家知识和算法建议，构建离散时间结构因果过程，支持模拟和因果干预，包括用户指定的分布偏移。KarmaTS能够处理混合变量类型、同时和滞后边缘，以及从参数化模板到神经网络模型的模块化边缘函数，为因果发现算法提供了灵活验证和基准测试的平台。",
+      "attentionscore": 74.27,
+      "link": "https://arxiv.org/abs/2511.11357"
+    }
+  },
+  {
+    "output": {
+      "id": "id_620465577",
+      "title": "Multi-Agent Legal Verifier Systems for Data Transfer Planning",
+      "title_zh": "多智能体法律验证系统在数据传输规划中的应用",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种多智能体法律验证系统，专门用于AI驱动的数据传输规划中的法律合规性检查。系统将合规性验证分解为法规解释、业务背景评估和风险评估三个专业智能体，通过结构化合成协议进行协调。在包含200个日本个人信息保护法修正案第16条案例的分层数据集上测试，系统达到72%的准确率，比单智能体基线高出21个百分点，在明确合规案例中准确率达90%，同时保持对明确违规案例的完美检测。研究展示了领域专业化和协调推理能显著提升法律AI性能，为可信赖和可解释的自动化合规验证提供了可扩展的监管感知框架。",
+      "attentionscore": 74.27,
+      "link": "https://arxiv.org/abs/2511.10925"
+    }
+  },
+  {
+    "output": {
+      "id": "id_278680256",
+      "title": "Picking a Representative Set of Solutions in Multiobjective Optimization: Axioms, Algorithms, and Experiments",
+      "title_zh": "多目标优化中代表性解集的选择：公理、算法与实验",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究聚焦于多目标优化中的代表性解集选择问题，旨在从帕累托最优解集中选取固定大小的子集以最佳代表完整解集。研究将帕累托剪枝问题重新定义为多赢家投票问题，对现有质量度量进行了公理分析，揭示了若干反直觉行为。作者提出了一种新的度量方法——定向覆盖率，并分析了优化各种质量度量的计算复杂性，确定了在目标和结构不同情况下的可处理与难处理边界。实验评估表明，质量度量的选择对所选解集特性具有决定性影响，所提出的度量方法在多种设置下表现具有竞争力。",
+      "attentionscore": 73.82,
+      "link": "https://arxiv.org/abs/2511.10716"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1188901478",
+      "title": "How LimeWire ended the Napster music revolution",
+      "title_zh": "LimeWire如何终结Napster音乐革命",
+      "pubdate": "2025-11-16T15:46:28.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "这篇文章回顾了LimeWire作为文件共享时代最后的重要平台，如何终结了由Napster开启的免费音乐下载革命。文章通过询问读者使用过的音乐下载应用来引发共鸣，描述了从Napster到LimeWire的十年间，人们主要通过文件共享软件获取免费音乐的普遍现象。LimeWire在很多方面代表了主流免费音乐访问时代的终结，特别是在大学校园和高速网络环境中。",
+      "attentionscore": 73.79,
+      "link": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history"
+    }
+  },
+  {
+    "output": {
+      "id": "id_693258943",
+      "title": "Hybrid Quantum Transformer for Language Generation",
+      "title_zh": "混合量子Transformer用于语言生成",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这项研究提出了首个用于自然语言生成的混合量子-经典大语言模型HyQuT，成功将变分量子电路集成到Transformer框架中，在8M和150M参数规模上实现了连贯且上下文感知的对话能力。实验结果显示，仅使用10个量子比特和80个量子门就能替代150M参数模型中约10%的经典参数，同时保持相当的收敛稳定性和生成质量。这项研究为量子计算在大规模生成式语言模型中的应用提供了早期可行性证明，标志着量子计算在复杂自然语言处理任务中的重要突破。",
+      "attentionscore": 72.8,
+      "link": "https://arxiv.org/abs/2511.10653"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1680552683",
+      "title": "A Workflow for Full Traceability of AI Decisions",
+      "title_zh": "实现AI决策完全可追溯性的工作流程",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇论文提出了一种实现AI决策完全可追溯性的创新工作流程。随着AI系统在高风险决策中应用日益广泛，决策过程缺乏适当文档记录的问题日益突出，这阻碍了责任链的重建。该研究采用了一种既激进又实用的方法，强制记录训练或推理过程中的每个组件，首次实现了防篡改、可验证且全面的AI决策追踪。通过扩展DBOM概念并利用机密计算技术，作者开发了一个能够区分有毒和可食用蘑菇的应用程序作为高风险决策支持的示例。",
+      "attentionscore": 72.53,
+      "link": "https://arxiv.org/abs/2511.11275"
+    }
+  },
+  {
+    "output": {
+      "id": "id_17889404",
+      "title": "HyperComplEx: Adaptive Multi-Space Knowledge Graph Embeddings",
+      "title_zh": "HyperComplEx：自适应多空间知识图谱嵌入",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种名为HyperComplEx的混合知识图谱嵌入框架，通过自适应结合双曲空间、复数空间和欧几里得空间来解决现有方法在处理多样化关系类型时的局限性。该模型采用关系特定的空间加权策略，为每种关系类型动态选择最优几何空间，并通过多空间一致性损失确保跨空间预测的连贯性。在从1K论文到10M论文的计算机科学研究知识图谱上测试表明，HyperComplEx在MRR指标上达到0.612，相比最佳基线提升4.8%，同时保持高效的训练和推理性能。",
+      "attentionscore": 71.9,
+      "link": "https://arxiv.org/abs/2511.10842"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2023903601",
+      "title": "Structure-Aware Encodings of Argumentation Properties for Clique-width",
+      "title_zh": "面向团宽度的论证性质结构感知编码",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究论文提出了面向团宽度的论证性质结构感知编码方法，针对抽象论证框架中的计算挑战性问题设计了新颖的归约方法。研究团队开发了从论证问题到(Q)SAT的线性保持团宽度的归约技术，建立了有向分解引导的归约框架。这项工作为理解团宽度在编码能力方面的作用开辟了新途径，涵盖了所有论证语义包括计数问题，并证明了在合理假设下归约开销无法显著改进的重要结果。",
+      "attentionscore": 71.82,
+      "link": "https://arxiv.org/abs/2511.10767"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1928071071",
+      "title": "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+      "title_zh": "AI智能体驱动的电子商务产品知识图谱自动构建框架",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种基于AI智能体的全自动产品知识图谱构建框架，专门针对电商平台的海量非结构化产品数据。该框架利用大语言模型通过三个阶段的智能体协作：本体创建与扩展、本体精炼和知识图谱填充，实现了无需预定义模式或手工提取规则的自动化构建。在真实空调产品数据集上的评估显示，该框架实现了超过97%的属性覆盖率和最小冗余度，验证了其在零售领域结构化知识提取方面的有效性和实用性，为智能产品数据集成提供了可扩展的解决方案。",
+      "attentionscore": 71.8,
+      "link": "https://arxiv.org/abs/2511.11017"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1195063758",
+      "title": "LLM enhanced graph inference for long-term disease progression modelling",
+      "title_zh": "基于大语言模型增强的图推理用于长期疾病进展建模",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新框架，利用大语言模型作为专家指导来增强从不规则采样的纵向患者数据中学习疾病进展。该方法通过LLM合成多模态关系并整合多种疾病驱动机制，同时优化长期疾病轨迹构建和生物约束的图结构。在阿尔茨海默病队列的tau-PET成像数据验证中，新框架相比传统方法展现出更优越的预测准确性和可解释性，同时揭示了超越传统连接性测量的额外疾病驱动因素。",
+      "attentionscore": 71.18,
+      "link": "https://arxiv.org/abs/2511.10890"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1481488109",
+      "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
+      "title_zh": "CURENet：结合统一表征实现高效的慢性疾病预测",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出CURENet多模态模型，整合电子健康记录中的非结构化临床笔记、实验室检测和患者时间序列数据，利用大语言模型处理临床文本，结合Transformer编码器分析纵向就诊序列。该模型能够捕捉不同临床数据形式间的复杂交互，在MIMIC-III和FEMH数据集上对前10种慢性疾病的多标签预测准确率超过94%，展示了多模态电子健康记录整合在提升临床决策和改善患者预后方面的巨大潜力。",
+      "attentionscore": 70.64,
+      "link": "https://arxiv.org/abs/2511.11423"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1202610782",
+      "title": "Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping",
+      "title_zh": "对齐马基雅维利智能体：通过测试时策略塑造实现行为引导",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种测试时对齐技术，通过模型引导的策略塑造来解决AI智能体在复杂环境中与人类价值观对齐的挑战。该方法能够精确控制个体行为属性，在多样化强化学习环境中实现泛化，并在不重新训练智能体的情况下，实现伦理对齐与奖励最大化之间的原则性权衡。研究使用包含134个文本游戏环境和数千个伦理决策场景的MACHIAVELLI基准进行评估，结果表明测试时策略塑造为缓解跨环境和对齐属性的不道德行为提供了有效且可扩展的解决方案。",
+      "attentionscore": 70.55,
+      "link": "https://arxiv.org/abs/2511.11551"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1354890668",
+      "title": "Autonomous Vehicle Path Planning by Searching With Differentiable Simulation",
+      "title_zh": "基于可微分仿真的自动驾驶车辆路径规划搜索方法",
+      "pubdate": "2025-11-17T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种名为可微分仿真搜索(DSS)的新型自动驾驶路径规划框架，利用Waymax可微分仿真器同时作为状态预测器和评估器。该方法结合规划梯度和随机搜索，通过梯度下降优化未来轨迹的动作序列。实验表明，相比序列预测、模仿学习、无模型强化学习等传统方法，DSS在轨迹跟踪和路径规划精度方面有显著提升，为复杂密集交通场景下的安全导航提供了更可靠的解决方案。",
+      "attentionscore": 70.11,
+      "link": "https://arxiv.org/abs/2511.11043"
+    }
+  }
+]
