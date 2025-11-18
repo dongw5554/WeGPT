@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1184081168",
+      "title": "NetChoice sues Virginia to block its one-hour social media limit for kids",
+      "title_zh": "NetChoice起诉弗吉尼亚州，要求阻止其针对儿童的社交媒体一小时使用限制",
+      "pubdate": "2025-11-17T20:49:08.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "科技行业贸易组织NetChoice起诉弗吉尼亚州，要求阻止将于2026年1月1日生效的新法律，该法律限制16岁以下未成年人每天使用社交媒体不超过一小时。NetChoice认为该法律违反第一修正案，限制了言论自由，并要求平台进行年龄验证可能带来隐私和安全风险。该组织由Meta、谷歌、亚马逊等科技巨头支持，已在多个州成功挑战类似法律。弗吉尼亚州成为首个实施严格时间限制的州，引发关于政府干预与父母自主权平衡的争议。",
+      "attentionscore": 73.66,
+      "link": "https://www.theverge.com/news/822475/netchoice-virginia-lawsuit-social-media-time-limit-law"
+    }
+  },
+  {
+    "output": {
+      "id": "id_579006207",
+      "title": "EcoSpa: Efficient Transformer Training with Coupled Sparsity",
+      "title_zh": "EcoSpa：基于耦合稀疏性的高效Transformer训练方法",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "EcoSpa是一种创新的结构化稀疏训练方法，专门针对Transformer模型设计。该方法通过联合评估和稀疏化耦合权重矩阵对，在注意力机制和前馈层中保持权重矩阵间的结构关系，解决了传统稀疏方法在高稀疏度下性能下降的问题。实验结果显示，EcoSpa在LLaMA-1B模型上实现50%内存减少和21%训练加速，在GPT-2-Medium上达到2.2倍模型压缩和2.4倍困惑度降低，并提供1.6倍推理加速。该方法基于标准PyTorch操作，无需定制硬件，可在通用硬件上实现高效Transformer训练。",
+      "attentionscore": 73.12,
+      "link": "https://arxiv.org/abs/2511.11641"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1621062689",
+      "title": "Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off",
+      "title_zh": "Bose降噪QuietComfort耳机折扣超过50%",
+      "pubdate": "2025-11-17T20:00:00.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "Bose QuietComfort降噪耳机目前在亚马逊进行大幅促销，价格从359美元降至169.99美元，折扣超过50%。这款耳机具备优质主动降噪功能，可快速切换降噪模式，支持多点连接，电池续航达24小时，折叠设计便于携带。文章推荐这款耳机作为节日旅行时的理想选择，同时提到更高端的QC Ultra耳机也有优惠，价格为298美元。",
+      "attentionscore": 73.12,
+      "link": "https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale"
+    }
+  },
+  {
+    "output": {
+      "id": "id_260820298",
+      "title": "The Anatomy of a Triton Attention Kernel",
+      "title_zh": "Triton注意力内核的解剖分析",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究论文提出了一种基于Triton领域特定语言的跨平台LLM推理解决方案，开发了先进的页面注意力内核，在NVIDIA和AMD GPU上均实现了最先进性能。通过参数自动调优和系统级改进，将通用Triton注意力内核的性能从基准的19.7%提升至105.9%，证明了开源领域特定语言在实现模型跨GPU供应商可移植性方面的巨大潜力，为构建无需底层手动调优的高效LLM推理平台提供了重要突破。",
+      "attentionscore": 72.37,
+      "link": "https://arxiv.org/abs/2511.11581"
+    }
+  },
+  {
+    "output": {
+      "id": "id_553800267",
+      "title": "Decoupling Positional and Symbolic Attention Behavior in Transformers",
+      "title_zh": "解耦Transformer中位置注意力与符号注意力的行为",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇研究论文深入探讨了Transformer模型中位置注意力与符号注意力行为的解耦问题。研究团队从理论和实证层面分析了注意力头的行为二分法，证明了位置行为和符号行为是互斥的，并开发了量化这些行为的指标。通过分析使用RoPE的Transformer模型，发现所有注意力头的行为与频率使用之间存在强烈对应关系。研究还设计了纯位置和纯符号的规范任务，证明Transformer性能与注意力头利用适当频率的能力存在因果关系，可以通过控制注意力头可访问的频率来控制模型性能。",
+      "attentionscore": 71.84,
+      "link": "https://arxiv.org/abs/2511.11579"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2011958709",
+      "title": "Google updates its weather forecasts with a new AI model",
+      "title_zh": "谷歌推出新型AI模型升级天气预报服务",
+      "pubdate": "2025-11-17T22:00:56.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "谷歌推出新一代AI天气模型WeatherNext 2，该模型预测速度比前代快8倍，对温度、风速等99.9%变量的预测准确度更高。采用功能性生成网络技术，可在单步处理中生成数百种可能结果，预测时效达15天并提供小时级预报。该技术已集成到搜索、Gemini、Pixel等核心产品中，同时面向能源、农业、物流等行业提供企业级服务，标志着谷歌AI天气预报从实验阶段迈向商业化应用。",
+      "attentionscore": 71.63,
+      "link": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1216883845",
+      "title": "Predicting Grain Growth in Polycrystalline Materials Using Deep Learning Time Series Models",
+      "title_zh": "使用深度学习时间序列模型预测多晶材料中的晶粒生长",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究评估了多种深度学习模型（包括RNN、LSTM、TCN和Transformer）在预测多晶材料晶粒生长过程中的晶粒尺寸分布。研究基于从高保真模拟中提取的均值场统计描述符，处理了120个晶粒生长序列数据。结果显示，LSTM网络取得了最高精度（超过90%）和最稳定的性能，能够保持物理一致的长期预测，同时将计算时间从每序列约20分钟大幅减少到仅几秒钟。这项研究展示了低维描述符和LSTM预测在高效准确微结构预测方面的潜力，对数字孪生开发和工艺优化具有直接意义。",
+      "attentionscore": 71.39,
+      "link": "https://arxiv.org/abs/2511.11630"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1072955240",
+      "title": "Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL",
+      "title_zh": "关注熵：从最大熵到轨迹熵约束强化学习",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇AI研究论文提出了一种新的轨迹熵约束强化学习框架，旨在解决传统最大熵强化学习中的两个瓶颈问题：非平稳Q值估计和短视的局部熵调节。该框架通过分别学习奖励和熵的两个Q函数，确保值目标不受温度更新的影响，同时利用专门的熵Q函数来量化预期累积熵，从而控制策略的长期随机性。基于此框架开发的DSAC-E算法在OpenAI Gym基准测试中表现出更高的回报和更好的稳定性。",
+      "attentionscore": 71.39,
+      "link": "https://arxiv.org/abs/2511.11592"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1421131055",
+      "title": "Detecting Statistically Significant Fairness Violations in Recidivism Forecasting Algorithms",
+      "title_zh": "检测累犯预测算法中统计显著的公平性违规",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种检测机器学习算法公平性违规统计显著性的新框架，通过k折交叉验证生成公平性指标的抽样分布。研究应用于美国国家司法研究所数据的累犯预测算法，发现这些算法在多个公平性定义下对黑人个体存在统计显著的偏见，而在其他定义下则对白人个体存在偏见或无偏见。研究强调了在评估算法决策系统时进行严谨统计测试的重要性。",
+      "attentionscore": 71.3,
+      "link": "https://arxiv.org/abs/2511.11575"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1713378254",
+      "title": "Do traveling waves make good positional encodings?",
+      "title_zh": "行波是否能够成为良好的位置编码？",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇arXiv论文提出了一种名为RollPE的新型位置编码机制，基于行波原理，通过对自注意力中的查询和键张量应用循环滚动操作来实现。该方法在位置间产生相对相位偏移，使模型能够基于位置差异而非绝对索引计算注意力。研究表明，这种简单方法显著优于传统的绝对位置嵌入，与RoPE性能相当。论文还推导了RollPE的连续形式，在查询和键空间上隐式施加了拓扑结构，并证明了RollPE与特定RoPE配置的数学等价性。从行波角度理解RollPE可能有助于简化RoPE，并将其与大脑信息处理过程联系起来。",
+      "attentionscore": 71.12,
+      "link": "https://arxiv.org/abs/2511.11668"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1162226575",
+      "title": "SA-EMO: Structure-Aligned Encoder Mixture of Operators for Generalizable Full-waveform Inversion",
+      "title_zh": "SA-EMO：面向可泛化全波形反演的结构对齐编码器混合算子",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为SA-EMO的创新架构，用于解决全波形反演中的泛化性问题。该方法通过结构对齐编码器将高维地震波场映射到物理一致的潜在空间，消除波形与速度域之间的时空不匹配，并恢复高频分量。同时采用自适应路由机制融合多种神经算子专家，包括谱、小波、多尺度和局部算子，以预测速度模型。在OpenFWI基准和Marmousi2数据集上的实验表明，SA-EMO显著优于传统CNN或单算子方法，平均MAE降低约58.443%，边界分辨率提升约10.308%。",
+      "attentionscore": 71.03,
+      "link": "https://arxiv.org/abs/2511.11627"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1212149006",
+      "title": "Incomplete Depression Feature Selection with Missing EEG Channels",
+      "title_zh": "基于缺失EEG通道的不完整抑郁症特征选择",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为IDFS-MEC的新型特征选择方法，用于处理基于EEG的抑郁症分析中的挑战。该方法整合了缺失通道指示信息和自适应通道权重学习到正交回归中，以减轻不完整通道对模型构建的影响，并通过全局冗余最小化学习减少所选特征子集中的冗余信息。在MODMA和PRED-d003数据集上的实验表明，IDFS-MEC选择的EEG特征子集在3、64和128通道设置下优于10种流行的特征选择方法，为抑郁症的准确检测提供了更可靠的技术支持。",
+      "attentionscore": 70.76,
+      "link": "https://arxiv.org/abs/2511.11651"
+    }
+  },
+  {
+    "output": {
+      "id": "id_979316868",
+      "title": "Google Calendar can finally block off time without faking a meeting",
+      "title_zh": "Google日历终于可以无需创建虚假会议即可安排时间",
+      "pubdate": "2025-11-17T21:15:23.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "Google日历最新更新允许用户在不创建虚假会议的情况下直接为任务分配时间块，并设置免打扰模式。该功能整合了Tasks功能，支持设置具体时间段、截止日期，并能自动拒绝会议请求。这一用户期待已久的功能面向所有Workspace用户、个人订阅者和Gmail账户，从11月6日开始逐步推出，预计12月中旬全面覆盖，为时间管理和专注工作提供了更便捷的解决方案。",
+      "attentionscore": 70.2,
+      "link": "https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block"
+    }
+  },
+  {
+    "output": {
+      "id": "id_249058316",
+      "title": "Google is fighting the defamation battle Meta caved on",
+      "title_zh": "谷歌正在打Meta放弃的诽谤官司",
+      "pubdate": "2025-11-17T23:11:07.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "谷歌提交动议要求驳回反企业多元化活动家罗比·斯塔巴克提起的诽谤诉讼，斯塔巴克声称谷歌AI错误地将他与性侵指控和白人民族主义者联系起来。此前斯塔巴克曾对Meta提起类似诉讼，Meta在8月达成和解并聘请斯塔巴克担任顾问。谷歌在文件中辩称斯塔巴克只是滥用开发者工具诱导AI产生幻觉，且未提供具体提示或实际受误导者证据。目前尚无美国法院因AI聊天机器人诽谤而判赔的案例，但谷歌最终也可能选择类似Meta的和解方式。",
+      "attentionscore": 70.1,
+      "link": "https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot"
+    }
+  },
+  {
+    "output": {
+      "id": "id_478394871",
+      "title": "Clifford Algebraic Rotor Embeddings : Maybe embeddings should start to CARE",
+      "title_zh": "克利福德代数旋量嵌入：也许嵌入应该开始CARE",
+      "pubdate": "2025-11-18T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇论文提出了一种新的位置编码方法——克利福德代数旋量嵌入(CARE)，作为旋转位置嵌入(RoPE)的扩展。作者首先介绍了基于四元数的QuatRo方法，能够表示3D旋转并参数化旋转轴，证明了混合RoPE和球形RoPE都是QuatRo的特殊情况。然后进一步扩展到克利福德代数框架，将四元数视为Cl(3,0,0)的偶子代数，使旋量嵌入从四元数扩展到作用在多向量上的克利福德旋量。这种方法实现了两个关键扩展：将旋量嵌入扩展到任意维度，以及在多级多向量中编码位置信息。论文还提供了球形、四元数和克利福德基旋量嵌入的初步实验比较。",
+      "attentionscore": 68.64,
+      "link": "https://arxiv.org/abs/2511.11665"
+    }
+  }
+]
