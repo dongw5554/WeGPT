@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1476264904",
+      "title": "The Jeep Recon lives",
+      "title_zh": "Jeep Recon电动越野车重获新生",
+      "pubdate": "2025-11-19T00:00:00.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "Jeep Recon电动越野车在经历多次延期和停产传闻后，确认将于2026年初投产并首先在美加市场推出。这款电动SUV搭载650马力电机，续航250英里，起售价66,995美元。作为Jeep首款获得Trail Rated认证的电动车，Recon具备出色的越野性能，包括可拆卸车门、33英寸轮胎和9.1英寸离地间隙。尽管价格较高且错过了7,500美元联邦税收抵免，但Jeep希望通过其独特的越野能力和电动技术实现品牌复兴。",
+      "attentionscore": 75.13,
+      "link": "https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1536247532",
+      "title": "Tractable Probabilistic Models for Investment Planning",
+      "title_zh": "可处理的概率模型在投资规划中的应用",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出使用可处理的概率模型（TPMs），特别是和积网络（SPNs）来解决电力公用事业投资规划中的长期预测问题。传统方法依赖有限数量的场景分析，限制了波动性洞察和稳健决策。TPMs能够精确、可扩展地推断关键数量，如场景似然、边缘概率和条件概率，支持稳健的场景扩展和风险评估。该框架将机会约束优化直接嵌入投资规划，通过代表性电力系统规划案例研究展示了其在计算和可靠性方面的优势。",
+      "attentionscore": 74.86,
+      "link": "https://arxiv.org/abs/2511.13888"
+    }
+  },
+  {
+    "output": {
+      "id": "id_222223682",
+      "title": "Motor Imagery Classification Using Feature Fusion of Spatially Weighted Electroencephalography",
+      "title_zh": "基于空间加权脑电图特征融合的运动想象分类",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种创新的脑机接口方法，通过基于脑区的通道选择和多种特征融合技术来提升运动想象任务的分类精度。研究采用脑区特异性通道分组，结合三种特征提取方法（CSP、模糊C均值聚类和切线空间映射），有效降低了数据维度并提高了计算效率。在BCI竞赛III和IV的公开数据集上进行验证，该方法在IVA和I数据集上分别达到了90.77%和84.50%的分类准确率，明显优于现有方法，为脑机接口系统的实用化提供了重要技术支撑。",
+      "attentionscore": 74.5,
+      "link": "https://arxiv.org/abs/2511.13752"
+    }
+  },
+  {
+    "output": {
+      "id": "id_188468195",
+      "title": "Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection",
+      "title_zh": "基于多智能体视觉语言模型引导的自训练与PNU损失的低资源攻击性内容检测",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种创新的自训练框架，用于解决社交媒体攻击性内容检测中标注数据稀缺的问题。通过多智能体视觉语言模型进行协作伪标注，将未标注数据分为共识未知集和分歧未知集，并采用正负未标注损失函数优化分类器性能。实验表明该方法在有限监督条件下显著优于基线模型，并接近大规模模型的性能表现，为低资源环境下的内容审核提供了有效解决方案。",
+      "attentionscore": 74.14,
+      "link": "https://arxiv.org/abs/2511.13759"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1797359082",
+      "title": "EA will skip next year&#8217;s F1 game and release update DLC instead",
+      "title_zh": "EA将跳过明年的F1游戏，转而发布更新DLC",
+      "pubdate": "2025-11-19T00:04:33.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "EA宣布对其F1赛车游戏系列进行重大战略调整，2026年将不发布新游戏，而是为F1 25推出付费扩展DLC，包含2026赛季的新赛车、规则、车队和车手。完整版F1游戏将推迟至2027年发布，被描述为'重新构想的体验'。同时，苹果也与F1达成多年协议，从明年开始在美国Apple TV上直播F1赛事，显示F1内容在流媒体平台的重要性日益提升。",
+      "attentionscore": 72.9,
+      "link": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1496693022",
+      "title": "VitalBench: A Rigorous Multi-Center Benchmark for Long-Term Vital Sign Prediction in Intraoperative Care",
+      "title_zh": "VitalBench：用于术中护理长期生命体征预测的严格多中心基准测试",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了VitalBench这一专门用于术中生命体征预测的新型基准测试平台。该基准包含来自两个独立医疗中心超过4000例手术的数据，提供完整数据、不完整数据和跨中心泛化三个评估轨道。VitalBench反映了临床实践的真实复杂性，最小化了对广泛预处理的依赖，并采用掩码损失技术进行稳健且无偏的模型评估。这一标准化平台为模型开发和比较提供了统一基础，确保预测模型不仅准确，而且在不同临床环境中具有鲁棒性和适应性。",
+      "attentionscore": 72.49,
+      "link": "https://arxiv.org/abs/2511.13757"
+    }
+  },
+  {
+    "output": {
+      "id": "id_861755641",
+      "title": "Republicans are looking for a way to bring back the AI moratorium",
+      "title_zh": "共和党寻求恢复人工智能暂停令的途径",
+      "pubdate": "2025-11-18T23:45:52.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "美国众议院共和党正寻求在《国防授权法案》中加入条款，禁止各州制定人工智能法规，以建立统一的联邦标准。前总统特朗普在社交媒体上支持这一举措，认为分散的州级监管会削弱美国在AI竞赛中的竞争力。然而，这一提议面临挑战，此前参议院曾以99票反对否决了为期5年的州AI法律暂停令。支持者认为统一监管有助于创新，反对者则担忧会削弱各州在儿童网络安全等领域的监管能力。",
+      "attentionscore": 72.45,
+      "link": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
+    }
+  },
+  {
+    "output": {
+      "id": "id_60726564",
+      "title": "Weather Maps as Tokens: Transformers for Renewable Energy Forecasting",
+      "title_zh": "天气图作为令牌：基于Transformer的可再生能源预测方法",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这项研究提出了一种创新的可再生能源预测方法，将天气图作为Transformer序列中的令牌来处理。该方法使用轻量级卷积神经网络将每小时天气图编码为空间令牌，然后通过Transformer模型捕捉45小时预测时间范围内的时序动态。与ENTSO-E运营预测相比，该方法在风能和太阳能预测方面分别实现了约60%和20%的RMSE降低，显著提升了预测精度。这项技术对于减少化石燃料依赖和实现电网脱碳具有重要意义，目前已在https://www.sardiniaforecast.ifabfoundation.it网站上提供每日预测的实时仪表板。",
+      "attentionscore": 71.87,
+      "link": "https://arxiv.org/abs/2511.13935"
+    }
+  },
+  {
+    "output": {
+      "id": "id_547745803",
+      "title": "On the Gradient Complexity of Private Optimization with Private Oracles",
+      "title_zh": "基于私有预言机的私有优化梯度复杂度研究",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "这篇研究论文探讨了在差分隐私条件下，Lipschitz凸损失函数的经验/总体风险最小化的梯度复杂度问题。研究分析了非光滑损失函数和光滑损失函数两种场景下的运行时间下界，揭示了差分隐私优化器相比非私有优化器需要付出维度相关的运行时间代价。论文还研究了信息受限预言机对优化效率的影响，发现梯度量化技术在优化中存在根本性限制。这些结果为理解隐私保护优化算法的计算复杂性提供了重要理论依据。",
+      "attentionscore": 71.6,
+      "link": "https://arxiv.org/abs/2511.13999"
+    }
+  },
+  {
+    "output": {
+      "id": "id_456788586",
+      "title": "Extended Physics Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media",
+      "title_zh": "扩展物理信息神经网络在多孔介质双曲两相流中的应用",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种扩展物理信息神经网络(XPINN)框架，用于解决多孔介质中非线性双曲偏微分方程的两相流问题。该方法通过动态分解计算域为冲击前和冲击后区域，利用局部子网络分别学习不同的流动行为，并通过Rankine-Hugoniot跳跃条件实现子网络间的耦合。数值实验表明，XPINN能够准确捕捉不连续的饱和度前沿和复杂波相互作用，无需人工扩散或熵修正。相比标准PINN，该方法具有更好的稳定性、更快的收敛速度，并使用更少的可训练参数实现了非线性波动力学的增强分辨率。",
+      "attentionscore": 71.33,
+      "link": "https://arxiv.org/abs/2511.13734"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1908901386",
+      "title": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
+      "title_zh": "Cloudflare解释周二服务中断事件：ChatGPT等网站短暂瘫痪",
+      "pubdate": "2025-11-19T02:25:59.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "Cloudflare周二发生自2019年以来最严重的服务中断，导致ChatGPT、X等多个知名网站瘫痪数小时。故障原因是Bot管理系统数据库权限变更导致ClickHouse查询生成重复数据行，配置文件超出内存限制。CEO Matthew Prince详细说明故障源于数据库权限系统变更，而非网络攻击或AI技术问题。Cloudflare已制定四项改进计划防止类似问题再次发生，包括加强配置文件处理、增加全局功能开关等。",
+      "attentionscore": 71.25,
+      "link": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1175370178",
+      "title": "Library Liberation: Competitive Performance Matmul Through Compiler-composed Nanokernels",
+      "title_zh": "库解放：通过编译器组合纳米内核实现具有竞争力的矩阵乘法性能",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究论文提出了一种创新的编译方案，通过MLIR方言自动生成可扩展的高性能微内核，旨在弥合AI和机器学习工作负载中高层领域操作与硬件高效利用之间的差距。该方法使编译器能够直接自动生成接近最优的代码，摆脱了对低层库的依赖，其核心机制是从低层IR构造中组合纳米内核，实现接近最优的寄存器利用率。实验表明，生成的纳米内核具有生产质量，并能与最先进的微内核库相竞争，为ML从业者提供了更简单高效的解决方案。",
+      "attentionscore": 70.75,
+      "link": "https://arxiv.org/abs/2511.13764"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1273207340",
+      "title": "Multi-Horizon Time Series Forecasting of non-parametric CDFs with Deep Lattice Networks",
+      "title_zh": "基于深度格点网络的多时间尺度非参数CDF时间序列预测",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种创新的概率预测方法，通过将深度格点网络（DLN）与长短期记忆单元（LSTM）结合，实现了对非参数累积分布函数（CDF）的多时间尺度预测。该方法解决了传统分位数回归中常见的分位数交叉问题，通过DLN的单调约束确保生成合法的CDF。研究在太阳辐照度观测的日间小时预测应用中验证了该方法的有效性，结果表明该适应性DLN方法在性能上优于无约束方法，并且比可扩展单调神经网络表现更佳。这项工作旨在促进单调神经网络与概率预测技术之间的交叉研究。",
+      "attentionscore": 70.57,
+      "link": "https://arxiv.org/abs/2511.13756"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1777530414",
+      "title": "Blurred Encoding for Trajectory Representation Learning",
+      "title_zh": "轨迹表示学习的模糊编码方法",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为BLUE的模糊编码方法，用于轨迹表示学习。该方法通过逐渐降低GPS坐标精度创建多级层次化补丁，低级别补丁保留细粒度时空细节，高级别补丁捕捉整体出行模式。BLUE采用金字塔结构的编码器-解码器模型，在不同补丁级别使用Transformer学习轨迹嵌入。实验结果表明，BLUE在三个下游任务中比8个最先进方法平均准确率高出30.90%，显著提升了轨迹分类和相似性搜索的性能。",
+      "attentionscore": 69.94,
+      "link": "https://arxiv.org/abs/2511.13741"
+    }
+  },
+  {
+    "output": {
+      "id": "id_650785681",
+      "title": "Adaptive Redundancy Regulation for Balanced Multimodal Information Refinement",
+      "title_zh": "面向平衡多模态信息精化的自适应冗余调控",
+      "pubdate": "2025-11-19T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了一种名为RedReg的自适应冗余调控方法，旨在解决多模态学习中因模态偏差导致的优化不平衡问题。该方法基于信息瓶颈原理，构建了冗余阶段监控器，仅在冗余度高时触发干预，并设计了共信息门控机制来估计主导模态的贡献。当任务主要依赖单一模态时，抑制项自动禁用以保留模态特定信息。实验表明该方法在多数场景下优于当前主流方法，代码已在GitHub开源。",
+      "attentionscore": 69.68,
+      "link": "https://arxiv.org/abs/2511.13755"
+    }
+  }
+]
