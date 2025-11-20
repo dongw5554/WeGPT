@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1415822252",
+      "title": "Motor Imagery Classification Using Feature Fusion of Spatially Weighted Electroencephalography",
+      "title_zh": "基于空间加权脑电图特征融合的运动想象分类",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种创新的脑机接口方法，通过基于脑功能区特定通道选择和多域特征融合来提升运动想象分类精度。研究采用脑区特异性通道分组，结合三种特征提取方法（CSP、模糊C均值聚类和切线空间映射），有效降低了数据维度并提高了计算效率。在BCI竞赛III和IV的公开数据集上验证，该方法在IVA和I数据集上分别达到90.77%和84.50%的分类准确率，优于现有方法，为脑机接口系统的实用化提供了重要技术支撑。",
+      "attentionscore": 75.47,
+      "link": "https://arxiv.org/abs/2511.13752"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1512489984",
+      "title": "PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval",
+      "title_zh": "PRISM：面向金融检索的提示优化上下文系统建模",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "PRISM是一个创新的训练免费框架，专门针对金融信息检索任务设计。该框架整合了优化的系统提示、上下文学习和轻量级多智能体系统，在FinAgentBench数据集上实现了NDCG@5为0.71818的优异表现。PRISM能够从冗长的财务文件中提取任务相关信息，其模块化、仅推理的设计使其适用于实际生产环境，为金融决策提供可靠支持。该框架已在GitHub开源，展现了在金融检索领域的实用性和鲁棒性。",
+      "attentionscore": 73.72,
+      "link": "https://arxiv.org/abs/2511.14130"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1840658244",
+      "title": "Subject-Independent Imagined Speech Detection via Cross-Subject Generalization and Calibration",
+      "title_zh": "基于跨主体泛化与校准的主体无关想象语音检测",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本研究针对脑电图想象语音解码中个体间神经活动模式差异大的挑战，提出了一种结合循环跨主体训练和轻量级校准的方法。通过采用循环主体间训练策略和仅需10%目标主体数据进行校准的方案，在留一主体验证中达到了0.781的准确率和0.801的AUC值。结果表明，该方法为开发可扩展、用户自适应的脑机接口系统提供了一种简单有效的策略，在泛化性和个性化之间取得了良好平衡。",
+      "attentionscore": 73.63,
+      "link": "https://arxiv.org/abs/2511.13739"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2105022964",
+      "title": "Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios",
+      "title_zh": "场景图引导的生成式AI框架：工业危险场景合成与评估",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "本研究提出了一种创新的场景图引导生成式AI框架，用于合成基于历史OSHA事故报告的真实工业危险场景图像。该框架利用GPT-4o分析事故叙述，提取结构化危险推理并转换为对象级场景图，然后指导文本到图像扩散模型生成构图准确的危险场景。为评估生成数据的真实性和语义保真度，引入了视觉问答评估框架，其提出的VQA图评分在基于熵的验证中优于CLIP和BLIP指标，显示出更高的判别敏感性。",
+      "attentionscore": 73.55,
+      "link": "https://arxiv.org/abs/2511.13970"
+    }
+  },
+  {
+    "output": {
+      "id": "id_429367803",
+      "title": "Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation",
+      "title_zh": "Syn-STARTS：用于可扩展LLM评估的综合START分诊场景生成框架",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "Syn-STARTS是一个创新框架，利用大型语言模型生成大规模伤亡事件中的分诊场景，解决了真实数据难以获取的难题。研究验证了该框架生成的分诊案例在质量上与人工整理的数据集难以区分，且在评估LLM准确性时表现出高度稳定性。这一成果为开发高性能医疗AI模型提供了可靠的数据支持，特别是在严重医疗紧急情况下的决策支持系统开发方面具有重要应用价值。",
+      "attentionscore": 73.46,
+      "link": "https://arxiv.org/abs/2511.14023"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1943241826",
+      "title": "Review of Passenger Flow Modelling Approaches Based on a Bibliometric Analysis",
+      "title_zh": "基于文献计量分析的客流建模方法综述",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇论文通过文献计量分析研究了1984-2024年间814篇关于公共交通短期客流预测的文献。研究发现，2008年前研究活动较为零散，之后明显加速，从传统统计和机器学习方法转向专业深度学习架构。分析揭示了空间、语言和模式偏见，并验证了现有文献发现。研究还指出了当前领域的空白，包括受限的数据融合、开放多变量数据不足，以及模型可解释性、成本效益和算法性能与实际部署平衡等被低估的挑战。基础模型的相关性增长也值得关注。",
+      "attentionscore": 73.28,
+      "link": "https://arxiv.org/abs/2511.13742"
+    }
+  },
+  {
+    "output": {
+      "id": "id_965908661",
+      "title": "nuCarla: A nuScenes-Style Bird's-Eye View Perception Dataset for CARLA Simulation",
+      "title_zh": "nuCarla：面向CARLA仿真的nuScenes风格鸟瞰图感知数据集",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究介绍了nuCarla数据集，这是一个基于CARLA仿真器构建的大规模鸟瞰图感知数据集，采用nuScenes格式设计。该数据集解决了端到端自动驾驶在闭环仿真中缺乏标准化、大规模验证数据的问题，具有与nuScenes相当的规模但更均衡的类别分布，支持真实世界感知模型的无缝迁移，并可直接用于闭环仿真部署。通过提供数据和模型作为开放基准，nuCarla显著加速了闭环端到端自动驾驶的发展，为可靠和安全感知研究铺平了道路。",
+      "attentionscore": 73.19,
+      "link": "https://arxiv.org/abs/2511.13744"
+    }
+  },
+  {
+    "output": {
+      "id": "id_425410677",
+      "title": "Deep reinforcement learning-based spacecraft attitude control with pointing keep-out constraint",
+      "title_zh": "基于深度强化学习的航天器姿态控制与指向禁区约束",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇论文提出了一种基于深度强化学习的航天器姿态控制方法，专门针对单一指向禁区约束问题。研究采用Soft Actor-Critic算法处理连续状态和动作空间，设计了新的状态表示方法以明确包含姿态约束区域的紧凑表示。通过精心设计的奖励函数实现控制目标同时强制姿态约束，并采用课程学习方法进行智能体训练。仿真结果表明，所提出的深度强化学习方法在航天器指向约束姿态控制方面具有良好效果。",
+      "attentionscore": 72.92,
+      "link": "https://arxiv.org/abs/2511.13746"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1005130375",
+      "title": "Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection",
+      "title_zh": "基于PNU损失的多智能体视觉语言模型引导自训练用于低资源攻击性内容检测",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种针对社交媒体攻击性内容检测的自训练框架，旨在解决标注数据稀缺的问题。该方法利用多智能体视觉语言模型（MA-VLMs）从监管者和用户双重视角进行协作伪标注，通过PNU损失函数联合优化标注数据、一致未知集和冲突未知集，有效缓解伪标签噪声。实验表明，该框架在有限监督条件下显著优于基线方法，并接近大规模模型的性能表现，为低资源环境下的内容审核提供了有效解决方案。",
+      "attentionscore": 72.74,
+      "link": "https://arxiv.org/abs/2511.13759"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1977173052",
+      "title": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+      "title_zh": "从传统Fortran到可移植Kokkos：一种自主智能代理AI工作流程",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种基于大型语言模型的自主智能代理工作流程，专门用于将传统Fortran代码转换为可移植的Kokkos C++程序。该工作流程通过多个专门的LLM代理协作完成代码翻译、验证、编译、运行、测试、调试和优化等任务，成功实现了多种基准内核的现代化改造。研究结果显示，使用OpenAI的付费模型仅需几美元即可生成性能超越Fortran基准的优化代码，而开源模型则往往无法产生功能性代码。这项工作展示了智能代理AI在科学计算代码现代化方面的可行性，为传统科学应用在异构超级计算机上的高效运行提供了新的技术路径。",
+      "attentionscore": 72.61,
+      "link": "https://arxiv.org/abs/2509.12443"
+    }
+  },
+  {
+    "output": {
+      "id": "id_369324500",
+      "title": "Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca",
+      "title_zh": "准备遇见机遇：利用Seneca增强机器学习训练的数据预处理",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "这篇研究论文介绍了Seneca数据加载系统，专门解决多媒体机器学习模型训练中的数据预处理瓶颈问题。Seneca通过优化缓存分区和数据采样技术，显著提升数据存储和摄入管道的效率。系统采用两种关键技术：基于数据管道性能模型的最优缓存分区，以及在随机批次采样中优先服务缓存数据的策略。实验结果显示，Seneca相比PyTorch缩短了45.23%的训练时间，数据处理吞吐量比最佳数据加载器提升了3.45倍，为并发机器学习训练提供了有效的解决方案。",
+      "attentionscore": 72.56,
+      "link": "https://arxiv.org/abs/2511.13724"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1828161386",
+      "title": "Multi-Horizon Time Series Forecasting of non-parametric CDFs with Deep Lattice Networks",
+      "title_zh": "基于深度格网网络的多时间尺度非参数累积分布函数时间序列预测",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种基于深度格网网络的新方法，用于多时间尺度的非参数累积分布函数时间序列预测。通过结合概率预测和单调网络技术，该方法能够预测隐式、完整且非参数的累积分布函数，有效防止分位数交叉问题。研究采用长短期记忆单元作为嵌入层，在太阳能辐照度观测的日间每小时预测应用中验证了该方法的有效性。实验结果表明，该适应性深度格网网络性能优于无约束方法，并在与可扩展单调神经网络的比较中表现更佳，为单调神经网络和概率预测技术的交叉研究开辟了新方向。",
+      "attentionscore": 71.9,
+      "link": "https://arxiv.org/abs/2511.13756"
+    }
+  },
+  {
+    "output": {
+      "id": "id_303094452",
+      "title": "VitalBench: A Rigorous Multi-Center Benchmark for Long-Term Vital Sign Prediction in Intraoperative Care",
+      "title_zh": "VitalBench：面向术中护理长期生命体征预测的严格多中心基准",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了VitalBench基准，专门用于术中生命体征预测，包含来自两个独立医疗中心的4000多例手术数据。该基准提供三个评估轨道：完整数据、不完整数据和跨中心泛化，反映了临床实践中的真实复杂性。通过最小化对广泛预处理的依赖并采用掩码损失技术，确保模型评估的鲁棒性和无偏性。VitalBench为模型开发和比较提供了标准化平台，为推进术中生命体征预测模型奠定了基础。",
+      "attentionscore": 71.54,
+      "link": "https://arxiv.org/abs/2511.13757"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1299121152",
+      "title": "DevPiolt: Operation Recommendation for IoT Devices at Xiaomi Home",
+      "title_zh": "DevPiolt：小米智能家居物联网设备操作推荐系统",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "小米公司研发的DevPiolt是一款基于大语言模型的物联网设备操作推荐系统，通过持续预训练和多任务微调为LLM注入领域知识，并采用直接偏好优化技术匹配用户个性化需求。该系统设计了基于置信度的曝光控制机制，避免低质量推荐带来的负面体验。实验数据显示，DevPiolt在所有数据集上显著优于基线模型，各项指标平均提升69.5%。该系统已在小米智能家居应用中实际部署一个季度，为25.5万用户提供日常操作推荐，在线实验结果表明独特访客设备覆盖率提升21.6%，页面浏览接受率提升29.1%。",
+      "attentionscore": 71.36,
+      "link": "https://arxiv.org/abs/2511.14227"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1555900185",
+      "title": "Making Evidence Actionable in Adaptive Learning",
+      "title_zh": "让证据在自适应学习中可操作化",
+      "pubdate": "2025-11-20T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv AI (cs.AI)",
+      "ai_summary": "该研究提出了一种教师主导的反馈循环系统，将概念级评估证据转化为经过验证的微干预措施。自适应学习算法包含三个保障机制：充分性确保知识缺口闭合，注意力作为时间和冗余的预算约束，多样性防止对单一资源的过度拟合。研究通过二元整数规划形式化干预分配，在1204名学生的物理课程部署中，两种求解器都实现了在限定时间内为几乎所有学习者提供完整的技能覆盖。梯度方法相比贪婪选择减少了约12个百分点的冗余覆盖，而贪婪方法在资源稀缺环境下以较低计算成本实现了相当的充分性。该控制器实现了诊断与教学的闭环，在课堂规模上提供公平、负载感知的个性化学习。",
+      "attentionscore": 70.11,
+      "link": "https://arxiv.org/abs/2511.14052"
+    }
+  }
+]
