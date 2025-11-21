@@ -1,0 +1,184 @@
+[
+  {
+    "output": {
+      "id": "id_2073668362",
+      "title": "Connecting the Dots: A Machine Learning Ready Dataset for Ionospheric Forecasting Models",
+      "title_zh": "连接点：用于电离层预报模型的机器学习就绪数据集",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "作为2025年NASA Heliolab项目的一部分，研究人员开发了一个开放访问的机器学习就绪数据集，整合了多种电离层和日球层测量数据。该数据集包含太阳动力学观测站数据、太阳辐照度指数、太阳风参数、地磁活动指数以及全球电离层总电子含量图等。研究人员利用该数据集训练了多个时空机器学习架构，用于在平静和地磁活跃条件下预测垂直总电子含量，支持科学研究和业务预报工作。",
+      "attentionscore": 76.55,
+      "link": "https://arxiv.org/abs/2511.15743"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1282334225",
+      "title": "Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation",
+      "title_zh": "协同去混淆与时间泛化用于时间序列反事实结果估计",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种新颖的时间序列反事实结果估计框架，通过协同整合子治疗组对齐(SGA)和随机时间掩码(RTM)两种互补方法。SGA通过迭代治疗无关聚类识别细粒度子治疗组，实现更有效的去混淆；RTM通过随机替换输入协变量促进时间泛化。实验表明，这两种方法的协同组合在反事实结果估计方面实现了最先进的性能，分别改善了时间泛化和去混淆效果。",
+      "attentionscore": 75.57,
+      "link": "https://arxiv.org/abs/2511.16006"
+    }
+  },
+  {
+    "output": {
+      "id": "id_439125471",
+      "title": "Self-supervised and Multi-fidelity Learning for Extended Predictive Soil Spectroscopy",
+      "title_zh": "自监督与多保真度学习在扩展预测土壤光谱中的应用",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出了一种自监督机器学习框架，用于多保真度学习和扩展预测土壤光谱。该框架利用变分自编码器算法预训练大型中红外光谱库，生成压缩潜在空间嵌入。通过将训练好的中红外解码器与近红外编码器结合，实现了近红外到中红外的光谱转换，从而利用大型中红外数据库的预测能力。实验结果显示，该方法在所有土壤属性预测任务中均达到相似或更好的准确性，表明统一光谱潜在空间能有效利用更大、更多样的中红外数据集。",
+      "attentionscore": 74.95,
+      "link": "https://arxiv.org/abs/2511.15965"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1443047422",
+      "title": "Unified all-atom molecule generation with neural fields",
+      "title_zh": "基于神经场的统一全原子分子生成",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了FuncBind框架，采用计算机视觉技术通过神经场表示分子为连续原子密度，使用基于分数的生成模型实现跨原子系统的目标条件全原子分子生成。该模型能够处理从小分子到大分子的多样化原子系统，包括非标准氨基酸，在生成小分子、大环肽和抗体互补决定区环方面表现优异。FuncBind还成功通过从头设计两个共晶结构的CDR H3环生成了新型抗体结合物。",
+      "attentionscore": 74.01,
+      "link": "https://arxiv.org/abs/2511.15906"
+    }
+  },
+  {
+    "output": {
+      "id": "id_520799190",
+      "title": "Microsoft&#8217;s AI-powered copy and paste can now use on-device AI",
+      "title_zh": "微软的AI驱动复制粘贴功能现可使用设备端AI",
+      "pubdate": "2025-11-20T21:48:39.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "微软升级PowerToys中的高级粘贴工具，支持设备端AI模型处理剪贴板内容。通过0.96更新，用户可选择Microsoft Foundry Local或开源Ollama在设备NPU上运行AI，无需API费用即可实现文本翻译和摘要功能。同时新增对Azure OpenAI、Gemini和Mistral等多款在线模型的支持，并优化了界面设计。",
+      "attentionscore": 73.38,
+      "link": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1315931005",
+      "title": "discretize_distributions: Efficient Quantization of Gaussian Mixtures with Guarantees in Wasserstein Distance",
+      "title_zh": "离散化分布：在Wasserstein距离中具有保证的高斯混合高效量化",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了discretize_distributions Python包，能够高效构建高斯混合分布的离散近似，并在Wasserstein距离上提供近似误差保证。该包实现了高斯混合模型的最新量化方法，提升了可扩展性，并集成了sigma点方法等补充量化策略。通过模块化接口支持自定义方案，可集成到信息物理系统的控制和验证流程中。在各种高维、大规模和退化高斯混合的基准测试中，该包以较低计算成本产生准确近似。",
+      "attentionscore": 73.11,
+      "link": "https://arxiv.org/abs/2511.15854"
+    }
+  },
+  {
+    "output": {
+      "id": "id_117309445",
+      "title": "Machine Learning Epidemic Predictions Using Agent-based Wireless Sensor Network Models",
+      "title_zh": "基于代理无线传感器网络模型的机器学习流行病预测",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了一种基于代理的SEIRV数学模型，用于无线传感器网络中的机器学习流行病预测。通过NetLogo和Python生成合成数据集，应用多种ML算法预测感染和恢复节点。结果显示Random Forest、XGBoost、决策树和k近邻算法表现最佳，训练集R²值高达0.997-1.000，验证集为0.971-0.999，表明模型对训练数据拟合良好。",
+      "attentionscore": 72.84,
+      "link": "https://arxiv.org/abs/2511.15982"
+    }
+  },
+  {
+    "output": {
+      "id": "id_543870599",
+      "title": "Mitigating Estimation Bias with Representation Learning in TD Error-Driven Regularization",
+      "title_zh": "通过TD误差驱动正则化中的表示学习缓解估计偏差",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究针对连续控制中的确定性策略梯度算法存在的值估计偏差问题，在TD误差驱动正则化框架基础上提出增强方法。通过三种凸组合策略平衡悲观估计缓解高估，利用双重执行器进行乐观探索缓解低估。同时将增强状态和动作表示集成到执行器和评论家网络中，实验表明该方法在多种环境中均优于基准算法，展示了可调偏差机制的重要价值。",
+      "attentionscore": 72.76,
+      "link": "https://arxiv.org/abs/2511.16090"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1554053279",
+      "title": "Physics-Guided Inductive Spatiotemporal Kriging for PM2.5 with Satellite Gradient Constraints",
+      "title_zh": "基于卫星梯度约束的物理引导归纳时空克里金PM2.5预测方法",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种新型时空物理引导推理网络(SPIN)，用于解决PM2.5高分辨率制图中地面监测网络稀疏性问题。该框架创新性地将物理平流和扩散过程建模为并行图核，并采用卫星气溶胶光学厚度作为空间梯度约束而非直接输入。在京津冀及周边地区验证中，SPIN实现了9.52 ug/m³的平均绝对误差，创下最新记录，为精细环境管理提供了稳健、低成本和全天候解决方案。",
+      "attentionscore": 72.67,
+      "link": "https://arxiv.org/abs/2511.16013"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1202121343",
+      "title": "Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models",
+      "title_zh": "通过基于数据的替代模型增强核反应堆堆芯模拟",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "法马通公司开发的OAPS系统通过模型预测控制解决核电站灵活性需求。本研究提出两种基于非线性常微分方程的替代模型，用于增强核反应堆堆芯模拟。研究表明，数据驱动和物理信息模型能快速整合复杂动力学，计算时间大幅减少高达1000倍，显著提升了核反应堆模拟效率。",
+      "attentionscore": 72.31,
+      "link": "https://arxiv.org/abs/2511.16148"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1404271830",
+      "title": "An Interpretability-Guided Framework for Responsible Synthetic Data Generation in Emotional Text",
+      "title_zh": "基于可解释性指导的情感文本负责任合成数据生成框架",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究团队提出了一种基于可解释性指导的合成数据生成框架，利用SHAP方法为基于大语言模型的合成数据生成提供原则性指导。该框架在足够种子数据下能够匹配真实数据性能，显著优于简单生成方法，并大幅改善少数情感类别的分类效果。然而，语言分析显示合成文本在词汇丰富度和个人表达方面仍与真实社交媒体帖子存在差距。",
+      "attentionscore": 72.23,
+      "link": "https://arxiv.org/abs/2511.16132"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1557527133",
+      "title": "ILoRA: Federated Learning with Low-Rank Adaptation for Heterogeneous Client Aggregation",
+      "title_zh": "ILoRA：面向异构客户端聚合的联邦学习低秩适配方法",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究团队提出ILoRA框架，解决联邦学习中低秩适配面临的三大挑战：初始化诱导的不稳定性、秩不兼容与聚合误差、非独立同分布数据下的客户端漂移。该框架采用QR正交初始化、串联QR聚合机制和AdamW优化器，在视觉和自然语言处理基准测试中展现出卓越的准确性和收敛稳定性，优于现有联邦LoRA方法。",
+      "attentionscore": 72.14,
+      "link": "https://arxiv.org/abs/2511.16069"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2131557178",
+      "title": "Change-of-Basis Pruning via Rotational Invariance",
+      "title_zh": "基于旋转不变性的基变换剪枝",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出了一种基于旋转不变性的基变换剪枝方法，通过引入两子空间径向激活函数实现正交线性变换不变性。在VGG-16模型上，该方法在CIFAR-10数据集上取得积极成果：固定比例结构化剪枝下，基变换在所有剪枝比例下都优于基线，可靠剪枝前沿从约30%扩展到70%参数；阈值剪枝策略下，可剪除90-96%参数且微调后精度仅下降1-6%。这表明旋转不变架构为基变换剪枝提供了有前景的路径。",
+      "attentionscore": 72.05,
+      "link": "https://arxiv.org/abs/2511.16061"
+    }
+  },
+  {
+    "output": {
+      "id": "id_709459220",
+      "title": "AssayMatch: Learning to Select Data for Molecular Activity Models",
+      "title_zh": "AssayMatch：学习为分子活性模型选择数据",
+      "pubdate": "2025-11-21T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了AssayMatch框架，用于为药物发现中的机器学习模型选择高质量训练数据。该框架利用数据归因方法量化每个训练实验对模型性能的贡献，通过微调基于文本的实验描述嵌入来捕获实验间的兼容性。实验表明，使用AssayMatch选择的数据训练的模型能够超越使用完整数据集训练的模型性能，在12个模型-靶点对中的9个上表现优于仅基于语言的基线方法，有效过滤有害或噪声实验，提高预测能力和数据效率。",
+      "attentionscore": 71.87,
+      "link": "https://arxiv.org/abs/2511.16087"
+    }
+  }
+]
