@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1300261481",
+      "title": "Shocker: Elon Musk spends a lot of time on X posting bad political takes",
+      "title_zh": "震惊：埃隆·马斯克花费大量时间在X平台发布糟糕的政治观点",
+      "pubdate": "2025-11-23T00:15:13.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "NBC新闻分析显示，埃隆·马斯克在9月17日至10月17日的一个月内发布了1716条推文，平均每天超过55条。其中49%涉及政治话题，多为边缘观点。他特别关注影视作品中演员的种族问题，甚至批评童星。此外，马斯克还频繁讨论犯罪、特斯拉以及自我宣传，期间关于自己的推文达109次，甚至转发自己的粉丝内容。",
+      "attentionscore": 69.57,
+      "link": "https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself"
+    }
+  },
+  {
+    "output": {
+      "id": "id_863010178",
+      "title": "Carol seeks the truth (serum) in Pluribus episode 4",
+      "title_zh": "卡罗尔在《Pluribus》第4集中寻求真相（血清）",
+      "pubdate": "2025-11-22T13:00:00.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "在Apple TV科幻剧《Pluribus》第4集中，主角卡罗尔（Rhea Seehorn饰演）继续寻找能够帮助她拯救世界免受幸福瘟疫威胁的人。本集明确介绍了一个与她想法相似的角色，但两人如何建立联系仍是未知数。该剧由《绝命毒师》创作者Vince Gilligan制作，讲述人类大部分加入只能体验积极情绪的蜂巢思维，而主角则持续处于痛苦状态。",
+      "attentionscore": 68.49,
+      "link": "https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1984060030",
+      "title": "Forestrike trained me to become an incredible pixelated fighter",
+      "title_zh": "Forestrike训练我成为一名出色的像素化格斗家",
+      "pubdate": "2025-11-22T14:00:00.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "Forestrike是一款独特的武术动作游戏，由Olija开发商Skeleton Crew制作。游戏允许玩家在战斗中预见未来并练习策略，将战斗变成一种需要快速反应和精准决策的谜题游戏。玩家扮演武术学生Yu，任务是清除家乡的邪恶帝国。游戏成功地将作者训练成一名优秀的像素化格斗家。",
+      "attentionscore": 68.05,
+      "link": "https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1802743541",
+      "title": "Harvard Database Hacked in Latest Ivy League Cyberattacks",
+      "title_zh": "哈佛大学数据库遭黑客入侵，常春藤盟校网络攻击频发",
+      "pubdate": "2025-11-22T18:06:27.000Z",
+      "creator": "",
+      "source": "Bloomberg Tech",
+      "ai_summary": "哈佛大学校友、捐赠者及部分师生数据库遭未经授权访问，这是通过电话钓鱼攻击实施的网络入侵。这是常春藤盟校遭受的最新网络攻击，也是哈佛大学今年第二次调查数据泄露事件，凸显了高等教育机构面临日益严峻的网络安全威胁。",
+      "attentionscore": 64.23,
+      "link": "https://www.bloomberg.com/news/articles/2025-11-22/harvard-hacked-in-most-recent-case-of-ivy-league-cyberattacks"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1259608468",
+      "title": "Overfitting vs. Underfitting: Making Sense of the Bias-Variance Trade-Off",
+      "title_zh": "过拟合与欠拟合：理解偏差-方差权衡",
+      "pubdate": "2025-11-22T13:00:00.000Z",
+      "creator": "",
+      "source": "Towards Data Science (Medium)",
+      "ai_summary": "本文探讨了机器学习中过拟合与欠拟合的问题，解释了偏差-方差权衡的概念。最佳模型处于平衡点，能够良好泛化，学习足够但不过度。文章强调了在模型训练中寻找这一平衡点的重要性，以实现对新数据的有效预测。",
+      "attentionscore": 63.39,
+      "link": "https://towardsdatascience.com/overfitting-versus-underfitting/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_718516186",
+      "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
+      "title_zh": "Lean4：定理证明器的工作原理及其成为AI新竞争优势的原因",
+      "pubdate": "2025-11-23T00:30:00.000Z",
+      "creator": "",
+      "source": "VentureBeat AI",
+      "ai_summary": "Lean4作为开源编程语言和交互式定理证明器，正成为提升AI系统可靠性的关键工具。通过形式化验证，Lean4能够为AI输出提供数学保证的确定性，有效解决LLM的幻觉问题。OpenAI、Meta、Google DeepMind等公司已采用Lean4验证数学定理和代码正确性，创业公司Harmonic AI更开发出无幻觉数学聊天机器人。Lean4为高风险领域的AI应用提供了可验证的安全保障，有望成为构建可信AI的基础技术。",
+      "attentionscore": 62.99,
+      "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in"
+    }
+  },
+  {
+    "output": {
+      "id": "id_21988410",
+      "title": "17 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel",
+      "title_zh": "2025年17款最佳法压壶：塑料、玻璃、不锈钢、旅行款",
+      "pubdate": "2025-11-22T11:32:00.000Z",
+      "creator": "",
+      "source": "Wired AI",
+      "ai_summary": "法压壶以其价格实惠、冲泡效果出色且操作简单的特点深受咖啡爱好者喜爱。该文章精选了2025年17款最佳法压壶，涵盖塑料、玻璃、不锈钢和旅行便携等多种材质类型，旨在帮助用户选择最适合的器具来制作每日清晨的完美咖啡。",
+      "attentionscore": 60.17,
+      "link": "https://www.wired.com/gallery/best-french-press-for-morning-brew/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_596336662",
+      "title": "The Climate Impact of Owning a Dog",
+      "title_zh": "养狗对气候的影响",
+      "pubdate": "2025-11-22T12:00:00.000Z",
+      "creator": "",
+      "source": "Wired AI",
+      "ai_summary": "文章探讨了养狗对气候变化的影响，指出宠物狗会排放温室气体，但作者表示尽管意识到这一环境问题，仍然深爱自己的狗狗。这反映了在环保意识与情感依恋之间的平衡，体现了人们对宠物的深厚感情不会因环境考量而改变。",
+      "attentionscore": 60.17,
+      "link": "https://www.wired.com/story/the-climate-paradox-of-having-a-dog/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1918307732",
+      "title": "Wi-Fi Giant’s Vietnam Factory Raises Questions Over China Split",
+      "title_zh": "Wi-Fi巨头TP-Link越南工厂引发对中国分离的质疑",
+      "pubdate": "2025-11-22T12:00:00.000Z",
+      "creator": "",
+      "source": "Bloomberg Tech",
+      "ai_summary": "中国创立的Wi-Fi巨头TP-Link系统公司正试图说服美国国家安全官员其独立于中国政府。该公司在越南工厂生产销往美国的产品，但相关情况表明这种独立性可能难以实现，显示出中美科技企业在全球供应链中的复杂关系。",
+      "attentionscore": 60.15,
+      "link": "https://www.bloomberg.com/news/articles/2025-11-22/wi-fi-giant-s-vietnam-factory-raises-questions-over-china-split"
+    }
+  },
+  {
+    "output": {
+      "id": "id_840697739",
+      "title": "Singapore Probe Into Alleged Prince Scam Ring Widens With Raid",
+      "title_zh": "新加坡对涉嫌王子诈骗集团的调查扩大，警方突击搜查相关公司",
+      "pubdate": "2025-11-23T03:38:11.000Z",
+      "creator": "",
+      "source": "Bloomberg Tech",
+      "ai_summary": "新加坡当局突击搜查了一家汽车贷款公司，该公司曾向与王子控股集团有关联的企业借款。此次行动标志着对涉嫌诈骗组织及其主席陈志相关人员的调查范围正在扩大，显示新加坡政府对金融诈骗案件的严厉打击态度。",
+      "attentionscore": 59.86,
+      "link": "https://www.bloomberg.com/news/articles/2025-11-23/singapore-investigation-into-chen-zhi-alleged-prince-scam-ring-widens-with-raid"
+    }
+  },
+  {
+    "output": {
+      "id": "id_273247877",
+      "title": "Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series",
+      "title_zh": "经验模态分解：分解复杂信号和时间序列最直观的方法",
+      "pubdate": "2025-11-22T15:00:00.000Z",
+      "creator": "",
+      "source": "Towards Data Science (Medium)",
+      "ai_summary": "本文详细介绍了经验模态分解方法，这是一种直观分解复杂信号和时间序列的技术。文章提供了逐步分解指南，帮助读者从时间序列数据中提取模式。经验模态分解被认为是处理非线性和非平稳信号的有效工具，能够将复杂信号分解为多个固有模态函数，便于进一步分析和理解数据特征。",
+      "attentionscore": 58.77,
+      "link": "https://towardsdatascience.com/preprocessing-signal-data-with-empirical-mode-decomposition/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1718709011",
+      "title": "The 44 Best Movies on Netflix, WIRED’s Picks (December 2025)",
+      "title_zh": "《连线》精选：Netflix上44部最佳电影（2025年12月）",
+      "pubdate": "2025-11-22T12:00:00.000Z",
+      "creator": "",
+      "source": "Wired AI",
+      "ai_summary": "《连线》杂志评选出2025年12月Netflix平台上的44部最佳电影推荐，其中包括《弗兰肯斯坦》、《恶棍们》和《炸药屋》等影片。这份精选榜单为观众提供了本月值得观看的高质量电影选择，涵盖了不同类型的优秀作品，帮助用户在众多内容中找到精品。",
+      "attentionscore": 58.23,
+      "link": "https://www.wired.com/story/netflix-best-movies-this-week/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_212918910",
+      "title": "These 5 Posture Corrector Picks Will Straighten You Out (2025)",
+      "title_zh": "2025年5款姿势矫正器推荐助你挺直身姿",
+      "pubdate": "2025-11-22T14:30:00.000Z",
+      "creator": "",
+      "source": "Wired AI",
+      "ai_summary": "针对长时间低头使用手机和电脑导致的驼背问题，文章推荐了5款姿势矫正器，包括各种小工具、DIY技巧和瑜伽建议，帮助用户改善姿势，挺直身体。这些方法旨在解决现代人常见的姿势问题，提供实用的解决方案。",
+      "attentionscore": 57.84,
+      "link": "https://www.wired.com/gallery/posture-correctors/"
+    }
+  },
+  {
+    "output": {
+      "id": "id_267888828",
+      "title": "Musk Says Tesla Nears AI5 Chip Tape Out, Starting Work on AI6",
+      "title_zh": "马斯克称特斯拉即将完成AI5芯片设计，开始研发AI6芯片",
+      "pubdate": "2025-11-23T08:30:13.000Z",
+      "creator": "",
+      "source": "Bloomberg Tech",
+      "ai_summary": "特斯拉CEO埃隆·马斯克在社交媒体上宣布，特斯拉即将完成AI5芯片的设计流程，并已开始研发新一代AI6芯片。这些芯片将部署在特斯拉汽车和数据中心中，标志着公司在人工智能芯片技术方面的持续创新和进步。",
+      "attentionscore": 56.97,
+      "link": "https://www.bloomberg.com/news/articles/2025-11-23/musk-says-tesla-nears-ai5-chip-tape-out-starting-work-on-ai6"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1542205688",
+      "title": "US Border Patrol Is Spying on Millions of American Drivers",
+      "title_zh": "美国边境巡逻队正在监视数百万美国司机",
+      "pubdate": "2025-11-22T11:30:00.000Z",
+      "creator": "",
+      "source": "Wired AI",
+      "ai_summary": "美国边境巡逻队被曝监视数百万美国司机，同时美国证券交易委员会放弃对SolarWinds的追究，微软成功阻止了历史性的DDoS攻击，FBI文件显示该机构在纽约市监视了一个移民活动人士的Signal群组。这些事件揭示了美国执法和监管机构在网络安全和个人隐私方面的争议行为。",
+      "attentionscore": 56.23,
+      "link": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/"
+    }
+  }
+]
