@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_925073480",
+      "title": "Four decades of circumpolar super-resolved satellite land surface temperature data",
+      "title_zh": "四十年环极地超分辨率卫星地表温度数据",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了一种新的42年环北极地表温度数据集，利用深度各向异性扩散模型将AVHRR卫星数据从粗分辨率降尺度至1公里。该数据集基于MODIS数据训练，结合高分辨率土地覆盖、数字高程和植被高度图，提供每日两次的1公里分辨率观测。这一增强数据集将显著改善永久冻土建模、近地表气温重建以及格陵兰冰盖表面质量平衡评估，并为前MODIS时代的气候监测提供重要支持。",
+      "attentionscore": 76.46,
+      "link": "https://arxiv.org/abs/2511.17134"
+    }
+  },
+  {
+    "output": {
+      "id": "id_362353134",
+      "title": "A Hybrid Computational Intelligence Framework for scRNA-seq Imputation: Integrating scRecover and Random Forests",
+      "title_zh": "用于单细胞RNA测序插补的混合计算智能框架：整合scRecover和随机森林",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出SCR-MF，一种用于单细胞RNA测序数据插补的混合计算智能框架。该框架采用模块化两阶段工作流程，结合scRecover进行原理性dropout检测和missForest进行稳健的非参数插补。在公共和模拟数据集上的测试表明，SCR-MF在大多数情况下实现与现有方法相当或更优的稳健且可解释性能，同时保持生物保真度和透明度。运行时间分析显示该方法在准确性和计算效率之间达到良好平衡，适用于中等规模单细胞数据集。",
+      "attentionscore": 76.37,
+      "link": "https://arxiv.org/abs/2511.16923"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1158140852",
+      "title": "Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering",
+      "title_zh": "掩盖冗余：用于多元时间序列聚类的演化掩码表示学习",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出EMTC方法，通过重要性感知变量掩码和多内生视图表示学习模块，解决多元时间序列聚类中冗余信息干扰问题。该方法动态适应聚类关键时间戳的重要性，通过多视角重构和聚类引导对比学习增强泛化能力。在15个真实基准数据集上的实验表明，EMTC相比8种最先进方法平均提升4.85%。",
+      "attentionscore": 76.3,
+      "link": "https://arxiv.org/abs/2511.17008"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1883389392",
+      "title": "Self-supervised denoising of raw tomography detector data for improved image reconstruction",
+      "title_zh": "自监督原始断层扫描探测器数据去噪以改进图像重建",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "针对超快电子束X射线计算机断层扫描因测量时间短导致数据噪声大、重建伪影和图像质量受限的问题，研究比较了两种自监督深度学习方法和一种非学习去噪方法。研究发现，基于深度学习的方法能够提高探测器数据的信噪比，并在重建图像中实现持续改进，优于非学习方法。",
+      "attentionscore": 76.1,
+      "link": "https://arxiv.org/abs/2511.17312"
+    }
+  },
+  {
+    "output": {
+      "id": "id_75980212",
+      "title": "PepEVOLVE: Position-Aware Dynamic Peptide Optimization via Group-Relative Advantage",
+      "title_zh": "PepEVOLVE：通过群体相对优势进行位置感知的动态肽优化",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了PepEVOLVE框架，这是一种位置感知的动态肽优化方法，能够同时学习编辑位置和动态优化肽序列以实现多目标改进。该系统通过动态掩码和CHUCKLES移位增强预训练，使用上下文无关多臂老虎机路由器发现高奖励残基，并采用新颖的进化优化算法与群体相对优势相结合。在Rev结合大环肽基准测试中，PepEVOLVE在渗透性和亲脂性优化方面表现优于PepINVENT，达到更高平均分数（约0.8 vs 0.6），最佳候选分数达0.95，且收敛步数更少。",
+      "attentionscore": 75.41,
+      "link": "https://arxiv.org/abs/2511.16912"
+    }
+  },
+  {
+    "output": {
+      "id": "id_809573522",
+      "title": "Sex and age determination in European lobsters using AI-Enhanced bioacoustics",
+      "title_zh": "利用AI增强生物声学技术确定欧洲龙虾的性别和年龄",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "苏格兰Johnshaven的研究团队利用AI增强生物声学技术，通过分析欧洲龙虾的生物声学信号（嗡嗡声/甲壳振动）来分类龙虾的年龄（幼体/成体）和性别（雄性/雌性）。研究采用深度学习模型和六种机器学习模型，年龄分类准确率超过97%，性别分类准确率超过93.23%。这项非侵入性被动声学监测方法为龙虾保护、检测和水产养殖管理提供了有前景的技术支持，可实现水下物种的实时边缘计算应用。",
+      "attentionscore": 74.88,
+      "link": "https://arxiv.org/abs/2511.16848"
+    }
+  },
+  {
+    "output": {
+      "id": "id_48768013",
+      "title": "Generating transition states of chemical reactions via distance-geometry-based flow matching",
+      "title_zh": "基于距离几何的流匹配生成化学反应过渡态",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出TS-DFM流匹配框架，通过分子距离几何空间预测化学反应过渡态，准确捕捉原子间距离的动态变化。在Transition1X基准数据集上，TS-DFM的结构准确性比先前最优方法React-OT提高30%，并能提供高质量初始结构加速CI-NEB优化收敛。该框架还能识别替代反应路径，在实验中发现了能量势垒更低的有利过渡态，在RGD1数据集上展现出对未见分子和反应类型的强泛化能力。",
+      "attentionscore": 74.7,
+      "link": "https://arxiv.org/abs/2511.17229"
+    }
+  },
+  {
+    "output": {
+      "id": "id_440607006",
+      "title": "Hash Collisions in Molecular Fingerprints: Effects on Property Prediction and Bayesian Optimization",
+      "title_zh": "分子指纹中的哈希冲突：对性质预测和贝叶斯优化的影响",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究探讨了分子指纹中哈希冲突对性质预测和贝叶斯优化的影响。研究发现，在分子指纹方法中，哈希冲突导致不同子结构被表示为相同特征，从而高估分子相似性。使用精确指纹相比标准压缩指纹在DOCKSTRING数据集的五个分子性质预测基准上带来小幅但一致的准确性提升，但这些改进并未显著提升贝叶斯优化性能。",
+      "attentionscore": 74.7,
+      "link": "https://arxiv.org/abs/2511.17078"
+    }
+  },
+  {
+    "output": {
+      "id": "id_717932953",
+      "title": "FlexiFlow: decomposable flow matching for generation of flexible molecular ensemble",
+      "title_zh": "FlexiFlow：用于生成灵活分子集合的可分解流匹配方法",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "FlexiFlow是一种新型架构，扩展了流匹配模型，能够联合采样分子及其多个构象，同时保持等变性和置换不变性。该模型在QM9和GEOM Drugs数据集上表现出色，在分子生成任务中达到最先进水平，能够生成有效、无应变、独特且新颖的分子，同时捕捉分子的构象多样性。FlexiFlow还可成功应用于蛋白质条件配体生成任务。",
+      "attentionscore": 74.61,
+      "link": "https://arxiv.org/abs/2511.17249"
+    }
+  },
+  {
+    "output": {
+      "id": "id_303759108",
+      "title": "ManifoldFormer: Geometric Deep Learning for Neural Dynamics on Riemannian Manifolds",
+      "title_zh": "ManifoldFormer：黎曼流形上神经动力学的几何深度学习",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "ManifoldFormer提出了一种新颖的几何深度学习框架，专门用于学习神经流形表示。该架构整合了三个关键创新：黎曼变分自编码器用于保持几何结构的流形嵌入、具有测地线感知注意力机制的几何Transformer直接在神经流形上操作，以及利用神经常微分方程进行流形约束时间演化的动力学预测器。在四个公共数据集上的广泛评估显示，相比最先进方法，准确率提高4.6-4.8%，Cohen's Kappa提高6.2-10.2%，同时保持强大的跨被试泛化能力。",
+      "attentionscore": 74.61,
+      "link": "https://arxiv.org/abs/2511.16828"
+    }
+  },
+  {
+    "output": {
+      "id": "id_521013421",
+      "title": "Joint Design of Protein Surface and Structure Using a Diffusion Bridge Model",
+      "title_zh": "使用扩散桥模型联合设计蛋白质表面与结构",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出PepBridge框架，通过扩散桥模型联合设计蛋白质表面与结构。该模型从受体表面3D点云出发，使用去噪扩散桥模型将受体表面映射到配体表面，然后通过多模型扩散预测相应结构。Shape-Frame匹配网络确保表面几何与骨架结构对齐，实现表面互补性、构象稳定性和化学可行性。在多种蛋白质设计场景中的验证表明，该方法能生成结构可行的蛋白质，代表了蛋白质结构联合设计的重要进展。",
+      "attentionscore": 74.61,
+      "link": "https://arxiv.org/abs/2511.16675"
+    }
+  },
+  {
+    "output": {
+      "id": "id_334487597",
+      "title": "Provably Minimum-Length Conformal Prediction Sets for Ordinal Classification",
+      "title_zh": "可证明最小长度的序数分类符合预测集",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出了一种新的序数分类符合预测方法，该方法具有模型无关性和实例级最优预测区间。通过将问题表述为实例级最小长度覆盖问题，开发了线性时间复杂度的滑动窗口算法，在四个基准数据集上的实验表明，该方法比基线方法的预测效率平均提高了15%，同时保持了统计有效性保证。",
+      "attentionscore": 74.43,
+      "link": "https://arxiv.org/abs/2511.16845"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1908472181",
+      "title": "Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach",
+      "title_zh": "重新审视多模态KV缓存压缩：一种频域引导的异常KV感知方法",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出FlashCache框架，通过频域分析识别多模态KV矩阵中的异常KV对，优先保留这些关键特征，同时设计动态预算分配模块自适应确定每层KV缓存大小。实验表明，该方法在多个MLLM和基准测试中优于现有多模态KV压缩方法，实现解码速度提升1.69倍，KV内存使用降低80%，同时保持任务性能。",
+      "attentionscore": 74.43,
+      "link": "https://arxiv.org/abs/2511.16786"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1543677427",
+      "title": "Why Do Language Model Agents Whistleblow?",
+      "title_zh": "语言模型代理为何会举报？",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究探讨大型语言模型作为工具使用代理时出现的举报行为，即模型在未经用户指示或知情的情况下向对话边界外的第三方披露可疑不当行为。通过构建多样化现实场景评估套件，发现举报频率因模型而异，任务复杂度增加会降低举报倾向，道德提示显著提高举报率，而提供更多工具和详细工作流程则减少举报行为。",
+      "attentionscore": 74.07,
+      "link": "https://arxiv.org/abs/2511.17085"
+    }
+  },
+  {
+    "output": {
+      "id": "id_663976391",
+      "title": "PersonalizedRouter: Personalized LLM Routing via Graph-based User Preference Modeling",
+      "title_zh": "个性化路由器：基于图的用户偏好建模的个性化LLM路由",
+      "pubdate": "2025-11-24T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出PersonalizedRouter框架，通过图神经网络建模用户偏好，实现个性化大型语言模型选择。该框架将交互数据转换为异构图，捕捉用户查询与最优LLM之间的上下文关系。在包含1000个模拟用户和10个LLM的PersonaRoute-Bench基准测试中，该方法显著优于现有方法，提升幅度达15.38%-59.69%，同时保持更高效率，并展现出强大的少样本泛化能力。",
+      "attentionscore": 73.8,
+      "link": "https://arxiv.org/abs/2511.16883"
+    }
+  }
+]
