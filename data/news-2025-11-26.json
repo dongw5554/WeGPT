@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1232253508",
+      "title": "PeriodNet: Boosting the Potential of Attention Mechanism for Time Series Forecasting",
+      "title_zh": "PeriodNet：提升注意力机制在时间序列预测中的潜力",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出PeriodNet模型，通过引入周期注意力和稀疏周期注意力机制，增强对时间序列局部特征、周期模式和全局依赖关系的挖掘。该模型采用迭代分组机制减少跨变量冗余，并重新设计Transformer架构，添加周期扩散器进行精确多周期预测。在8个数据集上的实验表明，PeriodNet在单变量和多变量时间序列预测中均优于6个最先进模型，在720长度时间序列预测上相对改进达22%。",
+      "attentionscore": 77.41,
+      "link": "https://arxiv.org/abs/2511.19497"
+    }
+  },
+  {
+    "output": {
+      "id": "id_931978232",
+      "title": "Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles",
+      "title_zh": "基于一阶预言机的非凸-强凸双层优化复杂性下界研究",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究针对平滑非凸-强凸双层优化问题，开发了新的困难实例，在确定性和随机一阶预言机模型下获得了非平凡下界。在确定性情况下，证明任何一阶零尊重算法至少需要Ω(κ^{3/2}ε^{-2})次预言机调用才能找到ε精确驻点；在随机情况下，至少需要Ω(κ^{5/2}ε^{-4})次随机预言机调用。这些结果揭示了当前上下界之间的显著差距，表明即使简化机制也需要进一步研究以理解双层优化在一阶预言机下的最优复杂性。",
+      "attentionscore": 76.87,
+      "link": "https://arxiv.org/abs/2511.19656"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1832364278",
+      "title": "TouchFormer: A Robust Transformer-based Framework for Multimodal Material Perception",
+      "title_zh": "TouchFormer：基于Transformer的鲁棒多模态材料感知框架",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出TouchFormer，一种基于Transformer的鲁棒多模态材料感知框架。该框架采用模态自适应门控机制和内外模态注意力机制，自适应整合跨模态特征，增强模型鲁棒性。实验结果显示，TouchFormer在SSMC和USMC任务上的分类准确率分别提升2.48%和6.83%。真实机器人实验验证了其在环境感知方面的有效性，为紧急响应和工业自动化等安全关键应用铺平道路。",
+      "attentionscore": 76.23,
+      "link": "https://arxiv.org/abs/2511.19509"
+    }
+  },
+  {
+    "output": {
+      "id": "id_595672059",
+      "title": "Online Sparse Feature Selection in Data Streams via Differential Evolution",
+      "title_zh": "数据流中基于差分进化的在线稀疏特征选择",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本文提出了一种新颖的在线差分进化稀疏特征选择方法ODESFS，用于处理高维流数据。该方法通过潜在因子分析模型进行缺失值填补，并利用差分进化算法评估特征重要性。在六个真实数据集上的实验表明，ODESFS在特征子集选择和准确性方面均优于现有的OSFS和OS2FS方法，有效解决了数据不完整性和特征评估的局限性问题。",
+      "attentionscore": 75.34,
+      "link": "https://arxiv.org/abs/2511.19555"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1306618024",
+      "title": "Profile Generators: A Link between the Narrative and the Binary Matrix Representation",
+      "title_zh": "症状特征生成器：叙事与二进制矩阵表示之间的桥梁",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究开发了一种症状特征生成器，将DSM-5的叙事形式与二进制矩阵表示联系起来，能够自动生成有效的症状组合。该格式为复杂认知障碍提供了可读、适应性强且全面的替代方案，解决了大型矩阵管理困难的问题。通过条件生成器，可以计算复杂障碍之间的特定MPCS值，为心理健康诊断提供新的技术路径。",
+      "attentionscore": 75.07,
+      "link": "https://arxiv.org/abs/2511.19506"
+    }
+  },
+  {
+    "output": {
+      "id": "id_414217995",
+      "title": "Hidden markov model to predict tourists visited place",
+      "title_zh": "隐马尔可夫模型预测游客访问地点",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出一种基于社交网络数据分析的隐马尔可夫模型方法，用于理解和预测游客移动行为。该方法利用游客在社交媒体上留下的数字足迹，通过机器学习语法推断算法构建可编辑的隐马尔可夫模型。研究以法国巴黎为例验证了该方法的有效性，能够帮助旅游营销理解需求并改进决策支持。",
+      "attentionscore": 75.07,
+      "link": "https://arxiv.org/abs/2511.19465"
+    }
+  },
+  {
+    "output": {
+      "id": "id_407220101",
+      "title": "Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM",
+      "title_zh": "Xmodel-2.5：13亿参数的数据高效推理小型语言模型",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "XiaoduoAILab发布Xmodel-2.5，这是一个13亿参数的小型语言模型，专为边缘计算和成本敏感部署设计。采用最大更新参数化训练方法，允许从2000万参数代理模型直接迁移超参数到完整模型。使用1.4万亿token的预热-稳定-衰减课程训练，在衰减阶段从AdamW切换到Muon优化器，使13项推理任务平均性能提升4.58%。模型采用FP8混合精度训练平衡精度和吞吐量，所有检查点、配方和评估代码均以Apache-2.0许可证开源。",
+      "attentionscore": 74.54,
+      "link": "https://arxiv.org/abs/2511.19496"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1424538360",
+      "title": "PrefixGPT: Prefix Adder Optimization by a Generative Pre-trained Transformer",
+      "title_zh": "PrefixGPT：基于生成式预训练Transformer的前缀加法器优化",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出PrefixGPT，一种基于生成式预训练Transformer的模型，可直接从头生成优化的前缀加法器。该模型将加法器拓扑表示为二维坐标序列，并在生成过程中应用合法性掩码确保设计有效性。相比现有工作，PrefixGPT不仅找到了面积延迟积提升7.7%的新最优设计，还展现出卓越的探索质量，平均面积延迟积降低高达79.1%，展示了GPT风格模型在硬件设计优化中的巨大潜力。",
+      "attentionscore": 74.54,
+      "link": "https://arxiv.org/abs/2511.19472"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1653819164",
+      "title": "RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression",
+      "title_zh": "RFX：具有GPU加速和QLORA压缩的高性能随机森林",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "RFX v1.0推出生产就绪的随机森林分类实现，通过QLORA压缩技术将10万样本的GPU邻近矩阵内存从80GB降至6.4MB，实现12,500倍压缩并保持99%几何结构。该方案解决了传统随机森林分析仅能处理约6万样本的内存瓶颈，支持从1000到20万+样本的邻近计算，GPU相比CPU实现1.4倍加速。RFX v1.0消除了邻近内存瓶颈，使基于邻近的随机森林分析能够处理比以往大数个数量级的数据集。",
+      "attentionscore": 74.45,
+      "link": "https://arxiv.org/abs/2511.19493"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1850608421",
+      "title": "Row-stochastic matrices can provably outperform doubly stochastic matrices in decentralized learning",
+      "title_zh": "行随机矩阵在去中心化学习中可证明优于双随机矩阵",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究团队开发了加权希尔伯特空间框架，证明在去中心化学习中行随机矩阵比双随机矩阵具有更快的收敛速度。通过几何分析发现，行随机矩阵在加权空间中是自伴的，而双随机矩阵不是，这会产生额外的惩罚项放大共识误差。研究还推导了即使谱间隙更小，行随机设计也能更快收敛的充分条件，并提供了实用的拓扑设计指南。",
+      "attentionscore": 74.27,
+      "link": "https://arxiv.org/abs/2511.19513"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1614223751",
+      "title": "Beyond Binary Classification: A Semi-supervised Approach to Generalized AI-generated Image Detection",
+      "title_zh": "超越二元分类：一种用于广义AI生成图像检测的半监督方法",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "针对AI生成图像检测器在跨生成器泛化方面的不足，研究者提出TriDetect半监督方法。通过理论分析发现GAN和扩散模型在优化目标和流形覆盖行为上存在根本差异，导致不同伪影特征。TriDetect利用Sinkhorn-Knopp算法进行平衡聚类分配和跨视图一致性机制，学习基础架构差异。在多个基准测试中验证了该方法对未见生成器的泛化能力，显著提升了检测性能。",
+      "attentionscore": 74.27,
+      "link": "https://arxiv.org/abs/2511.19499"
+    }
+  },
+  {
+    "output": {
+      "id": "id_720198683",
+      "title": "House overhauls KOSA in a new kids online safety package",
+      "title_zh": "众议院在新的儿童在线安全一揽子计划中彻底改革KOSA法案",
+      "pubdate": "2025-11-25T23:05:55.000Z",
+      "creator": "",
+      "source": "The Verge AI",
+      "ai_summary": "美国众议院能源与商业委员会推出包含19项法案的儿童在线安全一揽子计划，旨在保护未成年人网络安全。其中备受争议的《儿童在线安全法案》(KOSA)新版本删除了平台对服务造成伤害的法律责任条款，改为要求社交媒体平台制定合理政策应对暴力威胁、性剥削、毒品交易和金融欺诈等四类具体危害。该方案还包括提高隐私保护年龄至17岁、禁止定向广告以及限制16岁以下青少年使用社交媒体账户等条款。",
+      "attentionscore": 73.96,
+      "link": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package"
+    }
+  },
+  {
+    "output": {
+      "id": "id_327311707",
+      "title": "TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding",
+      "title_zh": "TREASURE：基于Transformer的高容量交易理解基础模型",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出TREASURE，一种基于Transformer的多用途基础模型，专门用于处理交易数据。该模型同时捕捉消费者行为和支付网络信号，具备三个关键能力：专门处理静态和动态属性的输入模块、高效训练范式以及作为独立模型和嵌入提供者的双重功能。验证显示，异常行为检测性能提升111%，推荐模型增强104%。",
+      "attentionscore": 73.56,
+      "link": "https://arxiv.org/abs/2511.19693"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1726713425",
+      "title": "Learning to Solve Weighted Maximum Satisfiability with a Co-Training Architecture",
+      "title_zh": "基于协同训练架构学习解决加权最大可满足性问题",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出SplitGNN方法，这是一种基于图神经网络的加权最大可满足性问题解决方案。该方法采用协同训练架构，结合监督消息传递机制和无监督解增强层，并引入边分裂因子图的新表示方法。实验表明，SplitGNN收敛速度快3倍，预测效果优于其他GNN架构，在更大更难的加权MaxSAT基准测试中超越了现代启发式求解器，展现出优异的泛化能力。",
+      "attentionscore": 73.2,
+      "link": "https://arxiv.org/abs/2511.19544"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1238031495",
+      "title": "The Generalized Proximity Forest",
+      "title_zh": "广义邻近森林",
+      "pubdate": "2025-11-26T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出广义邻近森林模型，将随机森林邻近性扩展到所有基于距离的监督机器学习场景。该模型还引入了回归任务变体，并可作为元学习框架，将监督插补能力扩展到任何预训练分类器。实验证明，广义邻近森林模型相比随机森林和k近邻模型具有独特优势，为时间序列分析等任务提供了新的邻近性计算方法。",
+      "attentionscore": 73.11,
+      "link": "https://arxiv.org/abs/2511.19487"
+    }
+  }
+]
