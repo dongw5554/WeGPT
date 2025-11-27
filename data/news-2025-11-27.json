@@ -1,0 +1,197 @@
+[
+  {
+    "output": {
+      "id": "id_1181715558",
+      "title": "Exploring Time-Step Size in Reinforcement Learning for Sepsis Treatment",
+      "title_zh": "探索强化学习在脓毒症治疗中的时间步长设置",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究系统评估了强化学习在脓毒症治疗中不同时间步长（1、2、4、8小时）的影响。通过设计动作重映射方法和跨时间步长的模型选择，研究发现更精细的时间步长（1小时和2小时）使用静态行为策略能够获得最佳性能和稳定性。这项工作强调了时间步长作为医疗保健离线强化学习的核心设计选择，为超越传统4小时设置提供了实证支持。",
+      "attentionscore": 79.6,
+      "link": "https://arxiv.org/abs/2511.20913"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1061065379",
+      "title": "Autoregressive Surrogate Modeling of the Solar Wind with Spherical Fourier Neural Operator",
+      "title_zh": "基于球面傅里叶神经算子的太阳风自回归代理建模",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了首个基于球面傅里叶神经算子的自回归机器学习代理模型，用于预测稳态太阳风径向速度。该方法通过预测有限径向范围并迭代向外传播解，相比单步方法在远距离区域提高了精度。与数值HUX代理相比，SFNO表现出相当或更优性能，同时提供了灵活、可训练和数据驱动的替代方案，为高保真太阳风建模建立了新方法学。",
+      "attentionscore": 77.9,
+      "link": "https://arxiv.org/abs/2511.20830"
+    }
+  },
+  {
+    "output": {
+      "id": "id_2036325258",
+      "title": "Prediction of Herd Life in Dairy Cows Using Multi-Head Attention Transformers",
+      "title_zh": "使用多头注意力变压器预测奶牛群寿命",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "澳大利亚研究人员开发了一种基于多头注意力变压器的人工智能模型，用于预测奶牛在牛群中的寿命。该模型分析了来自7个农场19,000头奶牛的约78万条历史多变量时间序列数据。结果显示，该模型在预测奶牛群寿命方面达到了83%的决定系数，表明其在奶牛群管理实践中具有重要应用潜力，有助于农民识别更具适应性的奶牛并做出更科学的饲养决策。",
+      "attentionscore": 77.34,
+      "link": "https://arxiv.org/abs/2511.21034"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1972698696",
+      "title": "Probabilistic Hash Embeddings for Online Learning of Categorical Features",
+      "title_zh": "概率哈希嵌入用于在线学习分类特征",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出概率哈希嵌入模型，用于处理在线学习环境中词汇不断变化的分类特征。该模型通过贝叶斯在线学习方法，能够适应新项目而不遗忘旧项目，对项目到达顺序具有不变性。在分类、序列建模和推荐系统的在线学习实验中表现出优越性能，同时保持高内存效率，仅消耗独热编码表2-4%的内存。",
+      "attentionscore": 76.98,
+      "link": "https://arxiv.org/abs/2511.20893"
+    }
+  },
+  {
+    "output": {
+      "id": "id_835482265",
+      "title": "Staggered Environment Resets Improve Massively Parallel On-Policy Reinforcement Learning",
+      "title_zh": "交错环境重置改善大规模并行在线强化学习",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出了一种名为'交错重置'的新技术，通过让环境在不同时间点初始化和重置，解决了大规模并行GPU模拟环境中同步重置导致的非平稳性问题。该方法显著提高了训练样本效率，在高维机器人环境中实现了更快的收敛速度和更强的最终性能，且随着并行环境数量的增加，其优势更加明显。",
+      "attentionscore": 76.54,
+      "link": "https://arxiv.org/abs/2511.21011"
+    }
+  },
+  {
+    "output": {
+      "id": "id_946732042",
+      "title": "CNN-LSTM Hybrid Architecture for Over-the-Air Automatic Modulation Classification Using SDR",
+      "title_zh": "基于SDR的空中自动调制分类CNN-LSTM混合架构",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究团队提出了一种基于CNN-LSTM混合架构的自动调制分类系统，结合软件定义无线电平台。该系统利用CNN提取空间特征，LSTM捕获时间依赖性，能够有效处理复杂时变通信信号。在混合数据集上训练后，模型达到93.48%的准确率，验证了该架构在自适应频谱管理和认知无线电系统中的潜在应用价值。",
+      "attentionscore": 76.27,
+      "link": "https://arxiv.org/abs/2511.21040"
+    }
+  },
+  {
+    "output": {
+      "id": "id_109181053",
+      "title": "Effects of Initialization Biases on Deep Neural Network Training Dynamics",
+      "title_zh": "初始化偏差对深度神经网络训练动态的影响",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "最新研究发现，未经训练的大型神经网络在随机初始化后存在初始猜测偏差，倾向于偏好少数类别。这种偏差影响早期训练动态，损失函数的选择对此阶段有显著影响。Blurry和Piecewise-zero损失函数虽然对标签错误具有鲁棒性，但在面对初始偏差时可能无法有效指导训练方向。研究强调了在训练方案中需要仔细考虑初始猜测偏差与各组件之间的相互作用。",
+      "attentionscore": 76.09,
+      "link": "https://arxiv.org/abs/2511.20826"
+    }
+  },
+  {
+    "output": {
+      "id": "id_627314237",
+      "title": "MNM : Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations",
+      "title_zh": "MNM：基于双曲脑-文本表征的多层次神经影像元分析",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种创新的神经影像元分析框架MNM，利用双曲几何在洛伦兹模型中嵌入研究文献文本和脑激活图像，构建共享的双曲空间。该方法通过三个关键步骤实现多层次分析：对齐脑-文本嵌入以获得语义对应、引导文本与脑激活之间的层次关系、保持脑激活模式内的层次结构。实验结果表明，该模型优于基线方法，为神经影像元分析提供了稳健且可解释的新范式。",
+      "attentionscore": 75.91,
+      "link": "https://arxiv.org/abs/2511.21092"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1723980747",
+      "title": "Operationalizing Quantized Disentanglement",
+      "title_zh": "量化解缠结的操作化",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员开发了一种名为Cliff的无监督解缠结方法，通过鼓励轴对齐的不连续性来恢复量化因子。该方法基于理论假设，即量化阈值对应于潜在因子概率密度的轴对齐不连续性。Cliff方法在所有解缠结基准测试中都优于基线方法，证明了其在无监督解缠结中的有效性。该方法将不连续性表现为因子估计密度的急剧变化，形成所谓的悬崖，并鼓励沿因子的悬崖位置与其他因子的值保持独立。",
+      "attentionscore": 75.91,
+      "link": "https://arxiv.org/abs/2511.20927"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1801104272",
+      "title": "RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression",
+      "title_zh": "RAVQ-HoloNet：速率自适应矢量量化全息图压缩",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出RAVQ-HoloNet速率自适应矢量量化框架，解决了全息图在AR/VR应用中数据压缩需求高的难题。该技术能在低比特率和超低比特率下实现高保真重建，性能优于现有最先进方法。在低比特率下，BD-Rate降低33.91%，BD-PSNR达到1.02dB，展现了卓越的率失真性能。",
+      "attentionscore": 75.73,
+      "link": "https://arxiv.org/abs/2511.21035"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1193960541",
+      "title": "Probabilistic Wildfire Spread Prediction Using an Autoregressive Conditional Generative Adversarial Network",
+      "title_zh": "使用自回归条件生成对抗网络进行概率性野火蔓延预测",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "本研究提出了一种基于自回归条件生成对抗网络(CGAN)的概率性野火蔓延预测方法。该模型通过自回归方式学习序列状态转换，确保长期预测稳定性。实验结果表明，该CGAN模型在整体预测精度和火场边界描绘方面优于传统深度学习模型，能够捕捉野火蔓延的强非线性和不确定性，为时效性响应和疏散规划提供了有前景的基础。",
+      "attentionscore": 75.73,
+      "link": "https://arxiv.org/abs/2511.21019"
+    }
+  },
+  {
+    "output": {
+      "id": "id_396016117",
+      "title": "Estimating Ising Models in Total Variation Distance",
+      "title_zh": "在总变差距离中估计伊辛模型",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究提出了在总变差距离中估计伊辛模型的新方法，针对具有有界算子范数且满足修正对数索博列夫不等式的模型，以及具有有界无穷范数的模型两类。研究展示了最大伪似然估计器在这两类模型中的统一分析框架，为多项式时间算法和最优或接近最优样本复杂度提供了理论保证，填补了该领域统一框架的空白。",
+      "attentionscore": 75.73,
+      "link": "https://arxiv.org/abs/2511.21008"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1346186179",
+      "title": "Efficient Diffusion Planning with Temporal Diffusion",
+      "title_zh": "基于时序扩散的高效扩散规划",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出了一种名为时序扩散规划器（TDP）的新方法，通过将去噪步骤分布在时间维度上，显著提高了扩散规划的决策效率。与之前每个时间步都生成新计划的方法相比，TDP仅用少量去噪步骤更新先前计划，将决策频率提高了11-24.8倍，同时在D4RL基准测试中实现了相当或更好的性能。该方法还引入了自动重新规划机制，防止计划与现实出现显著偏差。",
+      "attentionscore": 75.29,
+      "link": "https://arxiv.org/abs/2511.21054"
+    }
+  },
+  {
+    "output": {
+      "id": "id_853211750",
+      "title": "Gradient Descent Algorithm Survey",
+      "title_zh": "梯度下降算法综述",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "该研究聚焦深度学习优化算法的实际配置需求，系统分析了SGD、Mini-batch SGD、Momentum、Adam和Lion五大算法的核心优势、局限性和关键实践建议。研究旨在深入理解这些算法，为学术研究和工程实践中优化算法的合理选择、参数调优和性能提升提供标准化参考，帮助解决不同规模模型和各类训练场景中的优化挑战。",
+      "attentionscore": 75.2,
+      "link": "https://arxiv.org/abs/2511.20725"
+    }
+  },
+  {
+    "output": {
+      "id": "id_1023548051",
+      "title": "MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts",
+      "title_zh": "MLPMoE：将密集LLM多层感知器零样本架构转变为静态专家混合模型",
+      "pubdate": "2025-11-27T05:00:00.000Z",
+      "creator": "",
+      "source": "arXiv ML (cs.LG)",
+      "ai_summary": "研究人员提出MLPMoE方法，无需训练即可将密集Transformer中的多层感知器转换为静态专家混合模型。该方法使用简单的张量切片和求和操作，将参数并行代数重新解释为拓扑转换。在Qwen2.5-0.5B和DeepSeek-R1-8B模型上测试显示，零样本转换后困惑度变化小于0.05%，同时保持参数数量基本不变。该方法完全基于现有检查点操作，无需梯度、校准集或路由器训练。",
+      "attentionscore": 74.49,
+      "link": "https://arxiv.org/abs/2511.21089"
+    }
+  }
+]
